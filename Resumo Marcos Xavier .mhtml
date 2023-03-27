@@ -1,0 +1,4808 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/lordm/Desktop/cv/cv-white-dark-downloadPDF/index.html
+Subject: Responsive resume cv
+Date: Mon, 27 Mar 2023 14:08:33 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--xOLYxS5LA0BXbcgYgtbG5QDoQVBKAOa5MhtnnOTi1k----"
+
+
+------MultipartBoundary--xOLYxS5LA0BXbcgYgtbG5QDoQVBKAOa5MhtnnOTi1k----
+Content-Type: text/html
+Content-ID: <frame-9669605049CD22442F505E1B29C70473@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/lordm/Desktop/cv/cv-white-dark-downloadPDF/index.html
+
+<!DOCTYPE html><!-- saved from url=3D(0058)http://127.0.0.1:5500/cv-white-d=
+ark-downloadPDF/index.html --><html lang=3D"en"><head><meta http-equiv=3D"C=
+ontent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet=
+" type=3D"text/css" href=3D"cid:css-5c087bae-b68b-4abc-afbf-6789016a52c9@mh=
+tml.blink" />
+   =20
+
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+
+    <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D BOX ICONS =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D-->
+    <link rel=3D"stylesheet" href=3D"file:///C:/Users/lordm/Desktop/cv/cv-w=
+hite-dark-downloadPDF/index_files/boxicons.min.css">
+
+    <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D CSS =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D--=
+>
+   <!-- <link rel=3D"stylesheet" href=3D"./index_files/styles.css">-->
+   =20
+    <title>Responsive resume cv</title>
+</head>
+
+<body class=3D"scale- dark-theme">
+    <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D HEADER =3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D-->
+    <header class=3D"l-header" id=3D"header">
+        <nav class=3D"nav bd-container">
+            <a href=3D"file:///C:/Users/lordm/Desktop/cv/cv-white-dark-down=
+loadPDF/index.html" class=3D"nav__logo">Marcos</a>
+
+            <div class=3D"nav__menu" id=3D"nav-menu">
+                <ul class=3D"nav__list">
+                    <li class=3D"nav__list">
+                        <a href=3D"http://127.0.0.1:5500/cv-white-dark-down=
+loadPDF/index.html#home" class=3D"nav__link active-link">
+                            <i class=3D"bx bx-home-smile nav__icon"></i>Hom=
+e
+                        </a>
+                    </li>
+                    <li class=3D"nav__list">
+                        <a href=3D"http://127.0.0.1:5500/cv-white-dark-down=
+loadPDF/index.html#profile" class=3D"nav__link">
+                            <i class=3D"bx bx-user-circle nav__icon"></i>Pe=
+rfil
+                        </a>
+                    </li>
+                    <li class=3D"nav__list">
+                        <a href=3D"http://127.0.0.1:5500/cv-white-dark-down=
+loadPDF/index.html#education" class=3D"nav__link">
+                            <i class=3D"bx bx-book-content nav__icon"></i>E=
+duca=C3=A7=C3=A3o
+                        </a>
+                    </li>
+                    <li class=3D"nav__list">
+                        <a href=3D"http://127.0.0.1:5500/cv-white-dark-down=
+loadPDF/index.html#skills" class=3D"nav__link">
+                            <i class=3D"bx bx-extension nav__icon"></i>Habi=
+lidades
+                        </a>
+                    </li>
+                    <li class=3D"nav__list">
+                        <a href=3D"http://127.0.0.1:5500/cv-white-dark-down=
+loadPDF/index.html#experience" class=3D"nav__link active-link">
+                            <i class=3D"bx bx-briefcase-alt-2 nav__icon"></=
+i>Experi=C3=AAncia
+                        </a>
+                    </li>
+                    <li class=3D"nav__list">
+                        <a href=3D"http://127.0.0.1:5500/cv-white-dark-down=
+loadPDF/index.html#certificates" class=3D"nav__link">
+                            <i class=3D"bx bx-bookmarks nav__icon"></i>Cert=
+ificados
+                        </a>
+                    </li>
+                    <li class=3D"nav__list">
+                        <a href=3D"http://127.0.0.1:5500/cv-white-dark-down=
+loadPDF/index.html#references" class=3D"nav__link">
+                            <i class=3D"bx bx-paper-plane nav__icon"></i>Re=
+fer=C3=AAncias
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class=3D"nav__toggle" id=3D"nav-toggle">
+                <i class=3D"bx bx-grid-alt"></i>
+            </div>
+        </nav>
+    </header>
+
+    <main class=3D"l-main bd-container">
+        <!-- All elements within this div, is generated in PDF -->
+        <div class=3D"resume" id=3D"area-cv">
+            <div class=3D"resume__left">
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D HOME =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D-->
+                <section class=3D"home" id=3D"home">
+                    <div class=3D"home__container section bd-grid">
+                        <div class=3D"home__data bd-grid">
+                            <img src=3D"https://media.licdn.com/dms/image/C=
+4D03AQEH3ZhpxhdHBQ/profile-displayphoto-shrink_800_800/0/1635186999747?e=3D=
+1685577600&amp;v=3Dbeta&amp;t=3DiW-5Gvy9cOTXdSYC8o_M-MLyIjI-RGJJC5qnCX1Atx0=
+" alt=3D"" class=3D"home__img">
+
+                            <h1 class=3D"home__title">Marcos<b>Xavier</b></=
+h1>
+                            <h3 class=3D"home__profession">Analista de ETL<=
+/h3>
+                            <div>
+                                <a download=3D"" href=3D"http://127.0.0.1:5=
+500/cv-white-dark-downloadPDF/assets/pdf/ResumeCv.pdf" class=3D"home__butto=
+n-movil">Download</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class=3D"home__adress bd-grid">
+                        <span class=3D"home__information">
+                            <b> </b>Rua Atalaia, 77, S=C3=A3o Roque, Queima=
+dos-RJ
+                        </span>
+                        <span class=3D"home__information">
+                            <b></b><a href=3D"mailto:marcosxavier.web@gmail=
+.com">marcosxavier.web@gmail.com</a>
+                        </span>
+                        <span class=3D"home__information">
+                            <b></b><a href=3D"callto:+55(21)976740951">+55 =
+(21)976740951</a>
+                        </span>
+                    </div>
+                    <!-- Theme change button -->
+                   =20
+
+                    <!-- Button to generate and download the pdf. Available=
+ for desktop. -->
+                   =20
+                </section>
+
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D SOCIAL =3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D-->
+                <section class=3D"social section">
+                    <h2 class=3D"section-title">SOCIAL</h2>
+
+                    <div class=3D"social__container bd-grid">
+                        <a href=3D"https://www.linkedin.com/in/marcos-s-xav=
+ier/" target=3D"_blank" class=3D"social__link">
+                            <svg xmlns=3D"http://www.w3.org/2000/svg" viewB=
+ox=3D"0 0 24 24" data-supported-dps=3D"24x24" fill=3D"currentColor" class=
+=3D"mercado-match" width=3D"24" height=3D"24" focusable=3D"false">
+                                <path d=3D"M20.5 2h-17A1.5 1.5 0 002 3.5v17=
+A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-=
+9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74=
+c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h=
+2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
+                              </svg>
+                            <b>Marcos Xavier</b>
+                        </a>
+
+                    </div>
+                </section>
+
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D PROFILE =3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D-->
+                <section class=3D"profile section" id=3D"profile">
+                    <h2 class=3D"section-title">Perfil</h2>
+
+                    <p class=3D"profile__description">Profissional autodita=
+ta, obeservador, dedicado, comunicativo,
+                        automotivado e em constante aprimoramento.</p>
+                </section>
+
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D EDUCATION =3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D-->
+                <section class=3D"education section" id=3D"education">
+                    <h2 class=3D"section-title">Educa=C3=A7=C3=A3o</h2>
+
+                    <div class=3D"education__container bd-grid">
+
+                        <div class=3D"education__content">
+                            <div class=3D"education__time">
+                                <span class=3D"education__rounder"></span>
+                                <span class=3D"education__line"></span>
+                            </div>
+                            <div class=3D"education__data bd-grid">
+                                <h3 class=3D"education__title">Tecnologia e=
+m Sistemas de Computa=C3=A7=C3=A3o</h3>
+                                <span class=3D"education__studies">Universi=
+dade Federal Fluminense</span>
+                                <span class=3D"education__year">2021-2024</=
+span>
+                            </div>
+                        </div>
+                        <div class=3D"education__content">
+                            <div class=3D"education__time">
+                                <span class=3D"education__rounder"></span>
+                                <!--<span class=3D"education__line"></span>=
+-->
+                            </div>
+                            <div class=3D"education__data bd-grid">
+                                <h3 class=3D"education__title">Bacharelado =
+em Sistemas de Informa=C3=A7=C3=A3o</h3>
+                                <span class=3D"education__studies">Ampli</s=
+pan>
+                                <span class=3D"education__year">2022-2026</=
+span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D SKILLS  =3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D-->
+                <section class=3D"skills section" id=3D"skills">
+                    <h2 class=3D"section-title">Habilidades</h2>
+
+                    <div class=3D"skills__content bd-grid">
+                        <ul class=3D"skills__data">
+                            <li class=3D"skills__name">
+                                <span class=3D"skills__circle"></span> Pyth=
+on
+                            </li>
+                            <li class=3D"skills__name">
+                                <span class=3D"skills__circle"></span> Spar=
+k
+                            </li>
+                            <li class=3D"skills__name">
+                                <span class=3D"skills__circle"></span> Hado=
+op
+                            </li>
+                            <li class=3D"skills__name">
+                                <span class=3D"skills__circle"></span> Airf=
+low
+                            </li>
+                        </ul>
+                        <ul class=3D"skills__data">
+                            <li class=3D"skills__name">
+                                <span class=3D"skills__circle"></span> Linu=
+x
+                            </li>
+                            <li class=3D"skills__name">
+                                <span class=3D"skills__circle"></span> AWS
+                            </li>
+                            <li class=3D"skills__name">
+                                <span class=3D"skills__circle"></span> Powe=
+rBI
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+
+            </div>
+
+            <div class=3D"resume__right">
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D EXPERIENCE =3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D-->
+                <section class=3D"experience section" id=3D"experience">
+                    <h2 class=3D"experience section-title" id=3D"experience=
+">Experi=C3=AAncia</h2>
+
+                    <div class=3D"experience__container bd-grid">
+                        <div class=3D"experience__content">
+                            <div class=3D"experience__time">
+                                <span class=3D"experience__rounder"></span>
+                                <span class=3D"experience__line"></span>
+                            </div>
+
+                            <div class=3D"experience__data bd-grid">
+                                <h3 class=3D"experience__title">
+                                    Auxiliar de log=C3=ADstica - ACSC - Ass=
+ocia=C3=A7=C3=A3o Congrega=C3=A7=C3=A3o de Santa Catarina</h3>
+                                <span class=3D"experience__company">jul de =
+2017 - jun de 2018</span>
+                                <p class=3D"experience__description"> Confe=
+rencia de lotes de medicamentos e materiais
+                                    hospitalares diversos; Encaminhar medic=
+amentos e outros materiais para armazenagem;
+                                    Conferir lastro de embalagem; Conferir =
+materiais por subgrupo; Arquivar documentos;
+                                    Enviar documentos fiscais para o setor =
+cont=C3=A1bil; Lan=C3=A7ar baixa de
+                                    medicamentos/materiais; Atender solicit=
+a=C3=A7=C3=B5es reposi=C3=A7=C3=A3o de estoque; Etiquetar,
+                                    fracionar, separar medicamentos/materia=
+is por destinat=C3=A1rio</p>
+                            </div>
+                        </div>
+
+                        <div class=3D"experience__content">
+                            <div class=3D"experience__time">
+                                <span class=3D"experience__rounder"></span>
+                                <span class=3D"experience__line"></span>
+                            </div>
+
+                            <div class=3D"experience__data bd-grid">
+                                <h3 class=3D"experience__title">Assistente =
+de Opera=C3=A7=C3=B5es Acad=C3=AAmicas - UNIGRANRIO</h3>
+                                <span class=3D"experience__company">mar de =
+2021 - jun de 2021</span>
+                                <p class=3D"experience__description">Opera=
+=C3=A7=C3=A3o e suporte a sistemas de agendamento e provas
+                                    - SGP,
+                                    opera=C3=A7=C3=A3o e suporte ao ambient=
+e de Acesso Vitual do Aluno - AVA, implementa=C3=A7=C3=A3o de
+                                    novas ferramentas Blackboard, elabora=
+=C3=A7=C3=A3o e gerenciamento de planilhas, cruzamento de
+                                    dados
+                                    atrav=C3=A9s da ferramenta DataStudio d=
+entre outros.</p>
+                            </div>
+                        </div>
+
+
+                        <div class=3D"experience__content">
+                            <div class=3D"experience__time">
+                                <span class=3D"experience__rounder"></span>
+                                <span class=3D"experience__line"></span>
+                            </div>
+
+                            <div class=3D"experience__data bd-grid">
+                                <h3 class=3D"experience__title">
+                                    Front-End Web Developer - Freelancer</h=
+3>
+                                <span class=3D"experience__company">jun de =
+2021 - set de 2021</span>
+                                <p class=3D"experience__description">Cria=
+=C3=A7=C3=A3o websites, landing pages, hotsites, blogs e
+                                    aplica=C3=A7=C3=B5es web otimizadas e r=
+esponsivas; Manuten=C3=A7=C3=A3o e melhoria constante dessas
+                                    plataformas; Otimiza=C3=A7=C3=B5es para=
+ garantir usabilidade;
+                                    Desenvolvimento plataformas funcionais =
+em diferentes navegadores e dispositivos;
+                                    Atua=C3=A7=C3=A3o conjunta a desenvolve=
+dores Back-end e Web Designers para garantir os
+                                    melhores visuais e funcionabilidade; Cr=
+ia=C3=A7=C3=A3o mockups e prot=C3=B3tipos; </p>
+                            </div>
+                        </div>
+                        <div class=3D"experience__content">
+                            <div class=3D"experience__time">
+                                <span class=3D"experience__rounder"></span>
+                                <span class=3D"experience__line"></span>
+                                <!--<span class=3D"experience__line"></span=
+>-->
+                            </div>
+                            <div class=3D"experience__data bd-grid">
+                                <h3 class=3D"experience__title"> Auxiliar d=
+e Projetos em Tecnologia da Informa=C3=A7=C3=A3o - EY
+                                </h3>
+                                <span class=3D"experience__company">out de =
+2021 - jun de 2022</span>
+                                <p class=3D"experience__description">Coleta=
+, transforma=C3=A7=C3=A3o, armazenamento e entrega de
+                                    dados, trabalhando na an=C3=A1lise e vi=
+abilidade para Auditoria Digital;
+                                    Constru=C3=A7=C3=A3o e otimiza=C3=A7=C3=
+=A3o de fluxos ETL;
+                                    Integra=C3=A7=C3=A3o, revis=C3=A3o e va=
+lida=C3=A7=C3=A3o de dados disponibilizados para o time de Auditoria,
+                                    interagindo com equipes multidisciplina=
+res;
+                                    Alteryx como ferramenta de tratamento d=
+e dados;
+                                    Uso de metodologias =C3=A1geis como Kan=
+ban e Scrum.;
+                                    Uso da plataforma Jira; </p>
+                            </div>
+                        </div>
+                        <div class=3D"experience__content">
+                            <div class=3D"experience__time">
+                                <span class=3D"experience__rounder"></span>
+                                <!--<span class=3D"experience__line"></span=
+>-->
+                            </div>
+
+                            <div class=3D"experience__data bd-grid">
+                                <h3 class=3D"experience__title"> Analista d=
+e sistemas de dados - UBC </h3>
+                                <span class=3D"experience__company">jun de =
+2022 - o momento </span>
+                                <p class=3D"experience__description">Cria=
+=C3=A7=C3=A3o e manuten=C3=A7=C3=A3o de aplica=C3=A7=C3=B5es em Python para
+                                    extra=C3=A7=C3=A3o, transforma=C3=A7=C3=
+=A3o e carga de dados (ETL)
+                                    ;Constru=C3=A7=C3=A3o, gerenciamento, c=
+onfigura=C3=A7=C3=A3o e coordena=C3=A7=C3=A3o automatizada de pipelines
+                                    (DAG's) integradas ao Apache Airflow
+                                    ;Computa=C3=A7=C3=A3o distribu=C3=ADda =
+com Spark e Hadoop
+                                    ;Cria=C3=A7=C3=A3o e manuten=C3=A7=C3=
+=A3o de aplica=C3=A7=C3=B5es PySpark/Pandas para processamento de dados.
+                                    ;Automa=C3=A7=C3=A3o rob=C3=B3tica de p=
+rocessos (RPA) com Python
+                                    ;Troubleshooting no ecossistema de Big =
+Data
+                                    ;Tunning de Queries PL/SQL
+                                    ;Oracle Linux (RHEL)
+                                    ;Debian GNU/Linux
+                                    ;SUSE Linux Enterprise Server (SLES)
+                                    ;Versionamento com GIT
+                                    ;Azure DevOps
+                                    ;Opera=C3=A7=C3=B5es de containers - Do=
+cker</p>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+                </section>
+
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D CERTIFICATES =3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D-->
+                <section class=3D"certificate section" id=3D"certificates">
+                    <h2 class=3D"section-title">Certificados </h2>
+                    <a href=3D"https://www.linkedin.com/in/marcos-s-xavier/=
+details/certifications/"> Ver Mais</a>
+                    <p> </p>
+
+                    <div class=3D"certificate__container bd-grid">
+                        <div class=3D"certificate__content">
+                            <h3 class=3D"certificate__title">Cloud Data Eng=
+ineer #2</h3>
+                            <p class=3D"certificate__description">Conte=C3=
+=BAdo abordado: Linux, Haddop, MySQL, MongoDB,
+                                Cassanda, Hbase, Yarn, Zookeeper, Sqoop, Hi=
+ve, Impala, Spark, Azure</p>
+                            <p class=3D"certificate__description">Dura=C3=
+=A7=C3=A3o: 91hs</p>
+                        </div>
+                        <div class=3D"certificate__content">
+                            <h3 class=3D"certificate__title">Bootcamp Cloud=
+ AWS</h3>
+                            <p class=3D"certificate__description">Conte=C3=
+=BAdo abordado: </p>
+                            <p class=3D"certificate__description">Dura=C3=
+=A7=C3=A3o: 73hs</p>
+                        </div>
+
+                        <div class=3D"certificate__content">
+                            <h3 class=3D"certificate__title">EY Analytics -=
+ Data Science</h3>
+                            <p class=3D"certificate__description">Conte=C3=
+=BAdo abordado: Big data =C2=B7 SQL =C2=B7 Capacidade anal=C3=ADtica
+                                =C2=B7 Anal=C3=ADtica de dados =C2=B7 An=C3=
+=A1lise de dados =C2=B7 ETL (Extra=C3=A7=C3=A3o, transforma=C3=A7=C3=A3o e =
+carregamento) =C2=B7
+                                Arquitetura e Modelagem de Dados</p>
+                            <p class=3D"certificate__description">Dura=C3=
+=A7=C3=A3o: 15hs</p>
+                        </div>
+                        <div class=3D"certificate__content">
+                            <h3 class=3D"certificate__title">Y Analytics - =
+Data Integration</h3>
+                            <p class=3D"certificate__description">Conte=C3=
+=BAdo abordado: Big data =C2=B7 SQL/NoSQL =C2=B7 Capacidade
+                                anal=C3=ADtica =C2=B7Linux =C2=B7 An=C3=A1l=
+ise de dados =C2=B7 ETL com Spark =C2=B7 Arquitetura e Modelagem de Dados
+                            </p>
+                            <p class=3D"certificate__description">Dura=C3=
+=A7=C3=A3o:20hs</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D REFERENCES =3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D-->
+                <!--<section class=3D"references section" id=3D"references"=
+>
+                        <h2 class=3D"section-title">Referencias</h2>
+
+                        <div class=3D"references__container bd-grid">
+                            <div class=3D"references__content bd-grid">
+                                <span class=3D"references__subtitle">Refer=
+=C3=AAncia 1</span>
+                                <h3 class=3D"references__title">Nome da Ref=
+er=C3=AAcia</h3>
+                                <ul class=3D"references__contact">
+                                    <li>Telefone: </li>
+                                    <li>Email: </li>
+                                </ul>
+                            </div>
+
+                            <div class=3D"references__content bd-grid">
+                                <span class=3D"references__subtitle">Refer=
+=C3=AAncia 2</span>
+                                <h3 class=3D"references__title">Nome da Ref=
+er=C3=AAcia</h3>
+                                <ul class=3D"references__contact">
+                                    <li>Telefone: </li>
+                                    <li>Email: </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>-->
+
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D LANGUAGES =3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D-->
+                <section class=3D"languages section">
+                    <h2 class=3D"section-title">L=C3=ADnguas</h2>
+
+                    <div class=3D"languages__container">
+                        <ul class=3D"languages__content bd-grid">
+                            <li class=3D"languages__name">
+                                <span class=3D"languages__circle">
+                                    <p></p>
+                                </span> Espanhol
+                            </li><li class=3D"languages__name">
+                            </li><li class=3D"languages__name">
+                            </li><li class=3D"languages__name">
+                                <span class=3D"languages__circle">
+                                    <p></p>
+                                </span>Ingl=C3=AAs
+                            </li><li class=3D"languages__name">
+                            </li><li class=3D"languages__name">
+                            </li><li class=3D"languages__name">
+                                <span class=3D"languages__circle">
+                                    <p></p>
+                                </span>Franc=C3=AAs
+                            </li>
+                            <!--<li class=3D"languages__name">
+                                    <span class=3D"languages__circle"></spa=
+n> Portuguese
+                                </li> -->
+                        </ul>
+                    </div>
+                </section>
+
+                <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D INTERESTS =3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D
+                <section class=3D"interests section">
+                    <h2 class=3D"section-title">Interesses</h2>
+                    <div class=3D"interests__container bd-grid">
+                        <div class=3D"interests__content">
+                            <i class=3D"bx bx-book-content interests__icon"=
+></i>
+                            <span class=3D"interests__name">M=C3=BAsica</sp=
+an>
+                        </div>
+                        <div class=3D"interests__content">
+                            <i class=3D"bx bx-book interests__icon"></i>
+                            <span class=3D"interests__name">Leitura</span>
+                        </div>
+                        <div class=3D"interests__content">
+                            <i class=3D"bx bxl-steam interests__icon"></i>
+                            <span class=3D"interests__name">Games</span>
+                        </div>
+                        <div class=3D"interests__content">
+                            <i class=3D"bx bx-dumbbell interests__icon"></i=
+>
+                            <span class=3D"interests__name">Exerc=C3=ADcios=
+</span>
+                        </div>
+                    </div>
+                </section>-->
+            </div>
+        </div>
+    </main>
+
+    <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D SCROLL TOP =3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D-->
+    <a href=3D"http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html" =
+class=3D"scrolltop" id=3D"scroll-top">
+        <i class=3D"bx bx-up-arrow-alt scrolltop__icon"></i>
+    </a>
+
+    <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D HTML2PDF =3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D-->
+   =20
+
+    <!--=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D MAIN JS =3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D-->
+   =20
+    <!-- Code injected by live-server -->
+   =20
+
+
+
+</body></html>
+------MultipartBoundary--xOLYxS5LA0BXbcgYgtbG5QDoQVBKAOa5MhtnnOTi1k----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5c087bae-b68b-4abc-afbf-6789016a52c9@mhtml.blink
+
+@charset "utf-8";
+
+@import url("https://fonts.googleapis.com/css2?family=3DPoppins:wght@400;50=
+0;600&display=3Dswap");
+
+:root { --header-height: 3rem; --title-color: #0B0A0A; --text-color: #403A3=
+A; --text-color-light: #707070; --container-color: #FAFAFA; --container-col=
+or-alt: #F0EFEF; --body-color: #FCFCFC; --body-font: "Poppins", sans-serif;=
+ --h1-font-size: 1.5rem; --h2-font-size: 1.25rem; --h3-font-size: 1rem; --n=
+ormal-font-size: 0.938rem; --small-font-size: 0.875rem; --smaller-font-size=
+: 0.813rem; --font-medium: 500; --font-semi-bold: 600; --mb-1: 0.5rem; --mb=
+-2: 1rem; --mb-3: 1.5rem; --z-tooltip: 10; --z-fixed: 100; }
+
+*, ::before, ::after { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body.dark-theme { --title-color: #f2f2f2; --text-color: #bfbfbf; --containe=
+r-color: #212121; --container-color-alt: #181616; --body-color: #2b2b2b; }
+
+.change-theme { position: absolute; right: 0px; top: 2.2rem; display: flex;=
+ color: var(--text-color); font-size: 1.2rem; cursor: pointer; }
+
+.change-theme:hover { color: var(--title-color); }
+
+body.scale-cv { --h1-font-size: 0.938rem; --h2-font-size: 0.938rem; --h3-fo=
+nt-size: 0.875rem; --normal-font-size: 0.813rem; --small-font-size: 0.75rem=
+; --smaller-font-size: 0.688rem; }
+
+.generate-pdf { display: none; position: absolute; top: 2.2rem; left: 0px; =
+font-size: 1.2rem; color: var(--text-color); cursor: pointer; }
+
+.generate-pdf:hover { color: var(--title-color); }
+
+.scale-cv .change-theme, .scale-cv .generate-pdf { display: none; }
+
+.scale-cv .bd-container { max-width: 595px; }
+
+.scale-cv .section { padding: 1.5rem 0px 0.8rem; }
+
+.scale-cv .section-title { margin-bottom: 0.75rem; }
+
+.scale-cv .resume__left, .scale-cv .resume__right { padding: 0px 1rem; }
+
+.scale-cv .home__img { width: 90px; height: 90px; }
+
+.scale-cv .home__container { gap: 1.5rem; }
+
+.scale-cv .home__data { gap: 0.25rem; }
+
+.scale-cv .home__adress, .scale-cv .social__container { gap: 0.75rem; }
+
+.scale-cv .home__icon, .scale-cv .social_icon, .scale-cv .interests__icon {=
+ font-size: 1rem; }
+
+.scale-cv .education__container, .scale-cv .experience__container, .scale-c=
+v .certificate__container { gap: 1rem; }
+
+.scale-cv .education__time, .scale-cv .experience__time { padding-right: 0.=
+5rem; }
+
+.scale-cv .education__rounder, .scale-cv .experience__rounder { width: 11px=
+; height: 11px; margin-top: 0.22rem; }
+
+.scale-cv .education__line, .scale-cv .experience__line { width: 1px; heigh=
+t: 110%; transform: translate(5px, 0px); }
+
+.scale-cv .education__data, .scale-cv .experience__data { gap: 0.25rem; }
+
+.scale-cv .skills__name { margin-bottom: var(--mb-1); }
+
+.scale-cv .interests__container { column-gap: 2.5rem; }
+
+body { margin: 0 0 var(--header-height) 0; padding: 0px; font-family: var(-=
+-body-color); font-size: var(--normal-font-size); background-color: var(--b=
+ody-color); color: var(--text-color); }
+
+h1, h2, h3, ul, p { margin: 0px; }
+
+h1, h2, h3 { color: var(--title-color); font-weight: var(--font-medium); }
+
+ul { padding: 0px; list-style: none; }
+
+a { text-decoration: none; color: rgb(255, 255, 255); }
+
+img { max-width: 100%; height: auto; }
+
+.section { padding: 1.5rem 0px; }
+
+.section-title { font-size: var(--h2-font-size); color: var(--title-color);=
+ font-weight: var(--font-semi-bold); text-transform: uppercase; letter-spac=
+ing: 0.35rem; text-align: center; margin-bottom: var(--mb-3); }
+
+.bd-container { max-width: 968px; width: calc(100% - 3rem); margin-left: va=
+r(--mb-3); margin-right: var(--mb-3); }
+
+.bd-grid { display: grid; gap: 1.5rem; }
+
+.l-header { width: 100%; position: fixed; bottom: 0px; left: 0px; z-index: =
+var(--z-fixed); background-color: var(--body-color); box-shadow: rgba(0, 0,=
+ 0, 0.1) 0px -1px 4px; transition: all 0.3s ease 0s; }
+
+.nav { height: var(--header-height); display: flex; justify-content: space-=
+around; align-items: center; }
+
+@media screen and (max-width: 968px) {
+  .nav__menu { position: fixed; bottom: -100%; left: 0px; width: 100%; padd=
+ing: 2rem 1.5rem; background-color: var(--body-color); box-shadow: rgba(0, =
+0, 0, 0.1) 0px 1px 4px; border-radius: 1rem 1rem 0px 0px; z-index: var(--z-=
+fixed); transition: all 0.3s ease 0s; }
+}
+
+.nav__logo, .nav__toggle { color: var(--title-color); font-weight: var(--fo=
+nt-medium); }
+
+.nav__toggle { color: var(--title-color); font-weight: var(--font-medium); =
+}
+
+.nav__toggle { font-size: 1.2rem; cursor: pointer; }
+
+.nav__item { text-align: center; }
+
+.nav__list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2re=
+m; }
+
+.nav__link { display: flex; flex-direction: column; font-size: var(--smalle=
+r-font-size); color: var(--text-color-light); font-weight: var(--font-mediu=
+m); }
+
+.nav__link:hover { color: var(--title-color); }
+
+.nav__icon { font-size: 1.2rem; margin-bottom: var(--mb-1); }
+
+.show-menu { bottom: var(--header-height); }
+
+.active-link { color: var(--title-color); }
+
+.home { position: relative; }
+
+.home__container { gap: 3rem; }
+
+.home__data { gap: 0.5rem; text-align: center; }
+
+.home__img { width: 120px; height: 120px; border-radius: 50%; justify-self:=
+ center; margin-bottom: var(--mb-1); }
+
+.home__title { font-size: var(--h1-font-size); }
+
+.home__profession { font-size: var(--normal-font-size); margin-bottom: var(=
+--mb-1); }
+
+.home__adress { gap: 1rem; }
+
+.home__information { display: flex; align-items: center; font-size: var(--s=
+mall-font-size); }
+
+.home__icon { font-size: 1.2rem; margin-right: 0.25rem; }
+
+.home__button-movil { display: inline-block; border: 2px solid var(--text-c=
+olor); color: var(--text-color); padding: 1rem 2rem; border-radius: 0.25rem=
+; transition: all 0.3s ease 0s; font-weight: var(--font-medium); margin-top=
+: var(--mb-3); }
+
+.home__button-movil:hover { background-color: var(--text-color); color: var=
+(--container-color); }
+
+.social__container { grid-template-columns: max-content; gap: 1rem; }
+
+.social__link { display: inline-flex; align-items: center; font-size: var(-=
+-small-font-size); color: var(--text-color); }
+
+.social__link:hover { color: var(--title-color); }
+
+.social_icon { font-size: 1.2rem; margin-right: 0.25rem; }
+
+.profile__description { text-align: center; }
+
+.education__content, .experience__content { display: flex; }
+
+.education__time, .experience__time { padding-right: 1rem; }
+
+.education__rounder, .experience__rounder { position: relative; display: bl=
+ock; width: 16px; height: 16px; background-color: var(--text-color-light); =
+border-radius: 50%; margin-top: 0.25rem; }
+
+.education__line, .experience__line { display: block; width: 2px; height: 1=
+10%; background-color: var(--text-color-light); transform: translate(7px, 0=
+px); }
+
+.education__data, .experience__data { gap: 0.5rem; }
+
+.education__title, .experience__title { font-size: var(--h3-font-size); }
+
+.education__studies, .experience__company { font-size: var(--small-font-siz=
+e); color: var(--title-color); }
+
+.education__year { font-size: var(--smaller-font-size); }
+
+.skills__content, .languages__content { grid-template-columns: repeat(2, 1f=
+r); }
+
+.languages__content { gap: 0px; }
+
+.skills__content { gap: 0px; }
+
+.skills__name, .languages__name { display: flex; align-items: center; margi=
+n-bottom: var(--mb-3); }
+
+.skills__circle, .languages__circle { display: inline-block; width: 5px; he=
+ight: 5px; background-color: var(--text-color); border-radius: 50%; margin-=
+right: 0.75rem; }
+
+.certificate__title { font-size: var(--h3-font-size); margin-bottom: var(--=
+mb-1); font-weight: var(--font-semi-bold); }
+
+.references__content { gap: 0.25rem; }
+
+.reference__subtitle { color: var(--text-color-light); }
+
+.reference__subtitle, .references__content { font-size: var(--smaller-font-=
+size); }
+
+.reference__title { font-size: var(--h3-font-size); }
+
+.interests__container { grid-template-columns: repeat(3, 1fr); margin-top: =
+var(--mb-2); }
+
+.interests__content { display: flex; flex-direction: column; align-items: c=
+enter; }
+
+.interests__icon { font-size: 1.5rem; color: var(--text-color-light); margi=
+n-bottom: 0.25rem; }
+
+.scrolltop { position: fixed; right: 1rem; bottom: -20%; display: flex; jus=
+tify-content: center; align-items: center; padding: 0.3rem; background-colo=
+r: var(--container-color-alt); border-radius: 0.4rem; z-index: var(--z-tool=
+tip); transition: all 0.4s ease 0s; }
+
+.scrolltop__icon { font-size: 1.2rem; color: var(--text-color); }
+
+.show-scroll { visibility: visible; bottom: 5rem; }
+
+@media screen and (max-width: 320px) {
+  .nav__list { grid-template-columns: repeat(2, 1fr); gap: 1rem 0.5rem; }
+}
+
+@media screen and (min-width: 968px) {
+  body { margin: 3rem 0px; }
+  .bd-container { margin-left: auto; margin-right: auto; }
+  .l-header, .scrolltop { display: none; }
+  .resume { display: grid; grid-template-columns: 0.5fr 1fr; background-col=
+or: var(--container-color); box-shadow: rgba(13, 12, 12, 0.15) 0px 0px 8px;=
+ }
+  .resume__left { background-color: var(--container-color-alt); }
+  .resume__left, .resume__right { padding: 0px 1.5rem; }
+  .generate-pdf { display: inline-block; }
+  .section-title, .profile__description { text-align: initial; }
+  .home__container { gap: 1.5rem; }
+  .home__button-movil { display: none; }
+  .references__container { grid-template-columns: repeat(2, 1fr); }
+  .languages__content { grid-template-columns: repeat(3, max-content); }
+  .interests__container { grid-template-columns: repeat(4, max-content); co=
+lumn-gap: 3.5rem; }
+}
+------MultipartBoundary--xOLYxS5LA0BXbcgYgtbG5QDoQVBKAOa5MhtnnOTi1k----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiEyp8=
+kv8JHgFVrJJbecmNE.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0=
+-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E=
+0-A8FB; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiEyp8=
+kv8JHgFVrJJnecmNE.woff2") format("woff2"); unicode-range: U+100-24F, U+259,=
+ U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720=
+-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiEyp8=
+kv8JHgFVrJJfecg.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+15=
+2-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2122,=
+ U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 500; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiByp8=
+kv8JHgFVrLGT9Z11lFc-K.woff2") format("woff2"); unicode-range: U+900-97F, U+=
+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U=
++A8E0-A8FB; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 500; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiByp8=
+kv8JHgFVrLGT9Z1JlFc-K.woff2") format("woff2"); unicode-range: U+100-24F, U+=
+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+=
+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 500; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiByp8=
+kv8JHgFVrLGT9Z1xlFQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, =
+U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2=
+122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiByp8=
+kv8JHgFVrLEj6Z11lFc-K.woff2") format("woff2"); unicode-range: U+900-97F, U+=
+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U=
++A8E0-A8FB; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiByp8=
+kv8JHgFVrLEj6Z1JlFc-K.woff2") format("woff2"); unicode-range: U+100-24F, U+=
+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+=
+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; fo=
+nt-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v20/pxiByp8=
+kv8JHgFVrLEj6Z1xlFQ.woff2") format("woff2"); unicode-range: U+0-FF, U+131, =
+U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2=
+122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--xOLYxS5LA0BXbcgYgtbG5QDoQVBKAOa5MhtnnOTi1k----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/lordm/Desktop/cv/cv-white-dark-downloadPDF/index_files/boxicons.min.css
+
+@charset "utf-8";
+
+@font-face { font-family: boxicons; font-weight: 400; font-style: normal; s=
+rc: url("../fonts/boxicons.woff2") format("woff2"), url("../fonts/boxicons.=
+woff") format("woff"), url("../fonts/boxicons.ttf") format("truetype"); }
+
+.bx { font-weight: 400; font-style: normal; font-variant: normal; line-heig=
+ht: 1; text-rendering: auto; display: inline-block; text-transform: none; s=
+peak: none; -webkit-font-smoothing: antialiased; font-family: boxicons !imp=
+ortant; }
+
+.bx-ul { margin-left: 2em; padding-left: 0px; list-style: none; }
+
+.bx-ul > li { position: relative; }
+
+.bx-ul .bx { font-size: inherit; line-height: inherit; position: absolute; =
+left: -2em; width: 2em; text-align: center; }
+
+@-webkit-keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(359deg); }
+}
+
+@-webkit-keyframes burst {=20
+  0% { transform: scale(1); opacity: 1; }
+  90% { transform: scale(1.5); opacity: 0; }
+}
+
+@keyframes burst {=20
+  0% { transform: scale(1); opacity: 1; }
+  90% { transform: scale(1.5); opacity: 0; }
+}
+
+@-webkit-keyframes flashing {=20
+  0% { opacity: 1; }
+  45% { opacity: 0; }
+  90% { opacity: 1; }
+}
+
+@keyframes flashing {=20
+  0% { opacity: 1; }
+  45% { opacity: 0; }
+  90% { opacity: 1; }
+}
+
+@-webkit-keyframes fade-left {=20
+  0% { transform: translateX(0px); opacity: 1; }
+  75% { transform: translateX(-20px); opacity: 0; }
+}
+
+@keyframes fade-left {=20
+  0% { transform: translateX(0px); opacity: 1; }
+  75% { transform: translateX(-20px); opacity: 0; }
+}
+
+@-webkit-keyframes fade-right {=20
+  0% { transform: translateX(0px); opacity: 1; }
+  75% { transform: translateX(20px); opacity: 0; }
+}
+
+@keyframes fade-right {=20
+  0% { transform: translateX(0px); opacity: 1; }
+  75% { transform: translateX(20px); opacity: 0; }
+}
+
+@-webkit-keyframes fade-up {=20
+  0% { transform: translateY(0px); opacity: 1; }
+  75% { transform: translateY(-20px); opacity: 0; }
+}
+
+@keyframes fade-up {=20
+  0% { transform: translateY(0px); opacity: 1; }
+  75% { transform: translateY(-20px); opacity: 0; }
+}
+
+@-webkit-keyframes fade-down {=20
+  0% { transform: translateY(0px); opacity: 1; }
+  75% { transform: translateY(20px); opacity: 0; }
+}
+
+@keyframes fade-down {=20
+  0% { transform: translateY(0px); opacity: 1; }
+  75% { transform: translateY(20px); opacity: 0; }
+}
+
+@-webkit-keyframes tada {=20
+  0% { transform: scale3d(1, 1, 1); }
+  10%, 20% { transform: scale3d(0.95, 0.95, 0.95) rotate3d(0, 0, 1, -10deg)=
+; }
+  30%, 50%, 70%, 90% { transform: scale3d(1, 1, 1) rotate3d(0, 0, 1, 10deg)=
+; }
+  40%, 60%, 80% { transform: scale3d(1, 1, 1) rotate3d(0, 0, 1, -10deg); }
+  100% { transform: scale3d(1, 1, 1); }
+}
+
+@keyframes tada {=20
+  0% { transform: scale3d(1, 1, 1); }
+  10%, 20% { transform: scale3d(0.95, 0.95, 0.95) rotate3d(0, 0, 1, -10deg)=
+; }
+  30%, 50%, 70%, 90% { transform: scale3d(1, 1, 1) rotate3d(0, 0, 1, 10deg)=
+; }
+  40%, 60%, 80% { transform: rotate3d(0, 0, 1, -10deg); }
+  100% { transform: scale3d(1, 1, 1); }
+}
+
+.bx-spin { animation: 2s linear 0s infinite normal none running spin; }
+
+.bx-spin-hover:hover { animation: 2s linear 0s infinite normal none running=
+ spin; }
+
+.bx-tada { animation: 1.5s ease 0s infinite normal none running tada; }
+
+.bx-tada-hover:hover { animation: 1.5s ease 0s infinite normal none running=
+ tada; }
+
+.bx-flashing { animation: 1.5s linear 0s infinite normal none running flash=
+ing; }
+
+.bx-flashing-hover:hover { animation: 1.5s linear 0s infinite normal none r=
+unning flashing; }
+
+.bx-burst { animation: 1.5s linear 0s infinite normal none running burst; }
+
+.bx-burst-hover:hover { animation: 1.5s linear 0s infinite normal none runn=
+ing burst; }
+
+.bx-fade-up { animation: 1.5s linear 0s infinite normal none running fade-u=
+p; }
+
+.bx-fade-up-hover:hover { animation: 1.5s linear 0s infinite normal none ru=
+nning fade-up; }
+
+.bx-fade-down { animation: 1.5s linear 0s infinite normal none running fade=
+-down; }
+
+.bx-fade-down-hover:hover { animation: 1.5s linear 0s infinite normal none =
+running fade-down; }
+
+.bx-fade-left { animation: 1.5s linear 0s infinite normal none running fade=
+-left; }
+
+.bx-fade-left-hover:hover { animation: 1.5s linear 0s infinite normal none =
+running fade-left; }
+
+.bx-fade-right { animation: 1.5s linear 0s infinite normal none running fad=
+e-right; }
+
+.bx-fade-right-hover:hover { animation: 1.5s linear 0s infinite normal none=
+ running fade-right; }
+
+.bx-xs { font-size: 1rem !important; }
+
+.bx-sm { font-size: 1.55rem !important; }
+
+.bx-md { font-size: 2.25rem !important; }
+
+.bx-lg { font-size: 3rem !important; }
+
+.bx-fw { font-size: 1.28571em; line-height: 0.8em; width: 1.28571em; height=
+: 0.8em; vertical-align: middle; margin-top: -0.2em !important; }
+
+.bx-pull-left { float: left; margin-right: 0.3em !important; }
+
+.bx-pull-right { float: right; margin-left: 0.3em !important; }
+
+.bx-rotate-90 { transform: rotate(90deg); }
+
+.bx-rotate-180 { transform: rotate(180deg); }
+
+.bx-rotate-270 { transform: rotate(270deg); }
+
+.bx-flip-horizontal { transform: scaleX(-1); }
+
+.bx-flip-vertical { transform: scaleY(-1); }
+
+.bx-border { padding: 0.25em; border: 0.07em solid rgba(0, 0, 0, 0.1); bord=
+er-radius: 0.25em; }
+
+.bx-border-circle { padding: 0.25em; border: 0.07em solid rgba(0, 0, 0, 0.1=
+); border-radius: 50%; }
+
+.bxs-balloon::before { content: "=EE=AD=A0"; }
+
+.bxs-castle::before { content: "=EE=AD=B9"; }
+
+.bxs-coffee-bean::before { content: "=EE=AE=92"; }
+
+.bxs-objects-horizontal-center::before { content: "=EE=AE=AB"; }
+
+.bxs-objects-horizontal-left::before { content: "=EE=AF=84"; }
+
+.bxs-objects-horizontal-right::before { content: "=EE=AF=9D"; }
+
+.bxs-objects-vertical-bottom::before { content: "=EE=AF=B6"; }
+
+.bxs-objects-vertical-center::before { content: "=EE=BD=80"; }
+
+.bxs-objects-vertical-top::before { content: "=EE=BD=81"; }
+
+.bxs-pear::before { content: "=EE=BD=82"; }
+
+.bxs-shield-minus::before { content: "=EE=BD=83"; }
+
+.bxs-shield-plus::before { content: "=EE=BD=84"; }
+
+.bxs-shower::before { content: "=EE=BD=85"; }
+
+.bxs-sushi::before { content: "=EE=BD=86"; }
+
+.bxs-universal-access::before { content: "=EE=BD=87"; }
+
+.bx-child::before { content: "=EE=BD=88"; }
+
+.bx-horizontal-left::before { content: "=EE=BD=89"; }
+
+.bx-horizontal-right::before { content: "=EE=BD=8A"; }
+
+.bx-objects-horizontal-center::before { content: "=EE=BD=8B"; }
+
+.bx-objects-horizontal-left::before { content: "=EE=BD=8C"; }
+
+.bx-objects-horizontal-right::before { content: "=EE=BD=8D"; }
+
+.bx-objects-vertical-bottom::before { content: "=EE=BD=8E"; }
+
+.bx-objects-vertical-center::before { content: "=EE=BD=8F"; }
+
+.bx-objects-vertical-top::before { content: "=EE=BD=90"; }
+
+.bx-rfid::before { content: "=EE=BD=91"; }
+
+.bx-shield-minus::before { content: "=EE=BD=92"; }
+
+.bx-shield-plus::before { content: "=EE=BD=93"; }
+
+.bx-shower::before { content: "=EE=BD=94"; }
+
+.bx-sushi::before { content: "=EE=BD=95"; }
+
+.bx-universal-access::before { content: "=EE=BD=96"; }
+
+.bx-vertical-bottom::before { content: "=EE=BD=97"; }
+
+.bx-vertical-top::before { content: "=EE=BD=98"; }
+
+.bxl-graphql::before { content: "=EE=BD=99"; }
+
+.bxl-typescript::before { content: "=EE=BD=9A"; }
+
+.bxs-color::before { content: "=EE=BC=B9"; }
+
+.bx-reflect-horizontal::before { content: "=EE=BC=BA"; }
+
+.bx-reflect-vertical::before { content: "=EE=BC=BB"; }
+
+.bx-color::before { content: "=EE=BC=BC"; }
+
+.bxl-mongodb::before { content: "=EE=BC=BD"; }
+
+.bxl-postgresql::before { content: "=EE=BC=BE"; }
+
+.bxl-deezer::before { content: "=EE=BC=BF"; }
+
+.bxs-hard-hat::before { content: "=EE=BC=AA"; }
+
+.bxs-home-alt-2::before { content: "=EE=BC=AB"; }
+
+.bxs-cheese::before { content: "=EE=BC=AC"; }
+
+.bx-home-alt-2::before { content: "=EE=BC=AD"; }
+
+.bx-hard-hat::before { content: "=EE=BC=AE"; }
+
+.bx-cheese::before { content: "=EE=BC=AF"; }
+
+.bx-cart-add::before { content: "=EE=BC=B0"; }
+
+.bx-cart-download::before { content: "=EE=BC=B1"; }
+
+.bx-no-signal::before { content: "=EE=BC=B2"; }
+
+.bx-signal-1::before { content: "=EE=BC=B3"; }
+
+.bx-signal-2::before { content: "=EE=BC=B4"; }
+
+.bx-signal-3::before { content: "=EE=BC=B5"; }
+
+.bx-signal-4::before { content: "=EE=BC=B6"; }
+
+.bx-signal-5::before { content: "=EE=BC=B7"; }
+
+.bxl-xing::before { content: "=EE=BC=B8"; }
+
+.bxl-meta::before { content: "=EE=BC=A7"; }
+
+.bx-lemon::before { content: "=EE=BC=A8"; }
+
+.bxs-lemon::before { content: "=EE=BC=A9"; }
+
+.bx-cricket-ball::before { content: "=EE=BC=8C"; }
+
+.bx-baguette::before { content: "=EE=BC=8D"; }
+
+.bx-bowl-hot::before { content: "=EE=BC=8E"; }
+
+.bx-bowl-rice::before { content: "=EE=BC=8F"; }
+
+.bx-cable-car::before { content: "=EE=BC=90"; }
+
+.bx-candles::before { content: "=EE=BC=91"; }
+
+.bx-circle-half::before { content: "=EE=BC=92"; }
+
+.bx-circle-quarter::before { content: "=EE=BC=93"; }
+
+.bx-circle-three-quarter::before { content: "=EE=BC=94"; }
+
+.bx-cross::before { content: "=EE=BC=95"; }
+
+.bx-fork::before { content: "=EE=BC=96"; }
+
+.bx-knife::before { content: "=EE=BC=97"; }
+
+.bx-money-withdraw::before { content: "=EE=BC=98"; }
+
+.bx-popsicle::before { content: "=EE=BC=99"; }
+
+.bx-scatter-chart::before { content: "=EE=BC=9A"; }
+
+.bxs-baguette::before { content: "=EE=BC=9B"; }
+
+.bxs-bowl-hot::before { content: "=EE=BC=9C"; }
+
+.bxs-bowl-rice::before { content: "=EE=BC=9D"; }
+
+.bxs-cable-car::before { content: "=EE=BC=9E"; }
+
+.bxs-circle-half::before { content: "=EE=BC=9F"; }
+
+.bxs-circle-quarter::before { content: "=EE=BC=A0"; }
+
+.bxs-circle-three-quarter::before { content: "=EE=BC=A1"; }
+
+.bxs-cricket-ball::before { content: "=EE=BC=A2"; }
+
+.bxs-invader::before { content: "=EE=BC=A3"; }
+
+.bx-male-female::before { content: "=EE=BC=A4"; }
+
+.bxs-popsicle::before { content: "=EE=BC=A5"; }
+
+.bxs-tree-alt::before { content: "=EE=BC=A6"; }
+
+.bxl-venmo::before { content: "=EE=A4=80"; }
+
+.bxl-upwork::before { content: "=EE=A4=81"; }
+
+.bxl-netlify::before { content: "=EE=A4=82"; }
+
+.bxl-java::before { content: "=EE=A4=83"; }
+
+.bxl-heroku::before { content: "=EE=A4=84"; }
+
+.bxl-go-lang::before { content: "=EE=A4=85"; }
+
+.bxl-gmail::before { content: "=EE=A4=86"; }
+
+.bxl-flask::before { content: "=EE=A4=87"; }
+
+.bxl-99designs::before { content: "=EE=A4=88"; }
+
+.bxl-500px::before { content: "=EE=A4=89"; }
+
+.bxl-adobe::before { content: "=EE=A4=8A"; }
+
+.bxl-airbnb::before { content: "=EE=A4=8B"; }
+
+.bxl-algolia::before { content: "=EE=A4=8C"; }
+
+.bxl-amazon::before { content: "=EE=A4=8D"; }
+
+.bxl-android::before { content: "=EE=A4=8E"; }
+
+.bxl-angular::before { content: "=EE=A4=8F"; }
+
+.bxl-apple::before { content: "=EE=A4=90"; }
+
+.bxl-audible::before { content: "=EE=A4=91"; }
+
+.bxl-aws::before { content: "=EE=A4=92"; }
+
+.bxl-baidu::before { content: "=EE=A4=93"; }
+
+.bxl-behance::before { content: "=EE=A4=94"; }
+
+.bxl-bing::before { content: "=EE=A4=95"; }
+
+.bxl-bitcoin::before { content: "=EE=A4=96"; }
+
+.bxl-blender::before { content: "=EE=A4=97"; }
+
+.bxl-blogger::before { content: "=EE=A4=98"; }
+
+.bxl-bootstrap::before { content: "=EE=A4=99"; }
+
+.bxl-chrome::before { content: "=EE=A4=9A"; }
+
+.bxl-codepen::before { content: "=EE=A4=9B"; }
+
+.bxl-c-plus-plus::before { content: "=EE=A4=9C"; }
+
+.bxl-creative-commons::before { content: "=EE=A4=9D"; }
+
+.bxl-css3::before { content: "=EE=A4=9E"; }
+
+.bxl-dailymotion::before { content: "=EE=A4=9F"; }
+
+.bxl-deviantart::before { content: "=EE=A4=A0"; }
+
+.bxl-dev-to::before { content: "=EE=A4=A1"; }
+
+.bxl-digg::before { content: "=EE=A4=A2"; }
+
+.bxl-digitalocean::before { content: "=EE=A4=A3"; }
+
+.bxl-discord::before { content: "=EE=A4=A4"; }
+
+.bxl-discord-alt::before { content: "=EE=A4=A5"; }
+
+.bxl-discourse::before { content: "=EE=A4=A6"; }
+
+.bxl-django::before { content: "=EE=A4=A7"; }
+
+.bxl-docker::before { content: "=EE=A4=A8"; }
+
+.bxl-dribbble::before { content: "=EE=A4=A9"; }
+
+.bxl-dropbox::before { content: "=EE=A4=AA"; }
+
+.bxl-drupal::before { content: "=EE=A4=AB"; }
+
+.bxl-ebay::before { content: "=EE=A4=AC"; }
+
+.bxl-edge::before { content: "=EE=A4=AD"; }
+
+.bxl-etsy::before { content: "=EE=A4=AE"; }
+
+.bxl-facebook::before { content: "=EE=A4=AF"; }
+
+.bxl-facebook-circle::before { content: "=EE=A4=B0"; }
+
+.bxl-facebook-square::before { content: "=EE=A4=B1"; }
+
+.bxl-figma::before { content: "=EE=A4=B2"; }
+
+.bxl-firebase::before { content: "=EE=A4=B3"; }
+
+.bxl-firefox::before { content: "=EE=A4=B4"; }
+
+.bxl-flickr::before { content: "=EE=A4=B5"; }
+
+.bxl-flickr-square::before { content: "=EE=A4=B6"; }
+
+.bxl-flutter::before { content: "=EE=A4=B7"; }
+
+.bxl-foursquare::before { content: "=EE=A4=B8"; }
+
+.bxl-git::before { content: "=EE=A4=B9"; }
+
+.bxl-github::before { content: "=EE=A4=BA"; }
+
+.bxl-gitlab::before { content: "=EE=A4=BB"; }
+
+.bxl-google::before { content: "=EE=A4=BC"; }
+
+.bxl-google-cloud::before { content: "=EE=A4=BD"; }
+
+.bxl-google-plus::before { content: "=EE=A4=BE"; }
+
+.bxl-google-plus-circle::before { content: "=EE=A4=BF"; }
+
+.bxl-html5::before { content: "=EE=A5=80"; }
+
+.bxl-imdb::before { content: "=EE=A5=81"; }
+
+.bxl-instagram::before { content: "=EE=A5=82"; }
+
+.bxl-instagram-alt::before { content: "=EE=A5=83"; }
+
+.bxl-internet-explorer::before { content: "=EE=A5=84"; }
+
+.bxl-invision::before { content: "=EE=A5=85"; }
+
+.bxl-javascript::before { content: "=EE=A5=86"; }
+
+.bxl-joomla::before { content: "=EE=A5=87"; }
+
+.bxl-jquery::before { content: "=EE=A5=88"; }
+
+.bxl-jsfiddle::before { content: "=EE=A5=89"; }
+
+.bxl-kickstarter::before { content: "=EE=A5=8A"; }
+
+.bxl-kubernetes::before { content: "=EE=A5=8B"; }
+
+.bxl-less::before { content: "=EE=A5=8C"; }
+
+.bxl-linkedin::before { content: "=EE=A5=8D"; }
+
+.bxl-linkedin-square::before { content: "=EE=A5=8E"; }
+
+.bxl-magento::before { content: "=EE=A5=8F"; }
+
+.bxl-mailchimp::before { content: "=EE=A5=90"; }
+
+.bxl-markdown::before { content: "=EE=A5=91"; }
+
+.bxl-mastercard::before { content: "=EE=A5=92"; }
+
+.bxl-mastodon::before { content: "=EE=A5=93"; }
+
+.bxl-medium::before { content: "=EE=A5=94"; }
+
+.bxl-medium-old::before { content: "=EE=A5=95"; }
+
+.bxl-medium-square::before { content: "=EE=A5=96"; }
+
+.bxl-messenger::before { content: "=EE=A5=97"; }
+
+.bxl-microsoft::before { content: "=EE=A5=98"; }
+
+.bxl-microsoft-teams::before { content: "=EE=A5=99"; }
+
+.bxl-nodejs::before { content: "=EE=A5=9A"; }
+
+.bxl-ok-ru::before { content: "=EE=A5=9B"; }
+
+.bxl-opera::before { content: "=EE=A5=9C"; }
+
+.bxl-patreon::before { content: "=EE=A5=9D"; }
+
+.bxl-paypal::before { content: "=EE=A5=9E"; }
+
+.bxl-periscope::before { content: "=EE=A5=9F"; }
+
+.bxl-php::before { content: "=EE=A5=A0"; }
+
+.bxl-pinterest::before { content: "=EE=A5=A1"; }
+
+.bxl-pinterest-alt::before { content: "=EE=A5=A2"; }
+
+.bxl-play-store::before { content: "=EE=A5=A3"; }
+
+.bxl-pocket::before { content: "=EE=A5=A4"; }
+
+.bxl-product-hunt::before { content: "=EE=A5=A5"; }
+
+.bxl-python::before { content: "=EE=A5=A6"; }
+
+.bxl-quora::before { content: "=EE=A5=A7"; }
+
+.bxl-react::before { content: "=EE=A5=A8"; }
+
+.bxl-redbubble::before { content: "=EE=A5=A9"; }
+
+.bxl-reddit::before { content: "=EE=A5=AA"; }
+
+.bxl-redux::before { content: "=EE=A5=AB"; }
+
+.bxl-sass::before { content: "=EE=A5=AC"; }
+
+.bxl-shopify::before { content: "=EE=A5=AD"; }
+
+.bxl-sketch::before { content: "=EE=A5=AE"; }
+
+.bxl-skype::before { content: "=EE=A5=AF"; }
+
+.bxl-slack::before { content: "=EE=A5=B0"; }
+
+.bxl-slack-old::before { content: "=EE=A5=B1"; }
+
+.bxl-snapchat::before { content: "=EE=A5=B2"; }
+
+.bxl-soundcloud::before { content: "=EE=A5=B3"; }
+
+.bxl-spotify::before { content: "=EE=A5=B4"; }
+
+.bxl-spring-boot::before { content: "=EE=A5=B5"; }
+
+.bxl-squarespace::before { content: "=EE=A5=B6"; }
+
+.bxl-stack-overflow::before { content: "=EE=A5=B7"; }
+
+.bxl-steam::before { content: "=EE=A5=B8"; }
+
+.bxl-stripe::before { content: "=EE=A5=B9"; }
+
+.bxl-tailwind-css::before { content: "=EE=A5=BA"; }
+
+.bxl-telegram::before { content: "=EE=A5=BB"; }
+
+.bxl-tiktok::before { content: "=EE=A5=BC"; }
+
+.bxl-trello::before { content: "=EE=A5=BD"; }
+
+.bxl-trip-advisor::before { content: "=EE=A5=BE"; }
+
+.bxl-tumblr::before { content: "=EE=A5=BF"; }
+
+.bxl-tux::before { content: "=EE=A6=80"; }
+
+.bxl-twitch::before { content: "=EE=A6=81"; }
+
+.bxl-twitter::before { content: "=EE=A6=82"; }
+
+.bxl-unity::before { content: "=EE=A6=83"; }
+
+.bxl-unsplash::before { content: "=EE=A6=84"; }
+
+.bxl-vimeo::before { content: "=EE=A6=85"; }
+
+.bxl-visa::before { content: "=EE=A6=86"; }
+
+.bxl-visual-studio::before { content: "=EE=A6=87"; }
+
+.bxl-vk::before { content: "=EE=A6=88"; }
+
+.bxl-vuejs::before { content: "=EE=A6=89"; }
+
+.bxl-whatsapp::before { content: "=EE=A6=8A"; }
+
+.bxl-whatsapp-square::before { content: "=EE=A6=8B"; }
+
+.bxl-wikipedia::before { content: "=EE=A6=8C"; }
+
+.bxl-windows::before { content: "=EE=A6=8D"; }
+
+.bxl-wix::before { content: "=EE=A6=8E"; }
+
+.bxl-wordpress::before { content: "=EE=A6=8F"; }
+
+.bxl-yahoo::before { content: "=EE=A6=90"; }
+
+.bxl-yelp::before { content: "=EE=A6=91"; }
+
+.bxl-youtube::before { content: "=EE=A6=92"; }
+
+.bxl-zoom::before { content: "=EE=A6=93"; }
+
+.bx-collapse-alt::before { content: "=EE=A6=94"; }
+
+.bx-collapse-horizontal::before { content: "=EE=A6=95"; }
+
+.bx-collapse-vertical::before { content: "=EE=A6=96"; }
+
+.bx-expand-horizontal::before { content: "=EE=A6=97"; }
+
+.bx-expand-vertical::before { content: "=EE=A6=98"; }
+
+.bx-injection::before { content: "=EE=A6=99"; }
+
+.bx-leaf::before { content: "=EE=A6=9A"; }
+
+.bx-math::before { content: "=EE=A6=9B"; }
+
+.bx-party::before { content: "=EE=A6=9C"; }
+
+.bx-abacus::before { content: "=EE=A6=9D"; }
+
+.bx-accessibility::before { content: "=EE=A6=9E"; }
+
+.bx-add-to-queue::before { content: "=EE=A6=9F"; }
+
+.bx-adjust::before { content: "=EE=A6=A0"; }
+
+.bx-alarm::before { content: "=EE=A6=A1"; }
+
+.bx-alarm-add::before { content: "=EE=A6=A2"; }
+
+.bx-alarm-exclamation::before { content: "=EE=A6=A3"; }
+
+.bx-alarm-off::before { content: "=EE=A6=A4"; }
+
+.bx-alarm-snooze::before { content: "=EE=A6=A5"; }
+
+.bx-album::before { content: "=EE=A6=A6"; }
+
+.bx-align-justify::before { content: "=EE=A6=A7"; }
+
+.bx-align-left::before { content: "=EE=A6=A8"; }
+
+.bx-align-middle::before { content: "=EE=A6=A9"; }
+
+.bx-align-right::before { content: "=EE=A6=AA"; }
+
+.bx-analyse::before { content: "=EE=A6=AB"; }
+
+.bx-anchor::before { content: "=EE=A6=AC"; }
+
+.bx-angry::before { content: "=EE=A6=AD"; }
+
+.bx-aperture::before { content: "=EE=A6=AE"; }
+
+.bx-arch::before { content: "=EE=A6=AF"; }
+
+.bx-archive::before { content: "=EE=A6=B0"; }
+
+.bx-archive-in::before { content: "=EE=A6=B1"; }
+
+.bx-archive-out::before { content: "=EE=A6=B2"; }
+
+.bx-area::before { content: "=EE=A6=B3"; }
+
+.bx-arrow-back::before { content: "=EE=A6=B4"; }
+
+.bx-arrow-from-bottom::before { content: "=EE=A6=B5"; }
+
+.bx-arrow-from-left::before { content: "=EE=A6=B6"; }
+
+.bx-arrow-from-right::before { content: "=EE=A6=B7"; }
+
+.bx-arrow-from-top::before { content: "=EE=A6=B8"; }
+
+.bx-arrow-to-bottom::before { content: "=EE=A6=B9"; }
+
+.bx-arrow-to-left::before { content: "=EE=A6=BA"; }
+
+.bx-arrow-to-right::before { content: "=EE=A6=BB"; }
+
+.bx-arrow-to-top::before { content: "=EE=A6=BC"; }
+
+.bx-at::before { content: "=EE=A6=BD"; }
+
+.bx-atom::before { content: "=EE=A6=BE"; }
+
+.bx-award::before { content: "=EE=A6=BF"; }
+
+.bx-badge::before { content: "=EE=A7=80"; }
+
+.bx-badge-check::before { content: "=EE=A7=81"; }
+
+.bx-ball::before { content: "=EE=A7=82"; }
+
+.bx-band-aid::before { content: "=EE=A7=83"; }
+
+.bx-bar-chart::before { content: "=EE=A7=84"; }
+
+.bx-bar-chart-alt::before { content: "=EE=A7=85"; }
+
+.bx-bar-chart-alt-2::before { content: "=EE=A7=86"; }
+
+.bx-bar-chart-square::before { content: "=EE=A7=87"; }
+
+.bx-barcode::before { content: "=EE=A7=88"; }
+
+.bx-barcode-reader::before { content: "=EE=A7=89"; }
+
+.bx-baseball::before { content: "=EE=A7=8A"; }
+
+.bx-basket::before { content: "=EE=A7=8B"; }
+
+.bx-basketball::before { content: "=EE=A7=8C"; }
+
+.bx-bath::before { content: "=EE=A7=8D"; }
+
+.bx-battery::before { content: "=EE=A7=8E"; }
+
+.bx-bed::before { content: "=EE=A7=8F"; }
+
+.bx-been-here::before { content: "=EE=A7=90"; }
+
+.bx-beer::before { content: "=EE=A7=91"; }
+
+.bx-bell::before { content: "=EE=A7=92"; }
+
+.bx-bell-minus::before { content: "=EE=A7=93"; }
+
+.bx-bell-off::before { content: "=EE=A7=94"; }
+
+.bx-bell-plus::before { content: "=EE=A7=95"; }
+
+.bx-bible::before { content: "=EE=A7=96"; }
+
+.bx-bitcoin::before { content: "=EE=A7=97"; }
+
+.bx-blanket::before { content: "=EE=A7=98"; }
+
+.bx-block::before { content: "=EE=A7=99"; }
+
+.bx-bluetooth::before { content: "=EE=A7=9A"; }
+
+.bx-body::before { content: "=EE=A7=9B"; }
+
+.bx-bold::before { content: "=EE=A7=9C"; }
+
+.bx-bolt-circle::before { content: "=EE=A7=9D"; }
+
+.bx-bomb::before { content: "=EE=A7=9E"; }
+
+.bx-bone::before { content: "=EE=A7=9F"; }
+
+.bx-bong::before { content: "=EE=A7=A0"; }
+
+.bx-book::before { content: "=EE=A7=A1"; }
+
+.bx-book-add::before { content: "=EE=A7=A2"; }
+
+.bx-book-alt::before { content: "=EE=A7=A3"; }
+
+.bx-book-bookmark::before { content: "=EE=A7=A4"; }
+
+.bx-book-content::before { content: "=EE=A7=A5"; }
+
+.bx-book-heart::before { content: "=EE=A7=A6"; }
+
+.bx-bookmark::before { content: "=EE=A7=A7"; }
+
+.bx-bookmark-alt::before { content: "=EE=A7=A8"; }
+
+.bx-bookmark-alt-minus::before { content: "=EE=A7=A9"; }
+
+.bx-bookmark-alt-plus::before { content: "=EE=A7=AA"; }
+
+.bx-bookmark-heart::before { content: "=EE=A7=AB"; }
+
+.bx-bookmark-minus::before { content: "=EE=A7=AC"; }
+
+.bx-bookmark-plus::before { content: "=EE=A7=AD"; }
+
+.bx-bookmarks::before { content: "=EE=A7=AE"; }
+
+.bx-book-open::before { content: "=EE=A7=AF"; }
+
+.bx-book-reader::before { content: "=EE=A7=B0"; }
+
+.bx-border-all::before { content: "=EE=A7=B1"; }
+
+.bx-border-bottom::before { content: "=EE=A7=B2"; }
+
+.bx-border-inner::before { content: "=EE=A7=B3"; }
+
+.bx-border-left::before { content: "=EE=A7=B4"; }
+
+.bx-border-none::before { content: "=EE=A7=B5"; }
+
+.bx-border-outer::before { content: "=EE=A7=B6"; }
+
+.bx-border-radius::before { content: "=EE=A7=B7"; }
+
+.bx-border-right::before { content: "=EE=A7=B8"; }
+
+.bx-border-top::before { content: "=EE=A7=B9"; }
+
+.bx-bot::before { content: "=EE=A7=BA"; }
+
+.bx-bowling-ball::before { content: "=EE=A7=BB"; }
+
+.bx-box::before { content: "=EE=A7=BC"; }
+
+.bx-bracket::before { content: "=EE=A7=BD"; }
+
+.bx-braille::before { content: "=EE=A7=BE"; }
+
+.bx-brain::before { content: "=EE=A7=BF"; }
+
+.bx-briefcase::before { content: "=EE=A8=80"; }
+
+.bx-briefcase-alt::before { content: "=EE=A8=81"; }
+
+.bx-briefcase-alt-2::before { content: "=EE=A8=82"; }
+
+.bx-brightness::before { content: "=EE=A8=83"; }
+
+.bx-brightness-half::before { content: "=EE=A8=84"; }
+
+.bx-broadcast::before { content: "=EE=A8=85"; }
+
+.bx-brush::before { content: "=EE=A8=86"; }
+
+.bx-brush-alt::before { content: "=EE=A8=87"; }
+
+.bx-bug::before { content: "=EE=A8=88"; }
+
+.bx-bug-alt::before { content: "=EE=A8=89"; }
+
+.bx-building::before { content: "=EE=A8=8A"; }
+
+.bx-building-house::before { content: "=EE=A8=8B"; }
+
+.bx-buildings::before { content: "=EE=A8=8C"; }
+
+.bx-bulb::before { content: "=EE=A8=8D"; }
+
+.bx-bullseye::before { content: "=EE=A8=8E"; }
+
+.bx-buoy::before { content: "=EE=A8=8F"; }
+
+.bx-bus::before { content: "=EE=A8=90"; }
+
+.bx-bus-school::before { content: "=EE=A8=91"; }
+
+.bx-cabinet::before { content: "=EE=A8=92"; }
+
+.bx-cake::before { content: "=EE=A8=93"; }
+
+.bx-calculator::before { content: "=EE=A8=94"; }
+
+.bx-calendar::before { content: "=EE=A8=95"; }
+
+.bx-calendar-alt::before { content: "=EE=A8=96"; }
+
+.bx-calendar-check::before { content: "=EE=A8=97"; }
+
+.bx-calendar-edit::before { content: "=EE=A8=98"; }
+
+.bx-calendar-event::before { content: "=EE=A8=99"; }
+
+.bx-calendar-exclamation::before { content: "=EE=A8=9A"; }
+
+.bx-calendar-heart::before { content: "=EE=A8=9B"; }
+
+.bx-calendar-minus::before { content: "=EE=A8=9C"; }
+
+.bx-calendar-plus::before { content: "=EE=A8=9D"; }
+
+.bx-calendar-star::before { content: "=EE=A8=9E"; }
+
+.bx-calendar-week::before { content: "=EE=A8=9F"; }
+
+.bx-calendar-x::before { content: "=EE=A8=A0"; }
+
+.bx-camera::before { content: "=EE=A8=A1"; }
+
+.bx-camera-home::before { content: "=EE=A8=A2"; }
+
+.bx-camera-movie::before { content: "=EE=A8=A3"; }
+
+.bx-camera-off::before { content: "=EE=A8=A4"; }
+
+.bx-capsule::before { content: "=EE=A8=A5"; }
+
+.bx-captions::before { content: "=EE=A8=A6"; }
+
+.bx-car::before { content: "=EE=A8=A7"; }
+
+.bx-card::before { content: "=EE=A8=A8"; }
+
+.bx-caret-down::before { content: "=EE=A8=A9"; }
+
+.bx-caret-down-circle::before { content: "=EE=A8=AA"; }
+
+.bx-caret-down-square::before { content: "=EE=A8=AB"; }
+
+.bx-caret-left::before { content: "=EE=A8=AC"; }
+
+.bx-caret-left-circle::before { content: "=EE=A8=AD"; }
+
+.bx-caret-left-square::before { content: "=EE=A8=AE"; }
+
+.bx-caret-right::before { content: "=EE=A8=AF"; }
+
+.bx-caret-right-circle::before { content: "=EE=A8=B0"; }
+
+.bx-caret-right-square::before { content: "=EE=A8=B1"; }
+
+.bx-caret-up::before { content: "=EE=A8=B2"; }
+
+.bx-caret-up-circle::before { content: "=EE=A8=B3"; }
+
+.bx-caret-up-square::before { content: "=EE=A8=B4"; }
+
+.bx-carousel::before { content: "=EE=A8=B5"; }
+
+.bx-cart::before { content: "=EE=A8=B6"; }
+
+.bx-cart-alt::before { content: "=EE=A8=B7"; }
+
+.bx-cast::before { content: "=EE=A8=B8"; }
+
+.bx-category::before { content: "=EE=A8=B9"; }
+
+.bx-category-alt::before { content: "=EE=A8=BA"; }
+
+.bx-cctv::before { content: "=EE=A8=BB"; }
+
+.bx-certification::before { content: "=EE=A8=BC"; }
+
+.bx-chair::before { content: "=EE=A8=BD"; }
+
+.bx-chalkboard::before { content: "=EE=A8=BE"; }
+
+.bx-chart::before { content: "=EE=A8=BF"; }
+
+.bx-chat::before { content: "=EE=A9=80"; }
+
+.bx-check::before { content: "=EE=A9=81"; }
+
+.bx-checkbox::before { content: "=EE=A9=82"; }
+
+.bx-checkbox-checked::before { content: "=EE=A9=83"; }
+
+.bx-checkbox-minus::before { content: "=EE=A9=84"; }
+
+.bx-checkbox-square::before { content: "=EE=A9=85"; }
+
+.bx-check-circle::before { content: "=EE=A9=86"; }
+
+.bx-check-double::before { content: "=EE=A9=87"; }
+
+.bx-check-shield::before { content: "=EE=A9=88"; }
+
+.bx-check-square::before { content: "=EE=A9=89"; }
+
+.bx-chevron-down::before { content: "=EE=A9=8A"; }
+
+.bx-chevron-down-circle::before { content: "=EE=A9=8B"; }
+
+.bx-chevron-down-square::before { content: "=EE=A9=8C"; }
+
+.bx-chevron-left::before { content: "=EE=A9=8D"; }
+
+.bx-chevron-left-circle::before { content: "=EE=A9=8E"; }
+
+.bx-chevron-left-square::before { content: "=EE=A9=8F"; }
+
+.bx-chevron-right::before { content: "=EE=A9=90"; }
+
+.bx-chevron-right-circle::before { content: "=EE=A9=91"; }
+
+.bx-chevron-right-square::before { content: "=EE=A9=92"; }
+
+.bx-chevrons-down::before { content: "=EE=A9=93"; }
+
+.bx-chevrons-left::before { content: "=EE=A9=94"; }
+
+.bx-chevrons-right::before { content: "=EE=A9=95"; }
+
+.bx-chevrons-up::before { content: "=EE=A9=96"; }
+
+.bx-chevron-up::before { content: "=EE=A9=97"; }
+
+.bx-chevron-up-circle::before { content: "=EE=A9=98"; }
+
+.bx-chevron-up-square::before { content: "=EE=A9=99"; }
+
+.bx-chip::before { content: "=EE=A9=9A"; }
+
+.bx-church::before { content: "=EE=A9=9B"; }
+
+.bx-circle::before { content: "=EE=A9=9C"; }
+
+.bx-clinic::before { content: "=EE=A9=9D"; }
+
+.bx-clipboard::before { content: "=EE=A9=9E"; }
+
+.bx-closet::before { content: "=EE=A9=9F"; }
+
+.bx-cloud::before { content: "=EE=A9=A0"; }
+
+.bx-cloud-download::before { content: "=EE=A9=A1"; }
+
+.bx-cloud-drizzle::before { content: "=EE=A9=A2"; }
+
+.bx-cloud-lightning::before { content: "=EE=A9=A3"; }
+
+.bx-cloud-light-rain::before { content: "=EE=A9=A4"; }
+
+.bx-cloud-rain::before { content: "=EE=A9=A5"; }
+
+.bx-cloud-snow::before { content: "=EE=A9=A6"; }
+
+.bx-cloud-upload::before { content: "=EE=A9=A7"; }
+
+.bx-code::before { content: "=EE=A9=A8"; }
+
+.bx-code-alt::before { content: "=EE=A9=A9"; }
+
+.bx-code-block::before { content: "=EE=A9=AA"; }
+
+.bx-code-curly::before { content: "=EE=A9=AB"; }
+
+.bx-coffee::before { content: "=EE=A9=AC"; }
+
+.bx-coffee-togo::before { content: "=EE=A9=AD"; }
+
+.bx-cog::before { content: "=EE=A9=AE"; }
+
+.bx-coin::before { content: "=EE=A9=AF"; }
+
+.bx-coin-stack::before { content: "=EE=A9=B0"; }
+
+.bx-collapse::before { content: "=EE=A9=B1"; }
+
+.bx-collection::before { content: "=EE=A9=B2"; }
+
+.bx-color-fill::before { content: "=EE=A9=B3"; }
+
+.bx-columns::before { content: "=EE=A9=B4"; }
+
+.bx-command::before { content: "=EE=A9=B5"; }
+
+.bx-comment::before { content: "=EE=A9=B6"; }
+
+.bx-comment-add::before { content: "=EE=A9=B7"; }
+
+.bx-comment-check::before { content: "=EE=A9=B8"; }
+
+.bx-comment-detail::before { content: "=EE=A9=B9"; }
+
+.bx-comment-dots::before { content: "=EE=A9=BA"; }
+
+.bx-comment-edit::before { content: "=EE=A9=BB"; }
+
+.bx-comment-error::before { content: "=EE=A9=BC"; }
+
+.bx-comment-minus::before { content: "=EE=A9=BD"; }
+
+.bx-comment-x::before { content: "=EE=A9=BE"; }
+
+.bx-compass::before { content: "=EE=A9=BF"; }
+
+.bx-confused::before { content: "=EE=AA=80"; }
+
+.bx-conversation::before { content: "=EE=AA=81"; }
+
+.bx-cookie::before { content: "=EE=AA=82"; }
+
+.bx-cool::before { content: "=EE=AA=83"; }
+
+.bx-copy::before { content: "=EE=AA=84"; }
+
+.bx-copy-alt::before { content: "=EE=AA=85"; }
+
+.bx-copyright::before { content: "=EE=AA=86"; }
+
+.bx-credit-card::before { content: "=EE=AA=87"; }
+
+.bx-credit-card-alt::before { content: "=EE=AA=88"; }
+
+.bx-credit-card-front::before { content: "=EE=AA=89"; }
+
+.bx-crop::before { content: "=EE=AA=8A"; }
+
+.bx-crosshair::before { content: "=EE=AA=8B"; }
+
+.bx-crown::before { content: "=EE=AA=8C"; }
+
+.bx-cube::before { content: "=EE=AA=8D"; }
+
+.bx-cube-alt::before { content: "=EE=AA=8E"; }
+
+.bx-cuboid::before { content: "=EE=AA=8F"; }
+
+.bx-current-location::before { content: "=EE=AA=90"; }
+
+.bx-customize::before { content: "=EE=AA=91"; }
+
+.bx-cut::before { content: "=EE=AA=92"; }
+
+.bx-cycling::before { content: "=EE=AA=93"; }
+
+.bx-cylinder::before { content: "=EE=AA=94"; }
+
+.bx-data::before { content: "=EE=AA=95"; }
+
+.bx-desktop::before { content: "=EE=AA=96"; }
+
+.bx-detail::before { content: "=EE=AA=97"; }
+
+.bx-devices::before { content: "=EE=AA=98"; }
+
+.bx-dialpad::before { content: "=EE=AA=99"; }
+
+.bx-dialpad-alt::before { content: "=EE=AA=9A"; }
+
+.bx-diamond::before { content: "=EE=AA=9B"; }
+
+.bx-dice-1::before { content: "=EE=AA=9C"; }
+
+.bx-dice-2::before { content: "=EE=AA=9D"; }
+
+.bx-dice-3::before { content: "=EE=AA=9E"; }
+
+.bx-dice-4::before { content: "=EE=AA=9F"; }
+
+.bx-dice-5::before { content: "=EE=AA=A0"; }
+
+.bx-dice-6::before { content: "=EE=AA=A1"; }
+
+.bx-directions::before { content: "=EE=AA=A2"; }
+
+.bx-disc::before { content: "=EE=AA=A3"; }
+
+.bx-dish::before { content: "=EE=AA=A4"; }
+
+.bx-dislike::before { content: "=EE=AA=A5"; }
+
+.bx-dizzy::before { content: "=EE=AA=A6"; }
+
+.bx-dna::before { content: "=EE=AA=A7"; }
+
+.bx-dock-bottom::before { content: "=EE=AA=A8"; }
+
+.bx-dock-left::before { content: "=EE=AA=A9"; }
+
+.bx-dock-right::before { content: "=EE=AA=AA"; }
+
+.bx-dock-top::before { content: "=EE=AA=AB"; }
+
+.bx-dollar::before { content: "=EE=AA=AC"; }
+
+.bx-dollar-circle::before { content: "=EE=AA=AD"; }
+
+.bx-donate-blood::before { content: "=EE=AA=AE"; }
+
+.bx-donate-heart::before { content: "=EE=AA=AF"; }
+
+.bx-door-open::before { content: "=EE=AA=B0"; }
+
+.bx-dots-horizontal::before { content: "=EE=AA=B1"; }
+
+.bx-dots-horizontal-rounded::before { content: "=EE=AA=B2"; }
+
+.bx-dots-vertical::before { content: "=EE=AA=B3"; }
+
+.bx-dots-vertical-rounded::before { content: "=EE=AA=B4"; }
+
+.bx-doughnut-chart::before { content: "=EE=AA=B5"; }
+
+.bx-down-arrow::before { content: "=EE=AA=B6"; }
+
+.bx-down-arrow-alt::before { content: "=EE=AA=B7"; }
+
+.bx-down-arrow-circle::before { content: "=EE=AA=B8"; }
+
+.bx-download::before { content: "=EE=AA=B9"; }
+
+.bx-downvote::before { content: "=EE=AA=BA"; }
+
+.bx-drink::before { content: "=EE=AA=BB"; }
+
+.bx-droplet::before { content: "=EE=AA=BC"; }
+
+.bx-dumbbell::before { content: "=EE=AA=BD"; }
+
+.bx-duplicate::before { content: "=EE=AA=BE"; }
+
+.bx-edit::before { content: "=EE=AA=BF"; }
+
+.bx-edit-alt::before { content: "=EE=AB=80"; }
+
+.bx-envelope::before { content: "=EE=AB=81"; }
+
+.bx-envelope-open::before { content: "=EE=AB=82"; }
+
+.bx-equalizer::before { content: "=EE=AB=83"; }
+
+.bx-eraser::before { content: "=EE=AB=84"; }
+
+.bx-error::before { content: "=EE=AB=85"; }
+
+.bx-error-alt::before { content: "=EE=AB=86"; }
+
+.bx-error-circle::before { content: "=EE=AB=87"; }
+
+.bx-euro::before { content: "=EE=AB=88"; }
+
+.bx-exclude::before { content: "=EE=AB=89"; }
+
+.bx-exit::before { content: "=EE=AB=8A"; }
+
+.bx-exit-fullscreen::before { content: "=EE=AB=8B"; }
+
+.bx-expand::before { content: "=EE=AB=8C"; }
+
+.bx-expand-alt::before { content: "=EE=AB=8D"; }
+
+.bx-export::before { content: "=EE=AB=8E"; }
+
+.bx-extension::before { content: "=EE=AB=8F"; }
+
+.bx-face::before { content: "=EE=AB=90"; }
+
+.bx-fast-forward::before { content: "=EE=AB=91"; }
+
+.bx-fast-forward-circle::before { content: "=EE=AB=92"; }
+
+.bx-female::before { content: "=EE=AB=93"; }
+
+.bx-female-sign::before { content: "=EE=AB=94"; }
+
+.bx-file::before { content: "=EE=AB=95"; }
+
+.bx-file-blank::before { content: "=EE=AB=96"; }
+
+.bx-file-find::before { content: "=EE=AB=97"; }
+
+.bx-film::before { content: "=EE=AB=98"; }
+
+.bx-filter::before { content: "=EE=AB=99"; }
+
+.bx-filter-alt::before { content: "=EE=AB=9A"; }
+
+.bx-fingerprint::before { content: "=EE=AB=9B"; }
+
+.bx-first-aid::before { content: "=EE=AB=9C"; }
+
+.bx-first-page::before { content: "=EE=AB=9D"; }
+
+.bx-flag::before { content: "=EE=AB=9E"; }
+
+.bx-folder::before { content: "=EE=AB=9F"; }
+
+.bx-folder-minus::before { content: "=EE=AB=A0"; }
+
+.bx-folder-open::before { content: "=EE=AB=A1"; }
+
+.bx-folder-plus::before { content: "=EE=AB=A2"; }
+
+.bx-font::before { content: "=EE=AB=A3"; }
+
+.bx-font-color::before { content: "=EE=AB=A4"; }
+
+.bx-font-family::before { content: "=EE=AB=A5"; }
+
+.bx-font-size::before { content: "=EE=AB=A6"; }
+
+.bx-food-menu::before { content: "=EE=AB=A7"; }
+
+.bx-food-tag::before { content: "=EE=AB=A8"; }
+
+.bx-football::before { content: "=EE=AB=A9"; }
+
+.bx-fridge::before { content: "=EE=AB=AA"; }
+
+.bx-fullscreen::before { content: "=EE=AB=AB"; }
+
+.bx-game::before { content: "=EE=AB=AC"; }
+
+.bx-gas-pump::before { content: "=EE=AB=AD"; }
+
+.bx-ghost::before { content: "=EE=AB=AE"; }
+
+.bx-gift::before { content: "=EE=AB=AF"; }
+
+.bx-git-branch::before { content: "=EE=AB=B0"; }
+
+.bx-git-commit::before { content: "=EE=AB=B1"; }
+
+.bx-git-compare::before { content: "=EE=AB=B2"; }
+
+.bx-git-merge::before { content: "=EE=AB=B3"; }
+
+.bx-git-pull-request::before { content: "=EE=AB=B4"; }
+
+.bx-git-repo-forked::before { content: "=EE=AB=B5"; }
+
+.bx-glasses::before { content: "=EE=AB=B6"; }
+
+.bx-glasses-alt::before { content: "=EE=AB=B7"; }
+
+.bx-globe::before { content: "=EE=AB=B8"; }
+
+.bx-globe-alt::before { content: "=EE=AB=B9"; }
+
+.bx-grid::before { content: "=EE=AB=BA"; }
+
+.bx-grid-alt::before { content: "=EE=AB=BB"; }
+
+.bx-grid-horizontal::before { content: "=EE=AB=BC"; }
+
+.bx-grid-small::before { content: "=EE=AB=BD"; }
+
+.bx-grid-vertical::before { content: "=EE=AB=BE"; }
+
+.bx-group::before { content: "=EE=AB=BF"; }
+
+.bx-handicap::before { content: "=EE=AC=80"; }
+
+.bx-happy::before { content: "=EE=AC=81"; }
+
+.bx-happy-alt::before { content: "=EE=AC=82"; }
+
+.bx-happy-beaming::before { content: "=EE=AC=83"; }
+
+.bx-happy-heart-eyes::before { content: "=EE=AC=84"; }
+
+.bx-hash::before { content: "=EE=AC=85"; }
+
+.bx-hdd::before { content: "=EE=AC=86"; }
+
+.bx-heading::before { content: "=EE=AC=87"; }
+
+.bx-headphone::before { content: "=EE=AC=88"; }
+
+.bx-health::before { content: "=EE=AC=89"; }
+
+.bx-heart::before { content: "=EE=AC=8A"; }
+
+.bx-heart-circle::before { content: "=EE=AC=8B"; }
+
+.bx-heart-square::before { content: "=EE=AC=8C"; }
+
+.bx-help-circle::before { content: "=EE=AC=8D"; }
+
+.bx-hide::before { content: "=EE=AC=8E"; }
+
+.bx-highlight::before { content: "=EE=AC=8F"; }
+
+.bx-history::before { content: "=EE=AC=90"; }
+
+.bx-hive::before { content: "=EE=AC=91"; }
+
+.bx-home::before { content: "=EE=AC=92"; }
+
+.bx-home-alt::before { content: "=EE=AC=93"; }
+
+.bx-home-circle::before { content: "=EE=AC=94"; }
+
+.bx-home-heart::before { content: "=EE=AC=95"; }
+
+.bx-home-smile::before { content: "=EE=AC=96"; }
+
+.bx-horizontal-center::before { content: "=EE=AC=97"; }
+
+.bx-hotel::before { content: "=EE=AC=98"; }
+
+.bx-hourglass::before { content: "=EE=AC=99"; }
+
+.bx-id-card::before { content: "=EE=AC=9A"; }
+
+.bx-image::before { content: "=EE=AC=9B"; }
+
+.bx-image-add::before { content: "=EE=AC=9C"; }
+
+.bx-image-alt::before { content: "=EE=AC=9D"; }
+
+.bx-images::before { content: "=EE=AC=9E"; }
+
+.bx-import::before { content: "=EE=AC=9F"; }
+
+.bx-infinite::before { content: "=EE=AC=A0"; }
+
+.bx-info-circle::before { content: "=EE=AC=A1"; }
+
+.bx-info-square::before { content: "=EE=AC=A2"; }
+
+.bx-intersect::before { content: "=EE=AC=A3"; }
+
+.bx-italic::before { content: "=EE=AC=A4"; }
+
+.bx-joystick::before { content: "=EE=AC=A5"; }
+
+.bx-joystick-alt::before { content: "=EE=AC=A6"; }
+
+.bx-joystick-button::before { content: "=EE=AC=A7"; }
+
+.bx-key::before { content: "=EE=AC=A8"; }
+
+.bx-label::before { content: "=EE=AC=A9"; }
+
+.bx-landscape::before { content: "=EE=AC=AA"; }
+
+.bx-laptop::before { content: "=EE=AC=AB"; }
+
+.bx-last-page::before { content: "=EE=AC=AC"; }
+
+.bx-laugh::before { content: "=EE=AC=AD"; }
+
+.bx-layer::before { content: "=EE=AC=AE"; }
+
+.bx-layer-minus::before { content: "=EE=AC=AF"; }
+
+.bx-layer-plus::before { content: "=EE=AC=B0"; }
+
+.bx-layout::before { content: "=EE=AC=B1"; }
+
+.bx-left-arrow::before { content: "=EE=AC=B2"; }
+
+.bx-left-arrow-alt::before { content: "=EE=AC=B3"; }
+
+.bx-left-arrow-circle::before { content: "=EE=AC=B4"; }
+
+.bx-left-down-arrow-circle::before { content: "=EE=AC=B5"; }
+
+.bx-left-indent::before { content: "=EE=AC=B6"; }
+
+.bx-left-top-arrow-circle::before { content: "=EE=AC=B7"; }
+
+.bx-library::before { content: "=EE=AC=B8"; }
+
+.bx-like::before { content: "=EE=AC=B9"; }
+
+.bx-line-chart::before { content: "=EE=AC=BA"; }
+
+.bx-line-chart-down::before { content: "=EE=AC=BB"; }
+
+.bx-link::before { content: "=EE=AC=BC"; }
+
+.bx-link-alt::before { content: "=EE=AC=BD"; }
+
+.bx-link-external::before { content: "=EE=AC=BE"; }
+
+.bx-lira::before { content: "=EE=AC=BF"; }
+
+.bx-list-check::before { content: "=EE=AD=80"; }
+
+.bx-list-minus::before { content: "=EE=AD=81"; }
+
+.bx-list-ol::before { content: "=EE=AD=82"; }
+
+.bx-list-plus::before { content: "=EE=AD=83"; }
+
+.bx-list-ul::before { content: "=EE=AD=84"; }
+
+.bx-loader::before { content: "=EE=AD=85"; }
+
+.bx-loader-alt::before { content: "=EE=AD=86"; }
+
+.bx-loader-circle::before { content: "=EE=AD=87"; }
+
+.bx-location-plus::before { content: "=EE=AD=88"; }
+
+.bx-lock::before { content: "=EE=AD=89"; }
+
+.bx-lock-alt::before { content: "=EE=AD=8A"; }
+
+.bx-lock-open::before { content: "=EE=AD=8B"; }
+
+.bx-lock-open-alt::before { content: "=EE=AD=8C"; }
+
+.bx-log-in::before { content: "=EE=AD=8D"; }
+
+.bx-log-in-circle::before { content: "=EE=AD=8E"; }
+
+.bx-log-out::before { content: "=EE=AD=8F"; }
+
+.bx-log-out-circle::before { content: "=EE=AD=90"; }
+
+.bx-low-vision::before { content: "=EE=AD=91"; }
+
+.bx-magnet::before { content: "=EE=AD=92"; }
+
+.bx-mail-send::before { content: "=EE=AD=93"; }
+
+.bx-male::before { content: "=EE=AD=94"; }
+
+.bx-male-sign::before { content: "=EE=AD=95"; }
+
+.bx-map::before { content: "=EE=AD=96"; }
+
+.bx-map-alt::before { content: "=EE=AD=97"; }
+
+.bx-map-pin::before { content: "=EE=AD=98"; }
+
+.bx-mask::before { content: "=EE=AD=99"; }
+
+.bx-medal::before { content: "=EE=AD=9A"; }
+
+.bx-meh::before { content: "=EE=AD=9B"; }
+
+.bx-meh-alt::before { content: "=EE=AD=9C"; }
+
+.bx-meh-blank::before { content: "=EE=AD=9D"; }
+
+.bx-memory-card::before { content: "=EE=AD=9E"; }
+
+.bx-menu::before { content: "=EE=AD=9F"; }
+
+.bx-menu-alt-left::before { content: "=EE=BD=9B"; }
+
+.bx-menu-alt-right::before { content: "=EE=AD=A1"; }
+
+.bx-merge::before { content: "=EE=AD=A2"; }
+
+.bx-message::before { content: "=EE=AD=A3"; }
+
+.bx-message-add::before { content: "=EE=AD=A4"; }
+
+.bx-message-alt::before { content: "=EE=AD=A5"; }
+
+.bx-message-alt-add::before { content: "=EE=AD=A6"; }
+
+.bx-message-alt-check::before { content: "=EE=AD=A7"; }
+
+.bx-message-alt-detail::before { content: "=EE=AD=A8"; }
+
+.bx-message-alt-dots::before { content: "=EE=AD=A9"; }
+
+.bx-message-alt-edit::before { content: "=EE=AD=AA"; }
+
+.bx-message-alt-error::before { content: "=EE=AD=AB"; }
+
+.bx-message-alt-minus::before { content: "=EE=AD=AC"; }
+
+.bx-message-alt-x::before { content: "=EE=AD=AD"; }
+
+.bx-message-check::before { content: "=EE=AD=AE"; }
+
+.bx-message-detail::before { content: "=EE=AD=AF"; }
+
+.bx-message-dots::before { content: "=EE=AD=B0"; }
+
+.bx-message-edit::before { content: "=EE=AD=B1"; }
+
+.bx-message-error::before { content: "=EE=AD=B2"; }
+
+.bx-message-minus::before { content: "=EE=AD=B3"; }
+
+.bx-message-rounded::before { content: "=EE=AD=B4"; }
+
+.bx-message-rounded-add::before { content: "=EE=AD=B5"; }
+
+.bx-message-rounded-check::before { content: "=EE=AD=B6"; }
+
+.bx-message-rounded-detail::before { content: "=EE=AD=B7"; }
+
+.bx-message-rounded-dots::before { content: "=EE=AD=B8"; }
+
+.bx-message-rounded-edit::before { content: "=EE=BD=9C"; }
+
+.bx-message-rounded-error::before { content: "=EE=AD=BA"; }
+
+.bx-message-rounded-minus::before { content: "=EE=AD=BB"; }
+
+.bx-message-rounded-x::before { content: "=EE=AD=BC"; }
+
+.bx-message-square::before { content: "=EE=AD=BD"; }
+
+.bx-message-square-add::before { content: "=EE=AD=BE"; }
+
+.bx-message-square-check::before { content: "=EE=AD=BF"; }
+
+.bx-message-square-detail::before { content: "=EE=AE=80"; }
+
+.bx-message-square-dots::before { content: "=EE=AE=81"; }
+
+.bx-message-square-edit::before { content: "=EE=AE=82"; }
+
+.bx-message-square-error::before { content: "=EE=AE=83"; }
+
+.bx-message-square-minus::before { content: "=EE=AE=84"; }
+
+.bx-message-square-x::before { content: "=EE=AE=85"; }
+
+.bx-message-x::before { content: "=EE=AE=86"; }
+
+.bx-meteor::before { content: "=EE=AE=87"; }
+
+.bx-microchip::before { content: "=EE=AE=88"; }
+
+.bx-microphone::before { content: "=EE=AE=89"; }
+
+.bx-microphone-off::before { content: "=EE=AE=8A"; }
+
+.bx-minus::before { content: "=EE=AE=8B"; }
+
+.bx-minus-back::before { content: "=EE=AE=8C"; }
+
+.bx-minus-circle::before { content: "=EE=AE=8D"; }
+
+.bx-minus-front::before { content: "=EE=AE=8E"; }
+
+.bx-mobile::before { content: "=EE=AE=8F"; }
+
+.bx-mobile-alt::before { content: "=EE=AE=90"; }
+
+.bx-mobile-landscape::before { content: "=EE=AE=91"; }
+
+.bx-mobile-vibration::before { content: "=EE=BD=9D"; }
+
+.bx-money::before { content: "=EE=AE=93"; }
+
+.bx-moon::before { content: "=EE=AE=94"; }
+
+.bx-mouse::before { content: "=EE=AE=95"; }
+
+.bx-mouse-alt::before { content: "=EE=AE=96"; }
+
+.bx-move::before { content: "=EE=AE=97"; }
+
+.bx-move-horizontal::before { content: "=EE=AE=98"; }
+
+.bx-move-vertical::before { content: "=EE=AE=99"; }
+
+.bx-movie::before { content: "=EE=AE=9A"; }
+
+.bx-movie-play::before { content: "=EE=AE=9B"; }
+
+.bx-music::before { content: "=EE=AE=9C"; }
+
+.bx-navigation::before { content: "=EE=AE=9D"; }
+
+.bx-network-chart::before { content: "=EE=AE=9E"; }
+
+.bx-news::before { content: "=EE=AE=9F"; }
+
+.bx-no-entry::before { content: "=EE=AE=A0"; }
+
+.bx-note::before { content: "=EE=AE=A1"; }
+
+.bx-notepad::before { content: "=EE=AE=A2"; }
+
+.bx-notification::before { content: "=EE=AE=A3"; }
+
+.bx-notification-off::before { content: "=EE=AE=A4"; }
+
+.bx-outline::before { content: "=EE=AE=A5"; }
+
+.bx-package::before { content: "=EE=AE=A6"; }
+
+.bx-paint::before { content: "=EE=AE=A7"; }
+
+.bx-paint-roll::before { content: "=EE=AE=A8"; }
+
+.bx-palette::before { content: "=EE=AE=A9"; }
+
+.bx-paperclip::before { content: "=EE=AE=AA"; }
+
+.bx-paper-plane::before { content: "=EE=BD=A1"; }
+
+.bx-paragraph::before { content: "=EE=AE=AC"; }
+
+.bx-paste::before { content: "=EE=AE=AD"; }
+
+.bx-pause::before { content: "=EE=AE=AE"; }
+
+.bx-pause-circle::before { content: "=EE=AE=AF"; }
+
+.bx-pen::before { content: "=EE=AE=B0"; }
+
+.bx-pencil::before { content: "=EE=AE=B1"; }
+
+.bx-phone::before { content: "=EE=AE=B2"; }
+
+.bx-phone-call::before { content: "=EE=AE=B3"; }
+
+.bx-phone-incoming::before { content: "=EE=AE=B4"; }
+
+.bx-phone-off::before { content: "=EE=AE=B5"; }
+
+.bx-phone-outgoing::before { content: "=EE=AE=B6"; }
+
+.bx-photo-album::before { content: "=EE=AE=B7"; }
+
+.bx-pie-chart::before { content: "=EE=AE=B8"; }
+
+.bx-pie-chart-alt::before { content: "=EE=AE=B9"; }
+
+.bx-pie-chart-alt-2::before { content: "=EE=AE=BA"; }
+
+.bx-pin::before { content: "=EE=AE=BB"; }
+
+.bx-planet::before { content: "=EE=AE=BC"; }
+
+.bx-play::before { content: "=EE=AE=BD"; }
+
+.bx-play-circle::before { content: "=EE=AE=BE"; }
+
+.bx-plug::before { content: "=EE=AE=BF"; }
+
+.bx-plus::before { content: "=EE=AF=80"; }
+
+.bx-plus-circle::before { content: "=EE=AF=81"; }
+
+.bx-plus-medical::before { content: "=EE=AF=82"; }
+
+.bx-podcast::before { content: "=EE=AF=83"; }
+
+.bx-pointer::before { content: "=EE=BD=9E"; }
+
+.bx-poll::before { content: "=EE=AF=85"; }
+
+.bx-polygon::before { content: "=EE=AF=86"; }
+
+.bx-pound::before { content: "=EE=AF=87"; }
+
+.bx-power-off::before { content: "=EE=AF=88"; }
+
+.bx-printer::before { content: "=EE=AF=89"; }
+
+.bx-pulse::before { content: "=EE=AF=8A"; }
+
+.bx-purchase-tag::before { content: "=EE=AF=8B"; }
+
+.bx-purchase-tag-alt::before { content: "=EE=AF=8C"; }
+
+.bx-pyramid::before { content: "=EE=AF=8D"; }
+
+.bx-qr::before { content: "=EE=AF=8E"; }
+
+.bx-qr-scan::before { content: "=EE=AF=8F"; }
+
+.bx-question-mark::before { content: "=EE=AF=90"; }
+
+.bx-radar::before { content: "=EE=AF=91"; }
+
+.bx-radio::before { content: "=EE=AF=92"; }
+
+.bx-radio-circle::before { content: "=EE=AF=93"; }
+
+.bx-radio-circle-marked::before { content: "=EE=AF=94"; }
+
+.bx-receipt::before { content: "=EE=AF=95"; }
+
+.bx-rectangle::before { content: "=EE=AF=96"; }
+
+.bx-recycle::before { content: "=EE=AF=97"; }
+
+.bx-redo::before { content: "=EE=AF=98"; }
+
+.bx-refresh::before { content: "=EE=AF=99"; }
+
+.bx-registered::before { content: "=EE=AF=9A"; }
+
+.bx-rename::before { content: "=EE=AF=9B"; }
+
+.bx-repeat::before { content: "=EE=AF=9C"; }
+
+.bx-reply::before { content: "=EE=BD=9F"; }
+
+.bx-reply-all::before { content: "=EE=AF=9E"; }
+
+.bx-repost::before { content: "=EE=AF=9F"; }
+
+.bx-reset::before { content: "=EE=AF=A0"; }
+
+.bx-restaurant::before { content: "=EE=AF=A1"; }
+
+.bx-revision::before { content: "=EE=AF=A2"; }
+
+.bx-rewind::before { content: "=EE=AF=A3"; }
+
+.bx-rewind-circle::before { content: "=EE=AF=A4"; }
+
+.bx-right-arrow::before { content: "=EE=AF=A5"; }
+
+.bx-right-arrow-alt::before { content: "=EE=AF=A6"; }
+
+.bx-right-arrow-circle::before { content: "=EE=AF=A7"; }
+
+.bx-right-down-arrow-circle::before { content: "=EE=AF=A8"; }
+
+.bx-right-indent::before { content: "=EE=AF=A9"; }
+
+.bx-right-top-arrow-circle::before { content: "=EE=AF=AA"; }
+
+.bx-rocket::before { content: "=EE=AF=AB"; }
+
+.bx-rotate-left::before { content: "=EE=AF=AC"; }
+
+.bx-rotate-right::before { content: "=EE=AF=AD"; }
+
+.bx-rss::before { content: "=EE=AF=AE"; }
+
+.bx-ruble::before { content: "=EE=AF=AF"; }
+
+.bx-ruler::before { content: "=EE=AF=B0"; }
+
+.bx-run::before { content: "=EE=AF=B1"; }
+
+.bx-rupee::before { content: "=EE=AF=B2"; }
+
+.bx-sad::before { content: "=EE=AF=B3"; }
+
+.bx-save::before { content: "=EE=AF=B4"; }
+
+.bx-scan::before { content: "=EE=AF=B5"; }
+
+.bx-screenshot::before { content: "=EE=BD=A0"; }
+
+.bx-search::before { content: "=EE=AF=B7"; }
+
+.bx-search-alt::before { content: "=EE=AF=B8"; }
+
+.bx-search-alt-2::before { content: "=EE=AF=B9"; }
+
+.bx-selection::before { content: "=EE=AF=BA"; }
+
+.bx-select-multiple::before { content: "=EE=AF=BB"; }
+
+.bx-send::before { content: "=EE=AF=BC"; }
+
+.bx-server::before { content: "=EE=AF=BD"; }
+
+.bx-shape-circle::before { content: "=EE=AF=BE"; }
+
+.bx-shape-polygon::before { content: "=EE=AF=BF"; }
+
+.bx-shape-square::before { content: "=EE=B0=80"; }
+
+.bx-shape-triangle::before { content: "=EE=B0=81"; }
+
+.bx-share::before { content: "=EE=B0=82"; }
+
+.bx-share-alt::before { content: "=EE=B0=83"; }
+
+.bx-shekel::before { content: "=EE=B0=84"; }
+
+.bx-shield::before { content: "=EE=B0=85"; }
+
+.bx-shield-alt::before { content: "=EE=B0=86"; }
+
+.bx-shield-alt-2::before { content: "=EE=B0=87"; }
+
+.bx-shield-quarter::before { content: "=EE=B0=88"; }
+
+.bx-shield-x::before { content: "=EE=B0=89"; }
+
+.bx-shocked::before { content: "=EE=B0=8A"; }
+
+.bx-shopping-bag::before { content: "=EE=B0=8B"; }
+
+.bx-show::before { content: "=EE=B0=8C"; }
+
+.bx-show-alt::before { content: "=EE=B0=8D"; }
+
+.bx-shuffle::before { content: "=EE=B0=8E"; }
+
+.bx-sidebar::before { content: "=EE=B0=8F"; }
+
+.bx-sitemap::before { content: "=EE=B0=90"; }
+
+.bx-skip-next::before { content: "=EE=B0=91"; }
+
+.bx-skip-next-circle::before { content: "=EE=B0=92"; }
+
+.bx-skip-previous::before { content: "=EE=B0=93"; }
+
+.bx-skip-previous-circle::before { content: "=EE=B0=94"; }
+
+.bx-sleepy::before { content: "=EE=B0=95"; }
+
+.bx-slider::before { content: "=EE=B0=96"; }
+
+.bx-slider-alt::before { content: "=EE=B0=97"; }
+
+.bx-slideshow::before { content: "=EE=B0=98"; }
+
+.bx-smile::before { content: "=EE=B0=99"; }
+
+.bx-sort::before { content: "=EE=B0=9A"; }
+
+.bx-sort-alt-2::before { content: "=EE=B0=9B"; }
+
+.bx-sort-a-z::before { content: "=EE=B0=9C"; }
+
+.bx-sort-down::before { content: "=EE=B0=9D"; }
+
+.bx-sort-up::before { content: "=EE=B0=9E"; }
+
+.bx-sort-z-a::before { content: "=EE=B0=9F"; }
+
+.bx-spa::before { content: "=EE=B0=A0"; }
+
+.bx-space-bar::before { content: "=EE=B0=A1"; }
+
+.bx-speaker::before { content: "=EE=B0=A2"; }
+
+.bx-spray-can::before { content: "=EE=B0=A3"; }
+
+.bx-spreadsheet::before { content: "=EE=B0=A4"; }
+
+.bx-square::before { content: "=EE=B0=A5"; }
+
+.bx-square-rounded::before { content: "=EE=B0=A6"; }
+
+.bx-star::before { content: "=EE=B0=A7"; }
+
+.bx-station::before { content: "=EE=B0=A8"; }
+
+.bx-stats::before { content: "=EE=B0=A9"; }
+
+.bx-sticker::before { content: "=EE=B0=AA"; }
+
+.bx-stop::before { content: "=EE=B0=AB"; }
+
+.bx-stop-circle::before { content: "=EE=B0=AC"; }
+
+.bx-stopwatch::before { content: "=EE=B0=AD"; }
+
+.bx-store::before { content: "=EE=B0=AE"; }
+
+.bx-store-alt::before { content: "=EE=B0=AF"; }
+
+.bx-street-view::before { content: "=EE=B0=B0"; }
+
+.bx-strikethrough::before { content: "=EE=B0=B1"; }
+
+.bx-subdirectory-left::before { content: "=EE=B0=B2"; }
+
+.bx-subdirectory-right::before { content: "=EE=B0=B3"; }
+
+.bx-sun::before { content: "=EE=B0=B4"; }
+
+.bx-support::before { content: "=EE=B0=B5"; }
+
+.bx-swim::before { content: "=EE=B0=B6"; }
+
+.bx-sync::before { content: "=EE=B0=B7"; }
+
+.bx-tab::before { content: "=EE=B0=B8"; }
+
+.bx-table::before { content: "=EE=B0=B9"; }
+
+.bx-tachometer::before { content: "=EE=B0=BA"; }
+
+.bx-tag::before { content: "=EE=B0=BB"; }
+
+.bx-tag-alt::before { content: "=EE=B0=BC"; }
+
+.bx-target-lock::before { content: "=EE=B0=BD"; }
+
+.bx-task::before { content: "=EE=B0=BE"; }
+
+.bx-task-x::before { content: "=EE=B0=BF"; }
+
+.bx-taxi::before { content: "=EE=B1=80"; }
+
+.bx-tennis-ball::before { content: "=EE=B1=81"; }
+
+.bx-terminal::before { content: "=EE=B1=82"; }
+
+.bx-test-tube::before { content: "=EE=B1=83"; }
+
+.bx-text::before { content: "=EE=B1=84"; }
+
+.bx-time::before { content: "=EE=B1=85"; }
+
+.bx-time-five::before { content: "=EE=B1=86"; }
+
+.bx-timer::before { content: "=EE=B1=87"; }
+
+.bx-tired::before { content: "=EE=B1=88"; }
+
+.bx-toggle-left::before { content: "=EE=B1=89"; }
+
+.bx-toggle-right::before { content: "=EE=B1=8A"; }
+
+.bx-tone::before { content: "=EE=B1=8B"; }
+
+.bx-traffic-cone::before { content: "=EE=B1=8C"; }
+
+.bx-train::before { content: "=EE=B1=8D"; }
+
+.bx-transfer::before { content: "=EE=B1=8E"; }
+
+.bx-transfer-alt::before { content: "=EE=B1=8F"; }
+
+.bx-trash::before { content: "=EE=B1=90"; }
+
+.bx-trash-alt::before { content: "=EE=B1=91"; }
+
+.bx-trending-down::before { content: "=EE=B1=92"; }
+
+.bx-trending-up::before { content: "=EE=B1=93"; }
+
+.bx-trim::before { content: "=EE=B1=94"; }
+
+.bx-trip::before { content: "=EE=B1=95"; }
+
+.bx-trophy::before { content: "=EE=B1=96"; }
+
+.bx-tv::before { content: "=EE=B1=97"; }
+
+.bx-underline::before { content: "=EE=B1=98"; }
+
+.bx-undo::before { content: "=EE=B1=99"; }
+
+.bx-unite::before { content: "=EE=B1=9A"; }
+
+.bx-unlink::before { content: "=EE=B1=9B"; }
+
+.bx-up-arrow::before { content: "=EE=B1=9C"; }
+
+.bx-up-arrow-alt::before { content: "=EE=B1=9D"; }
+
+.bx-up-arrow-circle::before { content: "=EE=B1=9E"; }
+
+.bx-upload::before { content: "=EE=B1=9F"; }
+
+.bx-upside-down::before { content: "=EE=B1=A0"; }
+
+.bx-upvote::before { content: "=EE=B1=A1"; }
+
+.bx-usb::before { content: "=EE=B1=A2"; }
+
+.bx-user::before { content: "=EE=B1=A3"; }
+
+.bx-user-check::before { content: "=EE=B1=A4"; }
+
+.bx-user-circle::before { content: "=EE=B1=A5"; }
+
+.bx-user-minus::before { content: "=EE=B1=A6"; }
+
+.bx-user-pin::before { content: "=EE=B1=A7"; }
+
+.bx-user-plus::before { content: "=EE=B1=A8"; }
+
+.bx-user-voice::before { content: "=EE=B1=A9"; }
+
+.bx-user-x::before { content: "=EE=B1=AA"; }
+
+.bx-vector::before { content: "=EE=B1=AB"; }
+
+.bx-vertical-center::before { content: "=EE=B1=AC"; }
+
+.bx-vial::before { content: "=EE=B1=AD"; }
+
+.bx-video::before { content: "=EE=B1=AE"; }
+
+.bx-video-off::before { content: "=EE=B1=AF"; }
+
+.bx-video-plus::before { content: "=EE=B1=B0"; }
+
+.bx-video-recording::before { content: "=EE=B1=B1"; }
+
+.bx-voicemail::before { content: "=EE=B1=B2"; }
+
+.bx-volume::before { content: "=EE=B1=B3"; }
+
+.bx-volume-full::before { content: "=EE=B1=B4"; }
+
+.bx-volume-low::before { content: "=EE=B1=B5"; }
+
+.bx-volume-mute::before { content: "=EE=B1=B6"; }
+
+.bx-walk::before { content: "=EE=B1=B7"; }
+
+.bx-wallet::before { content: "=EE=B1=B8"; }
+
+.bx-wallet-alt::before { content: "=EE=B1=B9"; }
+
+.bx-water::before { content: "=EE=B1=BA"; }
+
+.bx-webcam::before { content: "=EE=B1=BB"; }
+
+.bx-wifi::before { content: "=EE=B1=BC"; }
+
+.bx-wifi-0::before { content: "=EE=B1=BD"; }
+
+.bx-wifi-1::before { content: "=EE=B1=BE"; }
+
+.bx-wifi-2::before { content: "=EE=B1=BF"; }
+
+.bx-wifi-off::before { content: "=EE=B2=80"; }
+
+.bx-wind::before { content: "=EE=B2=81"; }
+
+.bx-window::before { content: "=EE=B2=82"; }
+
+.bx-window-alt::before { content: "=EE=B2=83"; }
+
+.bx-window-close::before { content: "=EE=B2=84"; }
+
+.bx-window-open::before { content: "=EE=B2=85"; }
+
+.bx-windows::before { content: "=EE=B2=86"; }
+
+.bx-wine::before { content: "=EE=B2=87"; }
+
+.bx-wink-smile::before { content: "=EE=B2=88"; }
+
+.bx-wink-tongue::before { content: "=EE=B2=89"; }
+
+.bx-won::before { content: "=EE=B2=8A"; }
+
+.bx-world::before { content: "=EE=B2=8B"; }
+
+.bx-wrench::before { content: "=EE=B2=8C"; }
+
+.bx-x::before { content: "=EE=B2=8D"; }
+
+.bx-x-circle::before { content: "=EE=B2=8E"; }
+
+.bx-yen::before { content: "=EE=B2=8F"; }
+
+.bx-zoom-in::before { content: "=EE=B2=90"; }
+
+.bx-zoom-out::before { content: "=EE=B2=91"; }
+
+.bxs-party::before { content: "=EE=B2=92"; }
+
+.bxs-hot::before { content: "=EE=B2=93"; }
+
+.bxs-droplet::before { content: "=EE=B2=94"; }
+
+.bxs-cat::before { content: "=EE=B2=95"; }
+
+.bxs-dog::before { content: "=EE=B2=96"; }
+
+.bxs-injection::before { content: "=EE=B2=97"; }
+
+.bxs-leaf::before { content: "=EE=B2=98"; }
+
+.bxs-add-to-queue::before { content: "=EE=B2=99"; }
+
+.bxs-adjust::before { content: "=EE=B2=9A"; }
+
+.bxs-adjust-alt::before { content: "=EE=B2=9B"; }
+
+.bxs-alarm::before { content: "=EE=B2=9C"; }
+
+.bxs-alarm-add::before { content: "=EE=B2=9D"; }
+
+.bxs-alarm-exclamation::before { content: "=EE=B2=9E"; }
+
+.bxs-alarm-off::before { content: "=EE=B2=9F"; }
+
+.bxs-alarm-snooze::before { content: "=EE=B2=A0"; }
+
+.bxs-album::before { content: "=EE=B2=A1"; }
+
+.bxs-ambulance::before { content: "=EE=B2=A2"; }
+
+.bxs-analyse::before { content: "=EE=B2=A3"; }
+
+.bxs-angry::before { content: "=EE=B2=A4"; }
+
+.bxs-arch::before { content: "=EE=B2=A5"; }
+
+.bxs-archive::before { content: "=EE=B2=A6"; }
+
+.bxs-archive-in::before { content: "=EE=B2=A7"; }
+
+.bxs-archive-out::before { content: "=EE=B2=A8"; }
+
+.bxs-area::before { content: "=EE=B2=A9"; }
+
+.bxs-arrow-from-bottom::before { content: "=EE=B2=AA"; }
+
+.bxs-arrow-from-left::before { content: "=EE=B2=AB"; }
+
+.bxs-arrow-from-right::before { content: "=EE=B2=AC"; }
+
+.bxs-arrow-from-top::before { content: "=EE=B2=AD"; }
+
+.bxs-arrow-to-bottom::before { content: "=EE=B2=AE"; }
+
+.bxs-arrow-to-left::before { content: "=EE=B2=AF"; }
+
+.bxs-arrow-to-right::before { content: "=EE=B2=B0"; }
+
+.bxs-arrow-to-top::before { content: "=EE=B2=B1"; }
+
+.bxs-award::before { content: "=EE=B2=B2"; }
+
+.bxs-baby-carriage::before { content: "=EE=B2=B3"; }
+
+.bxs-backpack::before { content: "=EE=B2=B4"; }
+
+.bxs-badge::before { content: "=EE=B2=B5"; }
+
+.bxs-badge-check::before { content: "=EE=B2=B6"; }
+
+.bxs-badge-dollar::before { content: "=EE=B2=B7"; }
+
+.bxs-ball::before { content: "=EE=B2=B8"; }
+
+.bxs-band-aid::before { content: "=EE=B2=B9"; }
+
+.bxs-bank::before { content: "=EE=B2=BA"; }
+
+.bxs-bar-chart-alt-2::before { content: "=EE=B2=BB"; }
+
+.bxs-bar-chart-square::before { content: "=EE=B2=BC"; }
+
+.bxs-barcode::before { content: "=EE=B2=BD"; }
+
+.bxs-baseball::before { content: "=EE=B2=BE"; }
+
+.bxs-basket::before { content: "=EE=B2=BF"; }
+
+.bxs-basketball::before { content: "=EE=B3=80"; }
+
+.bxs-bath::before { content: "=EE=B3=81"; }
+
+.bxs-battery::before { content: "=EE=B3=82"; }
+
+.bxs-battery-charging::before { content: "=EE=B3=83"; }
+
+.bxs-battery-full::before { content: "=EE=B3=84"; }
+
+.bxs-battery-low::before { content: "=EE=B3=85"; }
+
+.bxs-bed::before { content: "=EE=B3=86"; }
+
+.bxs-been-here::before { content: "=EE=B3=87"; }
+
+.bxs-beer::before { content: "=EE=B3=88"; }
+
+.bxs-bell::before { content: "=EE=B3=89"; }
+
+.bxs-bell-minus::before { content: "=EE=B3=8A"; }
+
+.bxs-bell-off::before { content: "=EE=B3=8B"; }
+
+.bxs-bell-plus::before { content: "=EE=B3=8C"; }
+
+.bxs-bell-ring::before { content: "=EE=B3=8D"; }
+
+.bxs-bible::before { content: "=EE=B3=8E"; }
+
+.bxs-binoculars::before { content: "=EE=B3=8F"; }
+
+.bxs-blanket::before { content: "=EE=B3=90"; }
+
+.bxs-bolt::before { content: "=EE=B3=91"; }
+
+.bxs-bolt-circle::before { content: "=EE=B3=92"; }
+
+.bxs-bomb::before { content: "=EE=B3=93"; }
+
+.bxs-bone::before { content: "=EE=B3=94"; }
+
+.bxs-bong::before { content: "=EE=B3=95"; }
+
+.bxs-book::before { content: "=EE=B3=96"; }
+
+.bxs-book-add::before { content: "=EE=B3=97"; }
+
+.bxs-book-alt::before { content: "=EE=B3=98"; }
+
+.bxs-book-bookmark::before { content: "=EE=B3=99"; }
+
+.bxs-book-content::before { content: "=EE=B3=9A"; }
+
+.bxs-book-heart::before { content: "=EE=B3=9B"; }
+
+.bxs-bookmark::before { content: "=EE=B3=9C"; }
+
+.bxs-bookmark-alt::before { content: "=EE=B3=9D"; }
+
+.bxs-bookmark-alt-minus::before { content: "=EE=B3=9E"; }
+
+.bxs-bookmark-alt-plus::before { content: "=EE=B3=9F"; }
+
+.bxs-bookmark-heart::before { content: "=EE=B3=A0"; }
+
+.bxs-bookmark-minus::before { content: "=EE=B3=A1"; }
+
+.bxs-bookmark-plus::before { content: "=EE=B3=A2"; }
+
+.bxs-bookmarks::before { content: "=EE=B3=A3"; }
+
+.bxs-bookmark-star::before { content: "=EE=B3=A4"; }
+
+.bxs-book-open::before { content: "=EE=B3=A5"; }
+
+.bxs-book-reader::before { content: "=EE=B3=A6"; }
+
+.bxs-bot::before { content: "=EE=B3=A7"; }
+
+.bxs-bowling-ball::before { content: "=EE=B3=A8"; }
+
+.bxs-box::before { content: "=EE=B3=A9"; }
+
+.bxs-brain::before { content: "=EE=B3=AA"; }
+
+.bxs-briefcase::before { content: "=EE=B3=AB"; }
+
+.bxs-briefcase-alt::before { content: "=EE=B3=AC"; }
+
+.bxs-briefcase-alt-2::before { content: "=EE=B3=AD"; }
+
+.bxs-brightness::before { content: "=EE=B3=AE"; }
+
+.bxs-brightness-half::before { content: "=EE=B3=AF"; }
+
+.bxs-brush::before { content: "=EE=B3=B0"; }
+
+.bxs-brush-alt::before { content: "=EE=B3=B1"; }
+
+.bxs-bug::before { content: "=EE=B3=B2"; }
+
+.bxs-bug-alt::before { content: "=EE=B3=B3"; }
+
+.bxs-building::before { content: "=EE=B3=B4"; }
+
+.bxs-building-house::before { content: "=EE=B3=B5"; }
+
+.bxs-buildings::before { content: "=EE=B3=B6"; }
+
+.bxs-bulb::before { content: "=EE=B3=B7"; }
+
+.bxs-bullseye::before { content: "=EE=B3=B8"; }
+
+.bxs-buoy::before { content: "=EE=B3=B9"; }
+
+.bxs-bus::before { content: "=EE=B3=BA"; }
+
+.bxs-business::before { content: "=EE=B3=BB"; }
+
+.bxs-bus-school::before { content: "=EE=B3=BC"; }
+
+.bxs-cabinet::before { content: "=EE=B3=BD"; }
+
+.bxs-cake::before { content: "=EE=B3=BE"; }
+
+.bxs-calculator::before { content: "=EE=B3=BF"; }
+
+.bxs-calendar::before { content: "=EE=B4=80"; }
+
+.bxs-calendar-alt::before { content: "=EE=B4=81"; }
+
+.bxs-calendar-check::before { content: "=EE=B4=82"; }
+
+.bxs-calendar-edit::before { content: "=EE=B4=83"; }
+
+.bxs-calendar-event::before { content: "=EE=B4=84"; }
+
+.bxs-calendar-exclamation::before { content: "=EE=B4=85"; }
+
+.bxs-calendar-heart::before { content: "=EE=B4=86"; }
+
+.bxs-calendar-minus::before { content: "=EE=B4=87"; }
+
+.bxs-calendar-plus::before { content: "=EE=B4=88"; }
+
+.bxs-calendar-star::before { content: "=EE=B4=89"; }
+
+.bxs-calendar-week::before { content: "=EE=B4=8A"; }
+
+.bxs-calendar-x::before { content: "=EE=B4=8B"; }
+
+.bxs-camera::before { content: "=EE=B4=8C"; }
+
+.bxs-camera-home::before { content: "=EE=B4=8D"; }
+
+.bxs-camera-movie::before { content: "=EE=B4=8E"; }
+
+.bxs-camera-off::before { content: "=EE=B4=8F"; }
+
+.bxs-camera-plus::before { content: "=EE=B4=90"; }
+
+.bxs-capsule::before { content: "=EE=B4=91"; }
+
+.bxs-captions::before { content: "=EE=B4=92"; }
+
+.bxs-car::before { content: "=EE=B4=93"; }
+
+.bxs-car-battery::before { content: "=EE=B4=94"; }
+
+.bxs-car-crash::before { content: "=EE=B4=95"; }
+
+.bxs-card::before { content: "=EE=B4=96"; }
+
+.bxs-caret-down-circle::before { content: "=EE=B4=97"; }
+
+.bxs-caret-down-square::before { content: "=EE=B4=98"; }
+
+.bxs-caret-left-circle::before { content: "=EE=B4=99"; }
+
+.bxs-caret-left-square::before { content: "=EE=B4=9A"; }
+
+.bxs-caret-right-circle::before { content: "=EE=B4=9B"; }
+
+.bxs-caret-right-square::before { content: "=EE=B4=9C"; }
+
+.bxs-caret-up-circle::before { content: "=EE=B4=9D"; }
+
+.bxs-caret-up-square::before { content: "=EE=B4=9E"; }
+
+.bxs-car-garage::before { content: "=EE=B4=9F"; }
+
+.bxs-car-mechanic::before { content: "=EE=B4=A0"; }
+
+.bxs-carousel::before { content: "=EE=B4=A1"; }
+
+.bxs-cart::before { content: "=EE=B4=A2"; }
+
+.bxs-cart-add::before { content: "=EE=B4=A3"; }
+
+.bxs-cart-alt::before { content: "=EE=B4=A4"; }
+
+.bxs-cart-download::before { content: "=EE=B4=A5"; }
+
+.bxs-car-wash::before { content: "=EE=B4=A6"; }
+
+.bxs-category::before { content: "=EE=B4=A7"; }
+
+.bxs-category-alt::before { content: "=EE=B4=A8"; }
+
+.bxs-cctv::before { content: "=EE=B4=A9"; }
+
+.bxs-certification::before { content: "=EE=B4=AA"; }
+
+.bxs-chalkboard::before { content: "=EE=B4=AB"; }
+
+.bxs-chart::before { content: "=EE=B4=AC"; }
+
+.bxs-chat::before { content: "=EE=B4=AD"; }
+
+.bxs-checkbox::before { content: "=EE=B4=AE"; }
+
+.bxs-checkbox-checked::before { content: "=EE=B4=AF"; }
+
+.bxs-checkbox-minus::before { content: "=EE=B4=B0"; }
+
+.bxs-check-circle::before { content: "=EE=B4=B1"; }
+
+.bxs-check-shield::before { content: "=EE=B4=B2"; }
+
+.bxs-check-square::before { content: "=EE=B4=B3"; }
+
+.bxs-chess::before { content: "=EE=B4=B4"; }
+
+.bxs-chevron-down::before { content: "=EE=B4=B5"; }
+
+.bxs-chevron-down-circle::before { content: "=EE=B4=B6"; }
+
+.bxs-chevron-down-square::before { content: "=EE=B4=B7"; }
+
+.bxs-chevron-left::before { content: "=EE=B4=B8"; }
+
+.bxs-chevron-left-circle::before { content: "=EE=B4=B9"; }
+
+.bxs-chevron-left-square::before { content: "=EE=B4=BA"; }
+
+.bxs-chevron-right::before { content: "=EE=B4=BB"; }
+
+.bxs-chevron-right-circle::before { content: "=EE=B4=BC"; }
+
+.bxs-chevron-right-square::before { content: "=EE=B4=BD"; }
+
+.bxs-chevrons-down::before { content: "=EE=B4=BE"; }
+
+.bxs-chevrons-left::before { content: "=EE=B4=BF"; }
+
+.bxs-chevrons-right::before { content: "=EE=B5=80"; }
+
+.bxs-chevrons-up::before { content: "=EE=B5=81"; }
+
+.bxs-chevron-up::before { content: "=EE=B5=82"; }
+
+.bxs-chevron-up-circle::before { content: "=EE=B5=83"; }
+
+.bxs-chevron-up-square::before { content: "=EE=B5=84"; }
+
+.bxs-chip::before { content: "=EE=B5=85"; }
+
+.bxs-church::before { content: "=EE=B5=86"; }
+
+.bxs-circle::before { content: "=EE=B5=87"; }
+
+.bxs-city::before { content: "=EE=B5=88"; }
+
+.bxs-clinic::before { content: "=EE=B5=89"; }
+
+.bxs-cloud::before { content: "=EE=B5=8A"; }
+
+.bxs-cloud-download::before { content: "=EE=B5=8B"; }
+
+.bxs-cloud-lightning::before { content: "=EE=B5=8C"; }
+
+.bxs-cloud-rain::before { content: "=EE=B5=8D"; }
+
+.bxs-cloud-upload::before { content: "=EE=B5=8E"; }
+
+.bxs-coffee::before { content: "=EE=B5=8F"; }
+
+.bxs-coffee-alt::before { content: "=EE=B5=90"; }
+
+.bxs-coffee-togo::before { content: "=EE=B5=91"; }
+
+.bxs-cog::before { content: "=EE=B5=92"; }
+
+.bxs-coin::before { content: "=EE=B5=93"; }
+
+.bxs-coin-stack::before { content: "=EE=B5=94"; }
+
+.bxs-collection::before { content: "=EE=B5=95"; }
+
+.bxs-color-fill::before { content: "=EE=B5=96"; }
+
+.bxs-comment::before { content: "=EE=B5=97"; }
+
+.bxs-comment-add::before { content: "=EE=B5=98"; }
+
+.bxs-comment-check::before { content: "=EE=B5=99"; }
+
+.bxs-comment-detail::before { content: "=EE=B5=9A"; }
+
+.bxs-comment-dots::before { content: "=EE=B5=9B"; }
+
+.bxs-comment-edit::before { content: "=EE=B5=9C"; }
+
+.bxs-comment-error::before { content: "=EE=B5=9D"; }
+
+.bxs-comment-minus::before { content: "=EE=B5=9E"; }
+
+.bxs-comment-x::before { content: "=EE=B5=9F"; }
+
+.bxs-compass::before { content: "=EE=B5=A0"; }
+
+.bxs-component::before { content: "=EE=B5=A1"; }
+
+.bxs-confused::before { content: "=EE=B5=A2"; }
+
+.bxs-contact::before { content: "=EE=B5=A3"; }
+
+.bxs-conversation::before { content: "=EE=B5=A4"; }
+
+.bxs-cookie::before { content: "=EE=B5=A5"; }
+
+.bxs-cool::before { content: "=EE=B5=A6"; }
+
+.bxs-copy::before { content: "=EE=B5=A7"; }
+
+.bxs-copy-alt::before { content: "=EE=B5=A8"; }
+
+.bxs-copyright::before { content: "=EE=B5=A9"; }
+
+.bxs-coupon::before { content: "=EE=B5=AA"; }
+
+.bxs-credit-card::before { content: "=EE=B5=AB"; }
+
+.bxs-credit-card-alt::before { content: "=EE=B5=AC"; }
+
+.bxs-credit-card-front::before { content: "=EE=B5=AD"; }
+
+.bxs-crop::before { content: "=EE=B5=AE"; }
+
+.bxs-crown::before { content: "=EE=B5=AF"; }
+
+.bxs-cube::before { content: "=EE=B5=B0"; }
+
+.bxs-cube-alt::before { content: "=EE=B5=B1"; }
+
+.bxs-cuboid::before { content: "=EE=B5=B2"; }
+
+.bxs-customize::before { content: "=EE=B5=B3"; }
+
+.bxs-cylinder::before { content: "=EE=B5=B4"; }
+
+.bxs-dashboard::before { content: "=EE=B5=B5"; }
+
+.bxs-data::before { content: "=EE=B5=B6"; }
+
+.bxs-detail::before { content: "=EE=B5=B7"; }
+
+.bxs-devices::before { content: "=EE=B5=B8"; }
+
+.bxs-diamond::before { content: "=EE=B5=B9"; }
+
+.bxs-dice-1::before { content: "=EE=B5=BA"; }
+
+.bxs-dice-2::before { content: "=EE=B5=BB"; }
+
+.bxs-dice-3::before { content: "=EE=B5=BC"; }
+
+.bxs-dice-4::before { content: "=EE=B5=BD"; }
+
+.bxs-dice-5::before { content: "=EE=B5=BE"; }
+
+.bxs-dice-6::before { content: "=EE=B5=BF"; }
+
+.bxs-direction-left::before { content: "=EE=B6=80"; }
+
+.bxs-direction-right::before { content: "=EE=B6=81"; }
+
+.bxs-directions::before { content: "=EE=B6=82"; }
+
+.bxs-disc::before { content: "=EE=B6=83"; }
+
+.bxs-discount::before { content: "=EE=B6=84"; }
+
+.bxs-dish::before { content: "=EE=B6=85"; }
+
+.bxs-dislike::before { content: "=EE=B6=86"; }
+
+.bxs-dizzy::before { content: "=EE=B6=87"; }
+
+.bxs-dock-bottom::before { content: "=EE=B6=88"; }
+
+.bxs-dock-left::before { content: "=EE=B6=89"; }
+
+.bxs-dock-right::before { content: "=EE=B6=8A"; }
+
+.bxs-dock-top::before { content: "=EE=B6=8B"; }
+
+.bxs-dollar-circle::before { content: "=EE=B6=8C"; }
+
+.bxs-donate-blood::before { content: "=EE=B6=8D"; }
+
+.bxs-donate-heart::before { content: "=EE=B6=8E"; }
+
+.bxs-door-open::before { content: "=EE=B6=8F"; }
+
+.bxs-doughnut-chart::before { content: "=EE=B6=90"; }
+
+.bxs-down-arrow::before { content: "=EE=B6=91"; }
+
+.bxs-down-arrow-alt::before { content: "=EE=B6=92"; }
+
+.bxs-down-arrow-circle::before { content: "=EE=B6=93"; }
+
+.bxs-down-arrow-square::before { content: "=EE=B6=94"; }
+
+.bxs-download::before { content: "=EE=B6=95"; }
+
+.bxs-downvote::before { content: "=EE=B6=96"; }
+
+.bxs-drink::before { content: "=EE=B6=97"; }
+
+.bxs-droplet-half::before { content: "=EE=B6=98"; }
+
+.bxs-dryer::before { content: "=EE=B6=99"; }
+
+.bxs-duplicate::before { content: "=EE=B6=9A"; }
+
+.bxs-edit::before { content: "=EE=B6=9B"; }
+
+.bxs-edit-alt::before { content: "=EE=B6=9C"; }
+
+.bxs-edit-location::before { content: "=EE=B6=9D"; }
+
+.bxs-eject::before { content: "=EE=B6=9E"; }
+
+.bxs-envelope::before { content: "=EE=B6=9F"; }
+
+.bxs-envelope-open::before { content: "=EE=B6=A0"; }
+
+.bxs-eraser::before { content: "=EE=B6=A1"; }
+
+.bxs-error::before { content: "=EE=B6=A2"; }
+
+.bxs-error-alt::before { content: "=EE=B6=A3"; }
+
+.bxs-error-circle::before { content: "=EE=B6=A4"; }
+
+.bxs-ev-station::before { content: "=EE=B6=A5"; }
+
+.bxs-exit::before { content: "=EE=B6=A6"; }
+
+.bxs-extension::before { content: "=EE=B6=A7"; }
+
+.bxs-eyedropper::before { content: "=EE=B6=A8"; }
+
+.bxs-face::before { content: "=EE=B6=A9"; }
+
+.bxs-face-mask::before { content: "=EE=B6=AA"; }
+
+.bxs-factory::before { content: "=EE=B6=AB"; }
+
+.bxs-fast-forward-circle::before { content: "=EE=B6=AC"; }
+
+.bxs-file::before { content: "=EE=B6=AD"; }
+
+.bxs-file-archive::before { content: "=EE=B6=AE"; }
+
+.bxs-file-blank::before { content: "=EE=B6=AF"; }
+
+.bxs-file-css::before { content: "=EE=B6=B0"; }
+
+.bxs-file-doc::before { content: "=EE=B6=B1"; }
+
+.bxs-file-export::before { content: "=EE=B6=B2"; }
+
+.bxs-file-find::before { content: "=EE=B6=B3"; }
+
+.bxs-file-gif::before { content: "=EE=B6=B4"; }
+
+.bxs-file-html::before { content: "=EE=B6=B5"; }
+
+.bxs-file-image::before { content: "=EE=B6=B6"; }
+
+.bxs-file-import::before { content: "=EE=B6=B7"; }
+
+.bxs-file-jpg::before { content: "=EE=B6=B8"; }
+
+.bxs-file-js::before { content: "=EE=B6=B9"; }
+
+.bxs-file-json::before { content: "=EE=B6=BA"; }
+
+.bxs-file-md::before { content: "=EE=B6=BB"; }
+
+.bxs-file-pdf::before { content: "=EE=B6=BC"; }
+
+.bxs-file-plus::before { content: "=EE=B6=BD"; }
+
+.bxs-file-png::before { content: "=EE=B6=BE"; }
+
+.bxs-file-txt::before { content: "=EE=B6=BF"; }
+
+.bxs-film::before { content: "=EE=B7=80"; }
+
+.bxs-filter-alt::before { content: "=EE=B7=81"; }
+
+.bxs-first-aid::before { content: "=EE=B7=82"; }
+
+.bxs-flag::before { content: "=EE=B7=83"; }
+
+.bxs-flag-alt::before { content: "=EE=B7=84"; }
+
+.bxs-flag-checkered::before { content: "=EE=B7=85"; }
+
+.bxs-flame::before { content: "=EE=B7=86"; }
+
+.bxs-flask::before { content: "=EE=B7=87"; }
+
+.bxs-florist::before { content: "=EE=B7=88"; }
+
+.bxs-folder::before { content: "=EE=B7=89"; }
+
+.bxs-folder-minus::before { content: "=EE=B7=8A"; }
+
+.bxs-folder-open::before { content: "=EE=B7=8B"; }
+
+.bxs-folder-plus::before { content: "=EE=B7=8C"; }
+
+.bxs-food-menu::before { content: "=EE=B7=8D"; }
+
+.bxs-fridge::before { content: "=EE=B7=8E"; }
+
+.bxs-game::before { content: "=EE=B7=8F"; }
+
+.bxs-gas-pump::before { content: "=EE=B7=90"; }
+
+.bxs-ghost::before { content: "=EE=B7=91"; }
+
+.bxs-gift::before { content: "=EE=B7=92"; }
+
+.bxs-graduation::before { content: "=EE=B7=93"; }
+
+.bxs-grid::before { content: "=EE=B7=94"; }
+
+.bxs-grid-alt::before { content: "=EE=B7=95"; }
+
+.bxs-group::before { content: "=EE=B7=96"; }
+
+.bxs-guitar-amp::before { content: "=EE=B7=97"; }
+
+.bxs-hand::before { content: "=EE=B7=98"; }
+
+.bxs-hand-down::before { content: "=EE=B7=99"; }
+
+.bxs-hand-left::before { content: "=EE=B7=9A"; }
+
+.bxs-hand-right::before { content: "=EE=B7=9B"; }
+
+.bxs-hand-up::before { content: "=EE=B7=9C"; }
+
+.bxs-happy::before { content: "=EE=B7=9D"; }
+
+.bxs-happy-alt::before { content: "=EE=B7=9E"; }
+
+.bxs-happy-beaming::before { content: "=EE=B7=9F"; }
+
+.bxs-happy-heart-eyes::before { content: "=EE=B7=A0"; }
+
+.bxs-hdd::before { content: "=EE=B7=A1"; }
+
+.bxs-heart::before { content: "=EE=B7=A2"; }
+
+.bxs-heart-circle::before { content: "=EE=B7=A3"; }
+
+.bxs-heart-square::before { content: "=EE=B7=A4"; }
+
+.bxs-help-circle::before { content: "=EE=B7=A5"; }
+
+.bxs-hide::before { content: "=EE=B7=A6"; }
+
+.bxs-home::before { content: "=EE=B7=A7"; }
+
+.bxs-home-circle::before { content: "=EE=B7=A8"; }
+
+.bxs-home-heart::before { content: "=EE=B7=A9"; }
+
+.bxs-home-smile::before { content: "=EE=B7=AA"; }
+
+.bxs-hotel::before { content: "=EE=B7=AB"; }
+
+.bxs-hourglass::before { content: "=EE=B7=AC"; }
+
+.bxs-hourglass-bottom::before { content: "=EE=B7=AD"; }
+
+.bxs-hourglass-top::before { content: "=EE=B7=AE"; }
+
+.bxs-id-card::before { content: "=EE=B7=AF"; }
+
+.bxs-image::before { content: "=EE=B7=B0"; }
+
+.bxs-image-add::before { content: "=EE=B7=B1"; }
+
+.bxs-image-alt::before { content: "=EE=B7=B2"; }
+
+.bxs-inbox::before { content: "=EE=B7=B3"; }
+
+.bxs-info-circle::before { content: "=EE=B7=B4"; }
+
+.bxs-info-square::before { content: "=EE=B7=B5"; }
+
+.bxs-institution::before { content: "=EE=B7=B6"; }
+
+.bxs-joystick::before { content: "=EE=B7=B7"; }
+
+.bxs-joystick-alt::before { content: "=EE=B7=B8"; }
+
+.bxs-joystick-button::before { content: "=EE=B7=B9"; }
+
+.bxs-key::before { content: "=EE=B7=BA"; }
+
+.bxs-keyboard::before { content: "=EE=B7=BB"; }
+
+.bxs-label::before { content: "=EE=B7=BC"; }
+
+.bxs-landmark::before { content: "=EE=B7=BD"; }
+
+.bxs-landscape::before { content: "=EE=B7=BE"; }
+
+.bxs-laugh::before { content: "=EE=B7=BF"; }
+
+.bxs-layer::before { content: "=EE=B8=80"; }
+
+.bxs-layer-minus::before { content: "=EE=B8=81"; }
+
+.bxs-layer-plus::before { content: "=EE=B8=82"; }
+
+.bxs-layout::before { content: "=EE=B8=83"; }
+
+.bxs-left-arrow::before { content: "=EE=B8=84"; }
+
+.bxs-left-arrow-alt::before { content: "=EE=B8=85"; }
+
+.bxs-left-arrow-circle::before { content: "=EE=B8=86"; }
+
+.bxs-left-arrow-square::before { content: "=EE=B8=87"; }
+
+.bxs-left-down-arrow-circle::before { content: "=EE=B8=88"; }
+
+.bxs-left-top-arrow-circle::before { content: "=EE=B8=89"; }
+
+.bxs-like::before { content: "=EE=B8=8A"; }
+
+.bxs-location-plus::before { content: "=EE=B8=8B"; }
+
+.bxs-lock::before { content: "=EE=B8=8C"; }
+
+.bxs-lock-alt::before { content: "=EE=B8=8D"; }
+
+.bxs-lock-open::before { content: "=EE=B8=8E"; }
+
+.bxs-lock-open-alt::before { content: "=EE=B8=8F"; }
+
+.bxs-log-in::before { content: "=EE=B8=90"; }
+
+.bxs-log-in-circle::before { content: "=EE=B8=91"; }
+
+.bxs-log-out::before { content: "=EE=B8=92"; }
+
+.bxs-log-out-circle::before { content: "=EE=B8=93"; }
+
+.bxs-low-vision::before { content: "=EE=B8=94"; }
+
+.bxs-magic-wand::before { content: "=EE=B8=95"; }
+
+.bxs-magnet::before { content: "=EE=B8=96"; }
+
+.bxs-map::before { content: "=EE=B8=97"; }
+
+.bxs-map-alt::before { content: "=EE=B8=98"; }
+
+.bxs-map-pin::before { content: "=EE=B8=99"; }
+
+.bxs-mask::before { content: "=EE=B8=9A"; }
+
+.bxs-medal::before { content: "=EE=B8=9B"; }
+
+.bxs-megaphone::before { content: "=EE=B8=9C"; }
+
+.bxs-meh::before { content: "=EE=B8=9D"; }
+
+.bxs-meh-alt::before { content: "=EE=B8=9E"; }
+
+.bxs-meh-blank::before { content: "=EE=B8=9F"; }
+
+.bxs-memory-card::before { content: "=EE=B8=A0"; }
+
+.bxs-message::before { content: "=EE=B8=A1"; }
+
+.bxs-message-add::before { content: "=EE=B8=A2"; }
+
+.bxs-message-alt::before { content: "=EE=B8=A3"; }
+
+.bxs-message-alt-add::before { content: "=EE=B8=A4"; }
+
+.bxs-message-alt-check::before { content: "=EE=B8=A5"; }
+
+.bxs-message-alt-detail::before { content: "=EE=B8=A6"; }
+
+.bxs-message-alt-dots::before { content: "=EE=B8=A7"; }
+
+.bxs-message-alt-edit::before { content: "=EE=B8=A8"; }
+
+.bxs-message-alt-error::before { content: "=EE=B8=A9"; }
+
+.bxs-message-alt-minus::before { content: "=EE=B8=AA"; }
+
+.bxs-message-alt-x::before { content: "=EE=B8=AB"; }
+
+.bxs-message-check::before { content: "=EE=B8=AC"; }
+
+.bxs-message-detail::before { content: "=EE=B8=AD"; }
+
+.bxs-message-dots::before { content: "=EE=B8=AE"; }
+
+.bxs-message-edit::before { content: "=EE=B8=AF"; }
+
+.bxs-message-error::before { content: "=EE=B8=B0"; }
+
+.bxs-message-minus::before { content: "=EE=B8=B1"; }
+
+.bxs-message-rounded::before { content: "=EE=B8=B2"; }
+
+.bxs-message-rounded-add::before { content: "=EE=B8=B3"; }
+
+.bxs-message-rounded-check::before { content: "=EE=B8=B4"; }
+
+.bxs-message-rounded-detail::before { content: "=EE=B8=B5"; }
+
+.bxs-message-rounded-dots::before { content: "=EE=B8=B6"; }
+
+.bxs-message-rounded-edit::before { content: "=EE=B8=B7"; }
+
+.bxs-message-rounded-error::before { content: "=EE=B8=B8"; }
+
+.bxs-message-rounded-minus::before { content: "=EE=B8=B9"; }
+
+.bxs-message-rounded-x::before { content: "=EE=B8=BA"; }
+
+.bxs-message-square::before { content: "=EE=B8=BB"; }
+
+.bxs-message-square-add::before { content: "=EE=B8=BC"; }
+
+.bxs-message-square-check::before { content: "=EE=B8=BD"; }
+
+.bxs-message-square-detail::before { content: "=EE=B8=BE"; }
+
+.bxs-message-square-dots::before { content: "=EE=B8=BF"; }
+
+.bxs-message-square-edit::before { content: "=EE=B9=80"; }
+
+.bxs-message-square-error::before { content: "=EE=B9=81"; }
+
+.bxs-message-square-minus::before { content: "=EE=B9=82"; }
+
+.bxs-message-square-x::before { content: "=EE=B9=83"; }
+
+.bxs-message-x::before { content: "=EE=B9=84"; }
+
+.bxs-meteor::before { content: "=EE=B9=85"; }
+
+.bxs-microchip::before { content: "=EE=B9=86"; }
+
+.bxs-microphone::before { content: "=EE=B9=87"; }
+
+.bxs-microphone-alt::before { content: "=EE=B9=88"; }
+
+.bxs-microphone-off::before { content: "=EE=B9=89"; }
+
+.bxs-minus-circle::before { content: "=EE=B9=8A"; }
+
+.bxs-minus-square::before { content: "=EE=B9=8B"; }
+
+.bxs-mobile::before { content: "=EE=B9=8C"; }
+
+.bxs-mobile-vibration::before { content: "=EE=B9=8D"; }
+
+.bxs-moon::before { content: "=EE=B9=8E"; }
+
+.bxs-mouse::before { content: "=EE=B9=8F"; }
+
+.bxs-mouse-alt::before { content: "=EE=B9=90"; }
+
+.bxs-movie::before { content: "=EE=B9=91"; }
+
+.bxs-movie-play::before { content: "=EE=B9=92"; }
+
+.bxs-music::before { content: "=EE=B9=93"; }
+
+.bxs-navigation::before { content: "=EE=B9=94"; }
+
+.bxs-network-chart::before { content: "=EE=B9=95"; }
+
+.bxs-news::before { content: "=EE=B9=96"; }
+
+.bxs-no-entry::before { content: "=EE=B9=97"; }
+
+.bxs-note::before { content: "=EE=B9=98"; }
+
+.bxs-notepad::before { content: "=EE=B9=99"; }
+
+.bxs-notification::before { content: "=EE=B9=9A"; }
+
+.bxs-notification-off::before { content: "=EE=B9=9B"; }
+
+.bxs-offer::before { content: "=EE=B9=9C"; }
+
+.bxs-package::before { content: "=EE=B9=9D"; }
+
+.bxs-paint::before { content: "=EE=B9=9E"; }
+
+.bxs-paint-roll::before { content: "=EE=B9=9F"; }
+
+.bxs-palette::before { content: "=EE=B9=A0"; }
+
+.bxs-paper-plane::before { content: "=EE=B9=A1"; }
+
+.bxs-parking::before { content: "=EE=B9=A2"; }
+
+.bxs-paste::before { content: "=EE=B9=A3"; }
+
+.bxs-pen::before { content: "=EE=B9=A4"; }
+
+.bxs-pencil::before { content: "=EE=B9=A5"; }
+
+.bxs-phone::before { content: "=EE=B9=A6"; }
+
+.bxs-phone-call::before { content: "=EE=B9=A7"; }
+
+.bxs-phone-incoming::before { content: "=EE=B9=A8"; }
+
+.bxs-phone-off::before { content: "=EE=B9=A9"; }
+
+.bxs-phone-outgoing::before { content: "=EE=B9=AA"; }
+
+.bxs-photo-album::before { content: "=EE=B9=AB"; }
+
+.bxs-piano::before { content: "=EE=B9=AC"; }
+
+.bxs-pie-chart::before { content: "=EE=B9=AD"; }
+
+.bxs-pie-chart-alt::before { content: "=EE=B9=AE"; }
+
+.bxs-pie-chart-alt-2::before { content: "=EE=B9=AF"; }
+
+.bxs-pin::before { content: "=EE=B9=B0"; }
+
+.bxs-pizza::before { content: "=EE=B9=B1"; }
+
+.bxs-plane::before { content: "=EE=B9=B2"; }
+
+.bxs-plane-alt::before { content: "=EE=B9=B3"; }
+
+.bxs-plane-land::before { content: "=EE=B9=B4"; }
+
+.bxs-planet::before { content: "=EE=B9=B5"; }
+
+.bxs-plane-take-off::before { content: "=EE=B9=B6"; }
+
+.bxs-playlist::before { content: "=EE=B9=B7"; }
+
+.bxs-plug::before { content: "=EE=B9=B8"; }
+
+.bxs-plus-circle::before { content: "=EE=B9=B9"; }
+
+.bxs-plus-square::before { content: "=EE=B9=BA"; }
+
+.bxs-pointer::before { content: "=EE=B9=BB"; }
+
+.bxs-polygon::before { content: "=EE=B9=BC"; }
+
+.bxs-printer::before { content: "=EE=B9=BD"; }
+
+.bxs-purchase-tag::before { content: "=EE=B9=BE"; }
+
+.bxs-purchase-tag-alt::before { content: "=EE=B9=BF"; }
+
+.bxs-pyramid::before { content: "=EE=BA=80"; }
+
+.bxs-quote-alt-left::before { content: "=EE=BA=81"; }
+
+.bxs-quote-alt-right::before { content: "=EE=BA=82"; }
+
+.bxs-quote-left::before { content: "=EE=BA=83"; }
+
+.bxs-quote-right::before { content: "=EE=BA=84"; }
+
+.bxs-quote-single-left::before { content: "=EE=BA=85"; }
+
+.bxs-quote-single-right::before { content: "=EE=BA=86"; }
+
+.bxs-radiation::before { content: "=EE=BA=87"; }
+
+.bxs-radio::before { content: "=EE=BA=88"; }
+
+.bxs-receipt::before { content: "=EE=BA=89"; }
+
+.bxs-rectangle::before { content: "=EE=BA=8A"; }
+
+.bxs-registered::before { content: "=EE=BA=8B"; }
+
+.bxs-rename::before { content: "=EE=BA=8C"; }
+
+.bxs-report::before { content: "=EE=BA=8D"; }
+
+.bxs-rewind-circle::before { content: "=EE=BA=8E"; }
+
+.bxs-right-arrow::before { content: "=EE=BA=8F"; }
+
+.bxs-right-arrow-alt::before { content: "=EE=BA=90"; }
+
+.bxs-right-arrow-circle::before { content: "=EE=BA=91"; }
+
+.bxs-right-arrow-square::before { content: "=EE=BA=92"; }
+
+.bxs-right-down-arrow-circle::before { content: "=EE=BA=93"; }
+
+.bxs-right-top-arrow-circle::before { content: "=EE=BA=94"; }
+
+.bxs-rocket::before { content: "=EE=BA=95"; }
+
+.bxs-ruler::before { content: "=EE=BA=96"; }
+
+.bxs-sad::before { content: "=EE=BA=97"; }
+
+.bxs-save::before { content: "=EE=BA=98"; }
+
+.bxs-school::before { content: "=EE=BA=99"; }
+
+.bxs-search::before { content: "=EE=BA=9A"; }
+
+.bxs-search-alt-2::before { content: "=EE=BA=9B"; }
+
+.bxs-select-multiple::before { content: "=EE=BA=9C"; }
+
+.bxs-send::before { content: "=EE=BA=9D"; }
+
+.bxs-server::before { content: "=EE=BA=9E"; }
+
+.bxs-shapes::before { content: "=EE=BA=9F"; }
+
+.bxs-share::before { content: "=EE=BA=A0"; }
+
+.bxs-share-alt::before { content: "=EE=BA=A1"; }
+
+.bxs-shield::before { content: "=EE=BA=A2"; }
+
+.bxs-shield-alt-2::before { content: "=EE=BA=A3"; }
+
+.bxs-shield-x::before { content: "=EE=BA=A4"; }
+
+.bxs-ship::before { content: "=EE=BA=A5"; }
+
+.bxs-shocked::before { content: "=EE=BA=A6"; }
+
+.bxs-shopping-bag::before { content: "=EE=BA=A7"; }
+
+.bxs-shopping-bag-alt::before { content: "=EE=BA=A8"; }
+
+.bxs-shopping-bags::before { content: "=EE=BA=A9"; }
+
+.bxs-show::before { content: "=EE=BA=AA"; }
+
+.bxs-skip-next-circle::before { content: "=EE=BA=AB"; }
+
+.bxs-skip-previous-circle::before { content: "=EE=BA=AC"; }
+
+.bxs-skull::before { content: "=EE=BA=AD"; }
+
+.bxs-sleepy::before { content: "=EE=BA=AE"; }
+
+.bxs-slideshow::before { content: "=EE=BA=AF"; }
+
+.bxs-smile::before { content: "=EE=BA=B0"; }
+
+.bxs-sort-alt::before { content: "=EE=BA=B1"; }
+
+.bxs-spa::before { content: "=EE=BA=B2"; }
+
+.bxs-speaker::before { content: "=EE=BA=B3"; }
+
+.bxs-spray-can::before { content: "=EE=BA=B4"; }
+
+.bxs-spreadsheet::before { content: "=EE=BA=B5"; }
+
+.bxs-square::before { content: "=EE=BA=B6"; }
+
+.bxs-square-rounded::before { content: "=EE=BA=B7"; }
+
+.bxs-star::before { content: "=EE=BA=B8"; }
+
+.bxs-star-half::before { content: "=EE=BA=B9"; }
+
+.bxs-sticker::before { content: "=EE=BA=BA"; }
+
+.bxs-stopwatch::before { content: "=EE=BA=BB"; }
+
+.bxs-store::before { content: "=EE=BA=BC"; }
+
+.bxs-store-alt::before { content: "=EE=BA=BD"; }
+
+.bxs-sun::before { content: "=EE=BA=BE"; }
+
+.bxs-tachometer::before { content: "=EE=BA=BF"; }
+
+.bxs-tag::before { content: "=EE=BB=80"; }
+
+.bxs-tag-alt::before { content: "=EE=BB=81"; }
+
+.bxs-tag-x::before { content: "=EE=BB=82"; }
+
+.bxs-taxi::before { content: "=EE=BB=83"; }
+
+.bxs-tennis-ball::before { content: "=EE=BB=84"; }
+
+.bxs-terminal::before { content: "=EE=BB=85"; }
+
+.bxs-thermometer::before { content: "=EE=BB=86"; }
+
+.bxs-time::before { content: "=EE=BB=87"; }
+
+.bxs-time-five::before { content: "=EE=BB=88"; }
+
+.bxs-timer::before { content: "=EE=BB=89"; }
+
+.bxs-tired::before { content: "=EE=BB=8A"; }
+
+.bxs-toggle-left::before { content: "=EE=BB=8B"; }
+
+.bxs-toggle-right::before { content: "=EE=BB=8C"; }
+
+.bxs-tone::before { content: "=EE=BB=8D"; }
+
+.bxs-torch::before { content: "=EE=BB=8E"; }
+
+.bxs-to-top::before { content: "=EE=BB=8F"; }
+
+.bxs-traffic::before { content: "=EE=BB=90"; }
+
+.bxs-traffic-barrier::before { content: "=EE=BB=91"; }
+
+.bxs-traffic-cone::before { content: "=EE=BB=92"; }
+
+.bxs-train::before { content: "=EE=BB=93"; }
+
+.bxs-trash::before { content: "=EE=BB=94"; }
+
+.bxs-trash-alt::before { content: "=EE=BB=95"; }
+
+.bxs-tree::before { content: "=EE=BB=96"; }
+
+.bxs-trophy::before { content: "=EE=BB=97"; }
+
+.bxs-truck::before { content: "=EE=BB=98"; }
+
+.bxs-t-shirt::before { content: "=EE=BB=99"; }
+
+.bxs-tv::before { content: "=EE=BB=9A"; }
+
+.bxs-up-arrow::before { content: "=EE=BB=9B"; }
+
+.bxs-up-arrow-alt::before { content: "=EE=BB=9C"; }
+
+.bxs-up-arrow-circle::before { content: "=EE=BB=9D"; }
+
+.bxs-up-arrow-square::before { content: "=EE=BB=9E"; }
+
+.bxs-upside-down::before { content: "=EE=BB=9F"; }
+
+.bxs-upvote::before { content: "=EE=BB=A0"; }
+
+.bxs-user::before { content: "=EE=BB=A1"; }
+
+.bxs-user-account::before { content: "=EE=BB=A2"; }
+
+.bxs-user-badge::before { content: "=EE=BB=A3"; }
+
+.bxs-user-check::before { content: "=EE=BB=A4"; }
+
+.bxs-user-circle::before { content: "=EE=BB=A5"; }
+
+.bxs-user-detail::before { content: "=EE=BB=A6"; }
+
+.bxs-user-minus::before { content: "=EE=BB=A7"; }
+
+.bxs-user-pin::before { content: "=EE=BB=A8"; }
+
+.bxs-user-plus::before { content: "=EE=BB=A9"; }
+
+.bxs-user-rectangle::before { content: "=EE=BB=AA"; }
+
+.bxs-user-voice::before { content: "=EE=BB=AB"; }
+
+.bxs-user-x::before { content: "=EE=BB=AC"; }
+
+.bxs-vector::before { content: "=EE=BB=AD"; }
+
+.bxs-vial::before { content: "=EE=BB=AE"; }
+
+.bxs-video::before { content: "=EE=BB=AF"; }
+
+.bxs-video-off::before { content: "=EE=BB=B0"; }
+
+.bxs-video-plus::before { content: "=EE=BB=B1"; }
+
+.bxs-video-recording::before { content: "=EE=BB=B2"; }
+
+.bxs-videos::before { content: "=EE=BB=B3"; }
+
+.bxs-virus::before { content: "=EE=BB=B4"; }
+
+.bxs-virus-block::before { content: "=EE=BB=B5"; }
+
+.bxs-volume::before { content: "=EE=BB=B6"; }
+
+.bxs-volume-full::before { content: "=EE=BB=B7"; }
+
+.bxs-volume-low::before { content: "=EE=BB=B8"; }
+
+.bxs-volume-mute::before { content: "=EE=BB=B9"; }
+
+.bxs-wallet::before { content: "=EE=BB=BA"; }
+
+.bxs-wallet-alt::before { content: "=EE=BB=BB"; }
+
+.bxs-washer::before { content: "=EE=BB=BC"; }
+
+.bxs-watch::before { content: "=EE=BB=BD"; }
+
+.bxs-watch-alt::before { content: "=EE=BB=BE"; }
+
+.bxs-webcam::before { content: "=EE=BB=BF"; }
+
+.bxs-widget::before { content: "=EE=BC=80"; }
+
+.bxs-window-alt::before { content: "=EE=BC=81"; }
+
+.bxs-wine::before { content: "=EE=BC=82"; }
+
+.bxs-wink-smile::before { content: "=EE=BC=83"; }
+
+.bxs-wink-tongue::before { content: "=EE=BC=84"; }
+
+.bxs-wrench::before { content: "=EE=BC=85"; }
+
+.bxs-x-circle::before { content: "=EE=BC=86"; }
+
+.bxs-x-square::before { content: "=EE=BC=87"; }
+
+.bxs-yin-yang::before { content: "=EE=BC=88"; }
+
+.bxs-zap::before { content: "=EE=BC=89"; }
+
+.bxs-zoom-in::before { content: "=EE=BC=8A"; }
+
+.bxs-zoom-out::before { content: "=EE=BC=8B"; }
+------MultipartBoundary--xOLYxS5LA0BXbcgYgtbG5QDoQVBKAOa5MhtnnOTi1k----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://media.licdn.com/dms/image/C4D03AQEH3ZhpxhdHBQ/profile-displayphoto-shrink_800_800/0/1635186999747?e=1685577600&v=beta&t=iW-5Gvy9cOTXdSYC8o_M-MLyIjI-RGJJC5qnCX1Atx0
+
+/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsK
+CwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQU
+FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wgARCAH0AfQDASIA
+AhEBAxEB/8QAHQAAAgMBAQEBAQAAAAAAAAAAAAQBAgMFBgcICf/EABoBAQEBAQEBAQAAAAAAAAAA
+AAABAgMEBQb/2gAMAwEAAhADEAAAAfIvc57l36L3Pel6DyD0rzqTo0yszG2uWpe9LFprJaYlbaUv
+ZrvjtrLDKzFwzHx78+bfq3xv5qi39H+t/Icn7/6/87vqzP64z8Z7NjLHfEXWZWmllGlJU0XEJtHm
+vc2aR5rvOm00WkmsMr53Ntl9mHHEXBxlVlNppObGGuBgk0mKlTU5b/M6CdLoc3oTXRf5/QzXnUnY
+aZWYN9MtS96XJmtlm1bF9M7ptvhTWWvzXxvCdMgGoAAAExK3+u/H5X9+7/kD9eOeSzKuSqjaapc5
+/nTfP5vQ5k3z+c/zptJNtOVfPTPWTbHW4bbTbHGVWJNprMtcNV4XTZR1FzMTmdDmdBOn0uX0pel0
+Od0c6fdRdVthZmNtM9DS1LFrVlbTEl9M9DX81fT/AMz9cVJjeQkSC0rQ6fTx28zPbleGdBLXOv6U
+/NnoLn9tqsL55qJtptI85/nTXO5vR5k3z+d0OfnaKraqrZbZ6ldc9LzYcTaZdYVYjaajVV9loWRa
+RuVjIs5/Q5vQTp9Pl9LOup0eZ0Zrouou5rbC7BtpnoaWpdZmJytati2mXM2/OHjbb9sL9P131Hx+
+/wCWbfYnfN6Pj3qfdzM+deejz9+FTsL56eZ8x9IW634PyvpPg/rfL/Yna+d/Q+nzlUnEpUOd0Oc3
+zub0ebnfOReQmk1G1Wl8tcrmL531zZaUaZbZVYjYrBVbZUWQbRsUMyxR/nvR0+nyulnXV6PM6M10
+nkHc11hVld9MtTS1LlprbKbVtVvGey8lp+Yfqvh/sfm+m50Of0/l+5tijPXyUNBjGdKqmm+pz9Cu
+Lmc6+U+a/avCfR4e4+u/C/uX0fgqouIzKPOf503z+b0ObNoouozaizCyr5a43MXzvrnu0oyy4wru
+bRQii2yosi0jYqULlZ3nvS9Ppcvo5vW6XK6U11Huc/nTrKjS7647GlqXytNZLWrJbldWNvzD9a+V
+fVPnfda6anQ8XVpiGenjrLGnTknRzC1RTm+dnf1GfjHM+n1PB7i+uXk/uP5w9b9DzfZENl/T8dHm
+v85UOa/zptJFtKdFlmFTHHXC5i+V9c2GU2GXN1dk3rSqiuqqYIso2LlBMHUHo6HS5fRmut0+V0s6
+6j/Ofzp5pRmVnXHWNbUsXmJLTWWrTE2fB/Z81r533/Rb/Ok8z6np8e73Tn9cd8L6jjxj5X73xW/R
+4/1C3N9M+kc7596Xz79B082eN8vtXrb9Pc63B7n1fziHN6HN6efn85/mzaaTSU3grusZYaY3MWyn
+XNrdTe4c2V0GK5RELXWTFPdTUxKFzm4m5jT/AEeb0ZrqdLl9POum/wA7oZ080m3KzrhtGt6XLWrL
+ViJJmJs8L5T2OHzf0B1fN+Dk9ryvO+g9XLqfQfnntPn+zT519J81XD8r9Pw9fBN+O/5utJ6qmOHD
+R7fL6ej07a+31vzqHM6XM6cedzuhzW0km0s7XW2WMcdMNZJzNc991NmG9VNEYrlUlay6UU2WsyKl
+kuJuY070ed0ZrpdLm9LGuk/z35p5pRrNZ2w2Nr53avNZLTULzWU4PN9Pw/B9jZH1Knm9HnjvOb15
+PoNOct0p0+dvhtPEZ1rrss7a8fO5vY5+N8fmda3Tu/qwv9X4XO5vR5u+XN53Q506IJNpTSyu6y44
+6YaxEUNc9tFrsN3VuzvXKKnGcozw0x0zIE2bVbxpzoIdCa6HS5vRxvpP89+V1pNrNa2X2N75XmtZ
+zsWtSS01nS3k/V+U8f0vXdHmdjyMPG97l79O3Q8vM6+45/FR6cerlfozXO6XJ8/y6ex5XLwxvt+w
+8d7P6Xx00HkPd83n83pc2a5nN6XMa56LqOdqqsK24Ya4XNIKa56Wxtcb3XvM7VrXS2VsymWmaZgG
+7iTmNPPoPZ30ejzehnXSe572dPMptQ1sttNMXxua2zldJpJeaW1L8HuTjrwO14Lp/H/Qa+m8g/04
+9mEXNccOsidJ1seP42zv8tL6Djr5+Onl5+7XqPP9763wlEHUPX4keb0ebNc7mdLmNc5F5BpRRlVV
+8dcWc6WprE2oOets76lgMopemlM9c0yArZxFznp97nvZ10n+a/nfSd57mddBlFqG91Nppm6+hvbG
+y7TlY1nO2prbK+sebw9T5H5v3PQea9B2PP0+QfZvO8rv1+op+Vp089lX+1jrVDt+b4ebgCCefo/Q
+O75v0P1/ziqLiPfypc5/nLzuZ0uYvOReQaTVZUaww2xZzpauuZMTcXvS6WJCK3rGWe2WmJYocSc5
+157nu510X+a9nXSc57c10GEmM1zZTVW9FdJWbrXVi2Fze+GmptbK+sbIPa6fNPTdP5/8r9B9Njke
+m8/NPXpT6OKtmlpmfH975s7pv8T2GPa93uBhvy+rS8/v7/mNc/j+f7+X0vN6HOueeg9z2lFWVRfH
+XBKVmm8Xml7i96aJeYtm1rpUyy2yTIDUo4q1nTjiTudPOouZ0+2i3nTrCbErWyusNaK6KzZe6saL
+aKzotrYxphpvDGy/G3j0+HxPh57+4998jb+R+i+47/Nus8nrOd5PxWunoPJ4+zejfq6T5bEMEcyj
+3iN3znzsj735rod7yMb4/R9vmO0vvlPPOzTmN80zrNdc5vS7OmuetXktlWt6plntmLljSjS7WKy4
+o5NNupt5rjSjM01urvKzotpKzde0M3WurOiulrWyiFnoOT8i8N1x77weU6yfQ/nfV4+36b0sWfhf
+q0/PfRL3j837Hp70t3c3+WK222vnynm/Iu/D1nxXOPsfHJg7+YAIAUANepxZX0kcbqzOumelxrrn
+s1a5fMpXWq4ZsZIsXEyaWaVppZnOnGlGZpxhNjNb1V0GrrXlZurZWrK2HNOd8xr1HyzGe2IrMXJM
+CkSJ2PpPx483u/SvY/MHe8Hu+/V+G0xfvh+c+B14fffBfOz2eTbCT0+UAsAAAIAAAgAnTIXuu+b9
+Jcsa5sYlrl1pGtVwyYyRU0BVtRpGmlGZptlTfNb1V1aaurZHLKWhuydlcWy+V0xw4t1kwRZAEgAo
+AgAABEgAAAAAAAAAAQAETABAEwt+7wXbfT74sTnppW+bFdKLljvkLkgkysxcNMqszTOy+01vpheN
+rYSbzgDUrZnn/FNKdLM1Gb1AJAIBQBAAAAAAAAAAAAAAAIACJgIAImCb5zb67o+a9LJtfO8lqTWW
+mWmJkQCbCzOubDKzGdMa47NaWrYkgJmkpfznoPnlqdL11YAkJiSYJWJiSCYABAAAAAAAAAAAAImA
+AIiYAIAIJIBn2vhfV29a+N85vWIK46YxmVEVZWZ3hhlZma31z2zq9q2CJKqSHM8F6PzetWpahIEk
+zBaTBBIEAAAgAAAAAAAAAAEAAETAQBAAQCAC37XDduvY3xvOV4rUMrZTVShJiwux0wyyqzms7Ybz
+el63iItBUlTTwaU1uprMSFqySRYiZhSYCYmAAQAAAAAAAAImAIkACAgAgImACEmAW2mV7r2W3Nfv
+K8RWQztlLUqRRlRjfNthVmba2X3zvbTK8WgKOB3fG6edraqzARJEkzFlImAmAJgSSAkiQAAACAmA
+CJgkAgIAkIiYICEAIiYKm+d7ru9fg9y4vFRiKTmtSpFWFN7hxlNnO3N1d5re+N5blDS/zn3vzOiA
+WSCSZgW1qlskEkgAAAAAAAAQSEExMEhAEBIQTBAQAQCEEKAIWrNvR9J5b1OslbVnOlLUWgEYMKMX
+LjKbGdt7qatN2Xtm7TjOpzPD+j83aTESzMCTMBYgWxASRJJASQEgAQBMBJATBBaoBAAEEkCTUACC
+AFIBJmoN+r8d6fRqoOVM9MipQhVhXexzdPeab2U1mmrLSMyvieURmGyCUJrJICyRKSQLMwEzULFZ
+JICYAJrJJATEBMAgELMAEAAQkABAAAAC6dzhdq3rQReNaWzihUE9l9rhnVbVWdF9Jpi2Fl3rTaa4
+/n/u7vzPs/nc+/I+jxfDz68hvHzGfoqF6eLq2p28szUskAACSAkACAkAAAICYACAAAggkgCOn6rh
+6/BH1vrcenw5r78zi/C+h9aW5+n58h7vwvu+aREd/HFLZlSoynrlpc67YbGt89XS96aRZ9LscPb6
+3s87ofD+90L4zvyHJb4uuvJ8b3vD+3PHqHv+ATWakiQmAkgWQAAAgSSBZgEAAIAIAACAO77r597r
+5f6b1fU4XS8Hbp0ytrzZK6q73yvB++8D9X4kRMerwVzvnZUoJjpXZk1NQ1jVs1naWvpOH6z5/wBj
+o9HnPfN+m3C1LyrwOp5fp08/xz6R9X5Xj/J/Xfi3f5oRKgBJAWKhcqFoBQgSSIWSAmAQAAgABQgT
+o+58B7f5/wCg9Z0eP1Pm+97RbR581WE+mk/C+78P9X4eNds/X87LLfJnEk0NjfMrrbVa7W2aja20
+1p3+N1fifqOjvzacOvUw50bl/Jdnx3p5n1Lx/tPqfnvF/M/beJvEAABZIIkgJAqSIJAAgJIAAAAC
+JggAAt39j4r1fk+t7LqcPrfJ+10dE9Zyos0rtPh/Z+a+n8fm0ay93x1cW8kUNDU32nfNrvbaartb
+cpLGPH2W1yj4/wCovollqPVSz3i/lOnHr+f9F6Jr7vifHfLem8zMACyQEgQAABQAAChEoAQBAAUA
+ABaBElvRec6/H3e463n+t8j9H1W+S/zzqo6rrOXM6eXq83m8nMvr/mUsXcGUjYG2IYljadyu87NV
+Sw+XeX3/AGHD5bfyfT+kqeJvd+tU81Tpz6Psfmf2v1/M715v18nxPzHrfHzNwFAEAAAAAAAAAAAA
+AAAAAIkiJCXkHufo9X1eH1vm/pek5zmfN16EqaM6Z6L9uXOxcz+1+USwewuETcGdwhjUF23BfIfF
+wmQCyAAkIj9Ng36W4XfxL5SE5WkEvYC1ga13AYeBoAAAAFAEAAAgAggCJDQ6QcvT3+qHzP0nQ3Dh
+2b1BiioejgYh9j8rkuFziAf/xAAxEAACAgIBAwMDBAEEAgMAAAAAAgEDBBEFBhASICEwExQxByJA
+UBUWIzQ1JEElMjP/2gAIAQEAAQUCQQUQQQUUUgj4YIIFIILsmrFrv/UDhccyP1YoVqv1aXWH+pvE
+ZCYPMYXJL2kkkkkYYccsLJHkeRxie0Ciiikd5JGGJEkQQQQQUUUgj4YIIIN6jqP9QqeObk+Yy+Xu
+9Fdr1Nwf6jcjxpwvWHG85EkkjDDDDjlhYOOOMT3UUUUjvJIwxIggggggoopBHwwQQWX149fVvWNv
+K3fBE6Omev8AK4x8TMpz8aRhhhhxywsLBxxie8Ciikd5GGHkmRJEEEEEEFFIII+CCDIyqsOjqfqe
+7ncj4+kuq7uAyYeLEYYYYccsLCwcYYnvAoopHeRhhyRBBBBBBBSCCPhjt1l1G3K5fy/px1A2VRIw
+w4445YOOMMT3gUUgjvIw45MiCCCCCCCikEfDB1pzc8Xx3p0QsyY2G+QNwWTC18ZbYLxVzPfh2UT4
+n4OBzp43l97hhhxxywcccYYnvAoopHeRh5HJkQQrKxBBBRSCPi6s5P8AyfM9sPAszGq6XZos6Ssg
+r6TZTG6XoqKOLopIoWFXBrSftkMvi68ivI6fVVy8JqX1o6dyvvOCYYccsLBxxxhie8Ciikd5GGHJ
+EEEKxBBBRSCPh5bK+z4v8lNLXTx3Tc3GHx9ONWqRuCF99GjQ0DGva2PJeVo8cixNH6fX/V6cYYcc
+sLBxxhhie8Ciikd5GHHJ/KCCFYgggopBBHwdYtK9PVVTdZxfFriFcREKLBo120aHgY0NHtn0eZmV
+eJ+mtv8A4LDDjlhYOOMOST3ggUUjvIw45P5QQQrKxBBRSCCPg6tr+p09wyQ2XCiFYvbxNHj2eDRJ
+JZT5zy+F4V/pxb45jDDjlhYOOMMMST3gUgjvMjSOPJIoghWViCCikEEfBy+P91xfBRq9fxXHukEf
+iDRo0SpKEroae/L1/UxOg/284udRc7jjlhYOOMMMST3gUgjtsmRpGkckUQQrKxBBRSCCPgaPJeJW
+UyaRYEgRPaEIQ8Dx0OypGVzuLQP1NSw/LvbGLyTbSyHjKTzo4vHs+8uyLMa2u361Ljjlg44wxJJP
+aCBSJIk2bJkaRpHJFEEKysrEFFIII+Gqtf8AMY3vCxo+oqH+ToWI5egqyEs7ZV/gvJ3XZJ/j5tbj
+undk8XQkXcZXMY2I1I0e2BVFb5dJwV31eNccccccYYkkntBBBBs2TJMjSNIxIoghWVlYggpBBHw5
+fFtgctFy48feZWQXLlSv0bFahZ3hN4iW7XMb9uRctU/cz439RqiTzl1Ucdy85Alsa/MXedGV/wDq
+vT0SuA444444wxJJPeJIkiTZs2TI0jSNPZBRBCsrEEFFII+HlbfPOzaWuswMVKlsz8aszeSx6mnN
+ZjEztvjR9VcuvwjISLH4+jHy5XgMx3r4yuFrhZFq0viZNXlPnFORxseNLjjlg44wxJJPeJIkiTZs
+2TI0jDdkEEKysrEEFFII+HmqP96pVmeStZKa8DMyrrOJyKMjjOFmjBjFtROMsmEyll4nH94mxImy
+2RaGaaMXRKaiYLfwlP0V4/8A4zjjlg44wxJJPeCJIk2bJkmRpJknsggghWIIIKKQR8PNV+WLjpDl
+mN+391ZNnkLDMTQYyTEOk+KVKxFFUk4UbXGiCEJUsjQ/5fIaucLf03HHLBxxhhiSTfbZEmzZs2TJ
+Mkk9lFEEKxBBBRSCCPgyU+pTiRqdeUNhwwmFqYxkqi3TzSkQvj7PtWza2RMPNeuUeGPbTFoxXW7i
+V/TRxywsHHGGGJJ9GyJNmzZMkkk9lFEEEEEEFFIII+Gl/HKojyIrG1XGbkPkOlcRXjpsZNRKr5Zd
+1bw1HmtWR4kZPs15dkiT5C+1bjjjlg44wxJJPo2bNmzfae09lFEEKxBBRRSCCPhvSKsrGb9sPqM2
+/S49X+1ZmzjRRyxZyMsq125MU4K1Ki6MrHlhrrqBcjyWxtzXHtP4cccsLBxxhiSSfVs33n0KKIII
+IIKKQQQR8PJ1T9DBy/JXy4VbbmzL96T6S2TOHHhGE8NTT4xonSnJ83j4UUNdkLXifb1fS83xl8rm
+HHHHLCwcYYYkn4p9CiCCCCCCiikEEfDMeUSjYl3m9leJcmPjf5bGmF5jFI5aiRuUTUZWVclmDn+P
+PYz74PpmuoeuEi9xfY42PO1hxxywsLBxxhiSSfjnsogggggoopBBEkT238HJY/8Au4n7XnBTy5Tp
+bHyTjOPfhs3G5TF81z6Jr/yq+Ge75CY+H9Sa08YyW0Pb+6y/UcNP7GGHHLCwsHHGGJJ+OSeyiiiC
+CCiyRJEkSRJEmzfffpsri6tt02Y2XGvLa5WLFolF1Exl+Ktm+9NP1ZrrP/WY2laYiYsm2zjX8LGG
+HHLCwsHHGGJJ+DXae09lFFEEEFkWRZIkiSJIk2bNm/Xm4f3SfUem3FzdixDrFUH2yMLjpWRWaG9k
+5GzUZN3vh16EbxKc1bhhxxywsHHGGJJ+SeyiiiiCCiyLJEkSRJs2bNmzZv0QQZ/HLnJatuFbx2XD
+rGtx+CB51OXkQqcpm+T4lM3TUmjQy+URk21Echs5PmHxEwupq8u95HHHGJJJJ+KSeyiCiiCiiikS
+RJEkSbNmzZs2RJBBBBBlYtOXXa/+Jz8PNjJrSw2PfCDZinJ8qVLOTbiUeC60fk0MuzwOo+UiJKM6
+/GKeorIE5XHvJaGhiSSe8d49U9lFFEFFFFIIINmzZs2bIkiSCCCDkucxOJjlOurbk4/E+rDR+/Ht
+uwJx+oKGheTracnlUUz+b+pNOM+TOLiQkIul/wDaqMp4HP8ANrx6TO59CWNWJyVii8hW5uGJ7x3j
+1T2UUUUUUUUggiSJNmzZs2RJEkSQZ3NYnGxynWOVlzZY1rHC3xZVemmpja5GCtg+Ay2RgM00YKqU
+0xBUmoIXYsaG1Ec91JViLZY1z/AljIV5cN3jtBBHpnsooooooopBBs2bNmzZsiSJM7lMfja+R6ty
+sod5du/HZn2eQjLk1VL4iL5k40STiKLRCiVkKKhrxM3kaMFOX6uuyyZ8p+Oq6UFaHiCCCCPTPZRR
+RRRSCCCJNmzZs2bNkScx1NGMXXPkWerj+TtwHw+dxcsx9MQnt9E+gKmi7Ipx1y+sOPxpzus8m4tu
+e9/mR5SabosIII9U9lFFFFIIIkiSJNmzZs2bLLlpTluoLMr46M2/FK+qeSrP9Y8kT1dyUlvUPI3D
+2NY38JG8ZSfKII76JJJ7KKKKKQRJEkSbPI8jyNnkZOZXiVclytnIP/SYb7WCCPRJPZRRSCCCJNmz
+yPI8jZ5D3RUmfnPm3f0uNZ4WwQR3kknsoopBBBs2bNmzyPI8jnMwn+mWffFs+pXBHeSSeykCkEEd
+9mzZs2WWxVXfbN1n9PgWaeCPRJPZSCBSCPXs5i/ST/UVt4yjeSx6JJ7KQQKQR8GXf9e/+oUwn8qu
+2ySSeyikEEEevkbvo4v9TBx76s9M9lFIII+Dmbd2f1WO/jb6Z7KQQKKR68u362R/VKVN5V+ieykE
+CikerKf6WP8A1amG26t+ie0EECkEermbPHG/q4MFvXBApBBBHp5mzyv/AKuDDnVnontBBApBHqzr
+PqZf9XBjzq7tPae0ECikEem6z6VU+8/1lU+/ee6kCkEESbNm+3K2eOJ/W0zqz0T2iRRSJInts2bN
+nM2bb+tUofzr7z2gWSJIIkiTZs2bM2z6uT/WwYTe3pgggiSJNmzZsvt+nT/XQYU+ie8EESRJs2bN
+jRDrfwl9aurJPqlZj+jTFutE4TLeE6dukfgqsfHiIWO89oIIkiSO++1ceT0x7faU5A3TfHWlnR2C
+w/RNI3R6IN07j1FuHTjxktt/5uNjrbNHDY7xV07hlXAYKlPH49JNcDJBKnJe2Eb+CPTBhxu6grFN
+jyXsZLmdb7NO2/m4P5xpKp9kb22TI0jHJf8AD7yT3jvBHaO3Hp+6r/61kEyWPouf2yrTMt3P87En
+TY0+1LCt77NjjSch/wAP0T2jtEEEdogiDRgJpKpFnRDEsWMZNmoy7/enjb+QKumHky60pyf5mN+c
+afaqRJINjkmb/wAT0T3iCIIggiCIIgVNzjxpK194PLR5Fre2S5kv5PgY32uNyV322B/Nx5/disUy
+LJE6NjSN+cn3xtd5J7RBEEQRBoiCIIUoXb1xohtEWEuNYW2GZbo4yr7nkYOp7/DF/m1TpsRvaiRJ
+9ontZOjcjfurmDRomCe0QRBEEQQpEEQRBR7Srn1oGcW0Z9l1ntmWbOnMfVMQdVWby/5q/nCYpkRj
+ZDDe43sbMhPG2YNEwTHaIIgiCIIUhSIH9oj2iGPqe/1iXPq+19ntkT5NhY/22LB1JP8A8r/Ngwn0
+UsLIs7IGkbtmJ7aJgmCYNEQRBCkQRBEEQT+63XvPt2ljyGcutOKp+75GIIg6j/7f+disY8isI4rd
+rD8jxtJgmCYJg0RBEEQRBEEQfiKzxgcmRoGYdy1jpij9sR26k/7f+dTJQ3tDbVGIsIs2eeySfaJg
+mCYJg0LBEEQRBEEQcxlfY8dHUmYpHVWZqOqsjf8Aqg/1MjH+oapH5yhhuRpeOCRV4vt1XpOW84/n
+UlMiz7KQKQT+H/GiYJgmDRBBBBBB1Z/1PwdO/wDSduv4/wDM7K0qfWc+4sIyrYPu7T71yvKdz68/
+xaSkrIEF/Gvb8k/iSSSe3//EACsRAAEDAgQFBAIDAAAAAAAAAAEAAgMEERASMUATICEwQRQiMlEz
+UEJgYf/aAAgBAwEBPwHuWVgrBZf0RFtycbIQPIuAuA/6RaW9DugC42CjpfL0Y2fSFhoFdA3RaDqp
+orHojrzHZUkYtmTgnYtwlbcJ4s7mKOxph7AnJxV0CmrxgKLi9boixsghiUdjBbhBOQYCnxWUcXRP
+yM1KYQ7QoqPp1VUAJnWQQ5DsYQOGLJ4Ub35rEdFILsuFH8U+APN3KwYFe6jd06qo/KcBiUdjSuvH
+b6TX/aztCc/2oOusrrXBRefKaUHBmqmcHvLhgOQ7Gi8hSXBUQsMxTmkhBhbqVnDdFla9cOyrPA3E
+UpidcIsa/wBwT/pHMiCdUGX0N032q5VWbvtzFHZUk3EZwzqE4Fp6rhRSD6XpWhOkDG5WpnUo6KpF
+pDznZNeY3ZmqGoZUNsdU67TZZitVGF4UsDZdU6jkbp1TmOZ8huIIXyO9q4Ry9UYihFbVNbi6QMbc
+qaUyuzHC+J2N8KSbhSddF0IRA8qzU4olSStZqpp3TH/OY7SGrki6eF69p1C9axOrB4CdUvcr37BH
+607Q69sbU6f0AI9kbd2vZG3fvByO05Ru/HYaMxspKNv8Uady4D0KV/lOFjYd9lJI8XC9G8alCk+y
+hSxhVLQx9h2KRuaUJ+DQpXZQr3PfpDeNPGNZ8+xQM1enKyHRVT/GwoT7U5EYVvzHYgj4cYCssqec
+oUhzO2FC7wiiMK5ujuelj4kgGBRVQ/psaR1nrVHCZmdhC05qWeOAkuXr4l62E+UamI6FTSB2mxg+
+SZhZOTteY68jcDr36f5JmmBT9Cjj/8QAKBEAAgECBgEEAwEBAAAAAAAAAQIAAxEEEBIhMUBBExQg
+MjBQUSJw/9oACAECAQE/Af1du+PgXUeZrWX7XEqYgLss9d4arGG8uYtRhKbah2BzMS9tshmcqD+O
+ziftkJaWnpsfENMxNjGr6TbsVxd4tK/JjIF8zVFaXqONoyuu5l43MpfQdeoxDxBr5MNNAL3hsDA1
+jFrFeIzlpaHaUvoOviBvfLeeZpgE0jK2riILKAevieBEhMHwBmG89h6YcWM4NpaDLTeVLDYQTDCy
+dnEU9J1RHInqauZtCYRFEoH/AB2SAwsZUoFDfxkMrXjbbSnVKRa6NAb7jriOwUbxtLHaDaAFozBJ
+fJFLmwlNAi2ytLdMLlWTWsJtFqkQ1CZeCU6LPKVIUht1QLwC3wqUEqbxsE3gz2bxcGfJiYZF6wF/
+0HHfH/XjsLxcWfIgxKGeuk9VTx0GqqnM90kOK/gnuXMosWW5/BXNkOQypDoYjnMTD/X8GLbYLmu8
+pLt0MQMxMP8AX8FZtbXyAlNd4BYdCuNochMMeR86raVhlpaU16NQXEYZCU20tf51kapsJ7Z4KLwU
+2/kQW6LcRockg7bcR8hKfw//xABAEAABAgIGBwQHBgUFAAAAAAABAAIDERIhMUFQUQQQEyJAYXEg
+MDJSIzNCcoGRsTRTYoKSoQUUJMHhQ3Oi0fH/2gAIAQEABj8C4mnGiNhMzeZJw/mTEI8jDWjsdBe4
+ZvdJHafw8zn7L7kNrtdHdkWzQOjaVDjcmurxiZqCMDQQ3SY98T2B/wBraaVGMV37Ds0mOLXC8JrN
+IP8AOQMn+IfFShRtlG+6i1HFTEivENgtc4p+jaK8s0IVVf6ndMg6Y46TollfiamR4DxEhPscMSfG
+jPEOG0TJKLQSzRGncZnzPeBjjT0R532Zcwg5pm01g4idHhH+lhH9Rz7538OjGboQpQzyyxDZQzKP
+HqHIX9xuhUg2aNUpKVFbzdei6QHUQ14pdL1MWYfFc0zhQ9xmuTAt51a3Ju5potzRd7RClswrJImj
+arAqJC3W1qjLVoUWc5wwD8KsO0mN5IZlqk0TQdEMgUA1oCnLuqUqiNTW/dxHN/v/AHw7SZch+6DR
+emkiZVXeyyWmQfLEDvmP8YdpfIA/umde/c6S0yF5mB3y/wDcO0qFe6GVS79yif7LvqEWMiBzsNIz
+T4Zqk6SHcVr1rT0Ro1rckt9TBT25hEsJba10r1CMIyaw1pj/ADCeG6W9rptLqVXNDVW4BesCyQlq
+qXjLZ3KypBxkGZFWBVBeI9NWkVb1NTzTJ+zVhseKPUx94cjki4mQCLmGrJGnScMi2pDZNkb2lCYo
+ck3Ma5uW0e8QII9or0W3ijzWBMdE28IPraTWCt537KwnoNRLag6Sleq/Nhsp1NqkmNHhQmAtnIOd
+kFIvhQzzM1OG+HFH4ChNTTinOiGiwVp501r3ijJrWiYCfDMSjBmJfCxMOku2xYJNpKUNsm9NYQYE
+/wB44ayJmq1RhbzuSbt4bm6NPeaw7xTxocClCLg4GKK+idDiwWGMXUg+lWE1sUtc5thClqrHzUqD
+HD5KUqKvPVV6yEYxE4hGHAj2ShUslYCvCslYqlNbwVo7dEtLgbCjhrm9mblu2a5KmLlQf8+16l3U
+hc8Oe3n2KDLOxMqgN5BzRYpFW9hvTD2Oz7BdmpFpI5LwkKpGk9zRy1VKYMipuraFMVoIDEJgTome
+sQ22XqWrmrlLVaq30neVtZW1eyi11jTami9DkmDniEjYnNyKMrU1zjR801Pbw5e8vXNPRVTKqhRH
+dApwdFf1IUN8XSWQWuMpZIwYMeJFN7praRG0nXTQFyGou8uI07nqSDpTBtW0htDHclTBpNsMNyO7
+QpCupW1KTIbp5FNbGMx5UDY3UdbsziJYb0WO8QUtU71VvBVhS+ipOHzXLUVNAXIDOrEt2qILCqLh
+RcLuxWJrdYrOxRCmgclRO6/EvLFFjlQiNon6oAntAZoqkVLXU6YyK3mfJU2aM6K280pLZRW7Mnwu
+uw+hGlyN4Rg7Sm0WOQrrHYc43JxDq7kHezzVeuWs6NCPvkfTV6OK5vJelYHjMVFeOgcn1KYMxhPp
+4m/dDbW5OZoTNiPvHeJbeM4xXnzVqRsKm0lzVv7jlU+a3lRh18gqUQzTeXa2TN6O4fpUzb2d1xb0
+W9vqvdVRngh20YUvIK3Kjo09GhcvEUXvcXuNpOqjeEDqsrW6S34rfc53Uobo7boUBwdpFlXsove4
+ucbSe5qKk6o54DSjPlk0WlFkD+nZ+HxfNEuJc42k9gOuvTXNM567O2XxogaEWaMNlD83tFTPeZhT
+HHOg6LvRb33BF8Rxe83nt1VsvagC7ZP/ABKbXTHZpRIjYYzcZKTXOju/AKkRo7RAbmayi+I8vcb3
+Hv5hc+LL3uDWi8ow4BLIWd57v0UVzOhX2il1aF42fpXrWj8i3tKd+WpUnuLjmeDmgeJpxDIfVSO7
+DFjcFllxBc4yARcbLhljwgNPN2POebAnPNpwiWfDNhC+s4TNA8K5112FSy4R2ZqwsjPhGMyrwtp4
+R7ueGNPLgojshhvTgg3zHDXDgms8ow3rwUQ88NZwL3ZDDhy4EjzGWHN4FjPjh4N/APPww93fudkM
+QI78tNhVJg2reVqk5paeYwrchPd0avV0feK33tb0rReXF7gqhLvwEFKJDa8fiCr0cDoSFVtGdHKr
+SXjqFXpDv0qtz3fFbja+PE1XS+arYT+Yr7O341rcgsZ0Cs1v4AYOO4icAT2po4AO4icBPtlFzJUc
+yvSRgPdCeyG4ua0ymeOHbi9OGKkLSmQ7xb1UaILQKuPHbidOGKZ5W7x1Q4XnP0wZwz4eJGPtGQ1Q
+mZMng7u9lnrt7Mr1Dh5DU/3Rx47gO72WXarVqZkzeOuL8Ppg5HezvPcRoxv3Rri/D6YBXwcWIPFY
+Faz9KkRDPULehQyOU19n/wCf+FXAcPzL1Tl4YnyXil8FAo1hwpazWK2Aq0Yl+cdzofua9FN5Yfrr
+qJHReN3zXjK8S8X7KwK5XcONR7r/xAAqEAEAAgEEAQQBBAMBAQAAAAABABEhECAxQVEwYXGBkUCh
+scHR8PFQ4f/aAAgBAQABPyFRelGyENpvLbFnJRHvE9n0eIJE+A2/FzGpxcf5HMcnw2vPslmazQ/Z
+zo7xnFHFsKUccWctC2U1PS486Ci0cN7RDUhCG0wMgGVeoG4cjf4eU8O8OPgJetwAhLFpIqMVHAHt
+/lDYOBY+vz9bwHocUUccUccWEUUcWgZcWI444sxRRRegaIaGhCGwk4u6AJmAicX3Pt7ei6EaTsna
+2nI/I9/DDTpe4hUcUUUUWqw2dRQZcUUehk0FFs3DfA2ENTwMjNMDMzj/ACPTuMEHsf8AshTC0Ozc
+Z6Fzqc9VhpWyGiijiizHFHs/DaxDcaBotlQ+mU/P6oamRQJct8/S/Wrqpu16XHiKKKZIo+I4/Q1E
+IaGpoIZ4Y5739RzDStVjRdRavyzDT9owOJeYoKK7YtEK7lpUJ4sQ82v2RJJaLH0gsdj3sq03Ljj0
+FMkUcUXHoaiG4hPwUyo5fzetwq+ag33Ke0rrg8IjScsquIqhwPaB0R+IuA+yVFKKcRLqiAB7y+hl
+O1HcW5yMrPfJ/HqqaM72w4MWOOOKLOl8aVHvqNDU0JmulK96x+8WyvMtYXtBEc6iUJTvzB9iV8Tk
+RoRzuOPvEMTLEQ05JaHENMn4TATjFy7/AOgxtNUW+153AoMWOOKKOOkUcUfo1DU0J5zXfFZzDKoI
+WvLCYQOqnWAwkipWcdLtoyO4aROC+Jnox2CZ51B9GrUew9ttvO1KKXFjxHFFHoOOKKPVWyENTWj9
+/hSzGluUor2nCUwQ4NCGsq5jLIi4A6WHGJzPFQ/MJ0pgPlWrUcUUe9LuGlRxS4utLQWY4o4oo4o9
+D1CGhoQiHtCnzUtOxiARFcpRTpHuEOuY5chXMysQ7BxmLxBs+IGxnjvQo4oo4t0LgxxRxS47FSiz
+pUcUUcUe1CGhs9nyQMFIvZHiZgj3c4ZdGDYRwsIflg1SuZFpxbA118QBDZ2eIHEk7YsIUHhYVTsm
+SBhO4QPAQ444o4o4o9e8xRxbIOxUos6VHFFFHuoakNlNVF8HJPps+orEAZh+/Bhzj8MuI2hrMZsu
+y4pUt+8D4GAPmBt343Us+SgzBAcVTEr2CWGQ5txLI45dnyTOdDTGArtLjjjjij0OOKXFHHHDcETi
+zHqKKKOLbhoQ254c17mf5ShkLlnInCaKiuewj90sPgFhi2YUXa6YvgD6nKMVQGfMqgKcHiNj7kfw
+R9iKG8qrEsakzoJxdiKH3lqAcVfM8vUfiYfF6RzSm2PuOOOOLMXMUUccUuDsqNF25hc7VUUcUWxE
+IQ2vQwzN3/rA4Hm3Fr7EtB4KucfnxaPxBPzAfiMTF95iUBBV8Sii7e8t2h8/PzMRDPJLcOv8xXJt
+QwRwKX5ys8yxBfVg5mVKsEZxdruKOKOKOOOXB2EGm68UUXU5Got9RCG4g+OCzgE8MburinmKILAK
+IpwUfEza/fxzKR7zX8Myx1hsCKqiYB8CJh1YQhT64YWyMfp4IQATzmZ8hUvVzhcKXeVt3dUUUcUc
+uDFrBu3Z52HTW676iGt7E5kLDLB+pdw+BiJ/CpXyohgB7Rlv7TElREAf3Jgi7xczgY9p1swRcxdJ
+dOGAxEAcGGtvd9DiijijFw0Br3WTneLnW6az2VbIbb0+HpjXkagINrXMHB/EtdF/AJSeY98VL3CC
+0qCc515QcYwZcqEAuIyClcVBiUNW5rfk4otKiy4MNgHQOKKOryN3lFHoUGXpetxyVLQ5ihmCkDVm
+cgcqSx9yoQLGMwMS8QuwhZwjxpOoEArmdVypcFDwPRd1HHFHmXLhBqGFijO0dBnSddylpUUGDsvS
+4SOuV8w0fECBrTzLWme8adIUjLYL3JSnmXdNkFX2vLAOUtvEKjyJyKMxCaiXGv8AKxzsTGniL007
+UWXLgwYaCxYoseI7N111HFHHFFBgy5cvS9Mj1mHiDyfUymXkVbZMCn1G4qyYwL8oIoK4tjWsxN8k
+z8CvMoprw1n1Ltf/ALghKwqF8Bo/RM3FHoZehoOrxoSPcd1XFHFFHFFBgy5cuDLhATIikmYnBOzq
+YhoFmyrPcBLXwSnZ0adwptV4IlYwu1SUSb4oHzmUTLXe3v5gldSzGqyY95U/79uCcwg3kRBVnjYf
+vHF6aC8tV6ENXiOnaMeoo4o44o49QGEDLly5cHQC7iy1wkVXSJq8oV3M+3lphmb5w1iezDplNfZ8
+THeOqrqD8SVwVD3jSAxZ3LSM115mHqVKdSyq40Hm+hjji1OWjtFpWu7TbynaOl6VHFHvqAIIGDCL
+gwYM45e3iDCH7p5jrG4DBkl3SouP2ZTAjFxc+OUS1RUnQ6iBozcTAbwZ0SCHHFtDvOGnlrO0gXor
+QkErVcUUXoUUBBBBAwYMGDCHfT/nmXasBUoAuJaOSAaeItoRCKA+ol9NLsYFPmV/2ZzncZk05TIJ
+4PPxHFHHvK46GXsIaseZ23eoo9wUEEEEEEEDBgxaL+J/yb7SxofwPJOdZMS/qYcNMzMGud2VMYaD
+ASrPcxQZjSfOT+WBlXMPmaW30KfWZSC3A/gwHI2bd57cMOIcwhox0DTnoxj0OOKLbCEEEEEGgUUW
+vVynkr4IyYrInTG6r4oDi5XnFzsCV1UdoJSCx7Zlgr7Skg5CBFU6S5UqdS8GxBi+I91n4lEdwicV
+/oHtKAE7GLOl6GOg4hoDVIztEg1+mzKOOKEEEEEGoFFFFO3gvJPr/MtS5XJ9Dg/ed4/zoQXm4JkO
+PD1BR8JcQwmPZuc2p+Z/iATm2dRICoOivuJhoexOzxENeA9nmIyWsrq6PWx7qnVB74Z3N++SVLAe
+Sco6jiEEJUqMSCV6D5RxagQQQQbASlGUl859dfcZN5T/AHOvqJoK12sGmdq9EwjWYWapeJ8ULcFy
+RY/sCPUo9ycSQfYgBxLHEuVGq2p8jxh7n39o8prRa+ijbE/xiJd6jUEqVEiQRIYN3FHFCCCSCSDW
+mRe+Z8ZBQX9q1/T6iZQtFrocRicm8QHQQqqCPec/HuiUB1CEjVxoYOJ7rRcvwdxBzjv/AKEREVcq
++l3BmH+mGExoEEEEqVEiQSpy3EccWgQQSSSSaWyAWOX4fLOSHD2xxuEXz5eItZHWJ+ZWAP2MuBHP
+iYoztRWKl0YcHn+5aj/+jD6JzYuuPrXLQUwHx46TBAgSokSGJndBx7BSSSSSSRoPakU45px/hIE4
+9Fi/b8cHAoPP/qf8HCaPhj+5fAz2H8SNkftt/RXGMckqThLhhgQNAghiZnPYFHsBJIINEhV4odr2
+l0LWH+4Qj6NfpyHMs++qECVEg0vOjLQ449Agkgg0SKrjtYgdHHjbH9a7BplB0POyEdgedC0OOKEE
+GpIIISv9gwRZhoeZz+vdLzKLSh8mNi7A87lqDB3B40W5lhW9jxD9Ecbne6jM14hbDFpeYt2jS5cu
+XovhItSdw/8ABYRxGEbgE8JcUHR0OLne0aVsWp73q+GzrefruUrfhgwdCijjo4TnsxusA1j6sND/
+AMB2LM8YiDBlxYsUXRw2chuqXg2+WXL0NCX+s63kyRVOYMuXFixR53sHUIkrXxG4fGjof+IadRT3
+4i5cWLFL3sEI6VPdFqL6Lre2/QI7+9XcRZlKeVaLixYpe/ohHXy5/D6l7q33rfoPosWhcYsdmo9Z
+S5cuXKy4sfuO+v117WPMx702LFLjjjiiigy5cuXPDeB9Y1dhL/Rd/osJYPLWws7aOOLQ44MuXLli
+9zFYvLuP0ney/W7nE8q9Wco96KOKOPQNRcrjkIfUv0Te7b9K9Mw4uXF0dDpKLWhhsT2SFa3uJcvZ
+e25el7nffpc+fuWd7HRjO0Y9SeokmvyzZdPg9O/Sv9QR5jIdcy4sWPcdLj1A0TT8l4I+re2/Tvbf
+qvJXWjGKLBji1Ag0CM7AVPi2eL6isA6od4IpV+f0dy/Wq5XFp5GXzH7B+04pvYxW+jlo58SsAPAa
+MWLTnFWoKDBhFz3vYckH28RTIef7yDOd8n8k/hQsStR4of3AG0+B/UbInk5Zb+ley5cuX6ppf6YI
+5oSHyjDgE+TC2cezGeGvqG5IM/Yc/epbixiwg3CcoQYMNHAOMwYzDg0NJh5lpU56JRylw7r9a9l7
+L0VSoDPPWkqEMZYzmvMzuZ/V/OxRRhqNQggSz60J8pYioIEyCf8A2JQxeF7+PQuX+gxeG5RV8S6C
+MiKdMzq8H86sdGWCBoCCBqJOWd5mWuLlCYZhlbO4uJREAkNL1mfjPu/mVzmO7zuv1L9NUdOwE7Il
+0LuZ+0WDQkSM7SoF7ABsAqzzBo8TkQVKCPvxB7Q6hkyJUHpi157RUlVV7uP7jnS/Tv0b30RcU/ec
+UzaIi+K1mGl79CRNAibRE2dPpJUxG7QHDAZ7nE96IMomPafg4/eoIhnnfj/rde+/0NTMSYamJKOY
+NxlFPeGx6JKVIw6ASvRNz9Flc5h9TDnEwc/c61z0wRmUqOGUwz9Qf7+2h4C/MX/56Vy5ely/Rvc6
+OnhJRULksh7Q25mD5lO6WzRdZJn0P0HC7RaSnctgxYK5nYR7uYPBjgOTQTAdJ389wS4PA/tpf6R9
+DBJY0Nc40WJ+SNuCYltL2Y+qH+L8CyzP3o5fEpYU7qGjoGV5/auP3rUP2v8AFtv079buEVctjVM+
+PzAlWkARAQ3vUV/vtWPiebORnZBfEu4nZMkxOnhrkJ+7/WgENfD/ABehcuXL1uX6rrVU7LqMXRKi
+pVF7Tl8++h5fMt2Lue9d1+ly/wAs4hvmDfY7/TKj2IA/ywxzeSTI+wf6l7hPkZwIfT/Msl14XFNc
+i83AgQXANVf1/U/6364WkxniNh1HiOCzxDbcxh9MRx2fucMMEEME5f8AfmOjs60z+DCEM6ZOhIkr
+nuqf9TpnYfsn+kQMP4WONmPi57P6E6EIZgQWRyjunVQcuyUIMMxKiCCGGJP/2gAMAwEAAgADAAAA
+ENxB66YZXdphC4AOCfcPG6iy3eDSqT3m/QYe4bWaSIRw9/fPODCBoVxBI6bgtMLrcSo4j2dTaVcq
+NNdNecKG6D5Vq0Ip3ZAKQc4yAcdSf66MECQ4mcI/y+Ar/wB5/OvUUnxaJSUlklvFpjMg++PfSd+h
+cc/8P+MuwoB7cUpnlt+fE0kZ73PrOJdlF6eds7v0UY7v2TWcdfcbOhvUItR4XmIDS59s9kQr/Qxb
+Bhnp/OZrBs5D5R2T06RSBI/QD64r5P17xNHfMJQ4NDqwbiO0mVCmotsVlItmpQGNHYH/AP8AjqoA
+HYHEp8GKr4Rfgtty+0AdQbBBE0/lt98W0z1086SVn1QIEA2L/f8AzEEd155uLrf9U0GDBKZNq64x
+WGTIoP8A1DlCijnFD2OP7JfhwyhSZn2wrxEBPtB5OyT9kRUcLjDSiClEmrBGU/Osgy7SmP8ApEr6
+8FqpU6X529spPkR+04OUxrffPTq7WN/o/wDVVwpfKZY4dWz2Se8sj73333GlbFsOPPKCQdBVOwsJ
+X33302n3333331S3BvGafsz3PWOtYdw1OFz333333333n2knHkLxm3BHdsEssfOUVmnT33331333
+X3XyV21IkI8FVs4j5QRUqSnz3333333X1F3x31uc245A8yK44NO2mOdT3nW30nAnES3WhJdHWXO9
+F6JilV1hjW33233A1FVGXHX2OAhYA/Mc4Ery/wDMlEV19999FF19tBV8AM49JTsC+KsOtLmAlVtZ
+1hx8sIFdc9M4A4cPWLnO6OxFdLZtA4MxMINdpBdZ3ZpB89w8Siq+qdzCdT23LiF39808wwMZxjVM
+7+iqhiyz/LSCEnVFHhpY509x9wxhIt5cE2PM2SqCiTu79w43zj48ccAEBE9f4t6sJQT4p2zALH/U
+akwMu198e+w0w8+/766AZbMSPnawfnbzLvsa+BwU2+7w6470gDCB8oaheSu+Drqb8KKFTiBAAwww
+wBAADAIwbYnFGaDDffjBe8h+9ccA88ADDAAACCe8j/dh+ff/AP/EACYRAQEAAgICAQQCAwEAAAAA
+AAEAEBEhMSBBUTBhcYGRwaHR8eH/2gAIAQMBAT8QPoamZuXd9iU9Tt1InDgiIjDOCMbtwx5GGbgt
+5LezTfoRERGGcGXB9Fw1ahObRPaLWzTEREYZ8yPoNoDzMa6viKaDBTUQ/mSdK3Bug0iIiMnxcER5
+vULectoJc4Hd0uyB7YEREeYzbiIjyYCnB0Sd2zq29sa6Sb7kbxL0f7lZdmQ8Bi3hbZERg8WaQvul
+epXxbKV4huM3QR222vpeom8hhy3blm1ERg8W2fpr/tp06X7H9vqXwM+eI+12cuuuK1Ii3+WMDwHO
+8kRHk21+Zh6rxA23tE3E4nt77TXURueZr7t02rGBh5wc7t4IiPPZfVx/d1sfuZpqA3qgAOOaPMF8
+z0/k/qIiJmZweBHUebevHsjDobZQcBfDuKOIfdietz7f7nuD3LG24V6IiIfAcmSIjyZi/wCAXsot
+X7fZ1Cudv5bQkPxN3to8J1PvmIiMOD48RERg8GYI2kuhB9f2fa3UX43Cqc5YNQ30Tpuqafb/AFIa
+0MRh5mcanJEMZMbmZLQ3pPfxOkPae7ajO57Xgl9Qm5s/BL+j1bSIIzKYm1jmCIjw3hZHq7iD2cMP
+CkvCC6LWahh9r9e7kHA9W8bxuHvJanBEY3bt25dS7wYF05+D/UdsH+bg43/E7u/dtAdH2lLb5jaO
+SYMawRGN27du3vvPr6jguzV78OIYxu3bjDed/XOI62+fDiGPDeD4v1N4GOw43Lcx3jfgdTgmJ+pu
+7x2ahzuGPA5ny680z34Eubgpb+Le8ERhu2SPPf0Pc4O468BEZ+XgfW7tzgu4xkY5i3MTjrz3bt5f
+DtOCOw3qLVuWN3fF1MTjeN2/LnweIt4J5c5IbcTCe1tDa1/mJwJDdH+ZBtBG/gcWrVq3b8XqJ6tf
+meof5i3RG3b+4AOjWdxGef8ARz/Et7k24yeVst43cZ1aLq7xu3NqAtzJpg4hw/GG1giLQp+D+7nG
+8NN2+nlq6t41guJeLbrDAHEdJ9sNswEEG75G1z+Wd3m4W5Z0W9x9HVrJ97TudMByW0+DiZtQYLYn
+Ry/qOoSgHdu72+O8bxvOpt3FQ6QgjoTwBBEC7fiH72fq/wCK3/uNwK3h7+hrO/D458SbkXXVyaeJ
+kYuzjuyR3gm9fR715E//xAAlEQEAAgICAgIDAAMBAAAAAAABABEQISAxQVEwQGFxkYGhsdH/2gAI
+AQIBAT8QY8zBCBycsYZrm/AQhTb8Dl5OajGPMh88EKY/JAOzLh+AxWGPMmh+p5YYNu4ftiXbKPM1
+oylXDGOTLklYY8idUXS6g2xZW4O4RS4OTrhWCVhjHkR3FQtVBOIHUD2xIsqSX7g2WYcnCoZdRjh4
+kRAxge4CalLdTUHGgruK7e4rs9YcmCdypUMscPEjJZvNUr67DRIFzBGXG2G0oNwV+niQ4EMMe48b
+zV+aGy4NYDsx2uB0xDc6ZegLj94w8DrJxY8yA/pEVU8RDu5VxCo2RFpm4uJDByYxjyMGEbkE7CBv
+ZAYWUtReYlKubT3yIcqYxjHkQjUun/sR0wSuSN1E1Rb3AQHiPE7wRhwYx5kIoKxlabgKanWOoW1G
+ap1uydo0/mEbLOBA1zWMcJxIYX/eWCKiRvABUdxu3LgXvgIxBlXqLIalzzyYxzWagXPZKqIodxtH
+smiuCVcUwXE9Gvcomz741cqubhzUqVFUEcHLafcD1MOnX9n/AIqbOrfzADRzuJ5yZYxJUqVKwgDq
+P0e9Yc3ExUqVKlSqVi/omom4ypUqMrBkbj9R2Sp1muFQIR+obiYrDEjkLwuWV85BlSsbiRjghH6b
+OoYc9xjzPo3uXPGHLxfqkPWbymb+fv4DjWUMvEDq6djZPyf6hq7QcX8V5eqHxDDhYoojBbbzTxt3
+vX9xrAl8OFec1KzTwHaXPE7zt/fwUf5E/cO4LSi0T4tZ1jzR7gxRiv3z6ljFTZuEiaiOam+NTU1G
+GLrQ0ysROZdpO0CwvqbjjcuXi8WzeK4TulTRlRGsXwEOmU+v7A+IKrjysPx3xjuaMCXuaBye8OCP
+MjweN3Y4diHWf//EACkQAQACAgICAQQCAgMBAAAAAAEAESExEEFRYXEggZGhMLHB0eHw8UD/2gAI
+AQEAAT8Q0Syo7qPJOkWuOxOs2mhNzgoYYNcGoYLYaqCDUOCak0vvQ/dYDCLRdHSAvm6lm/ht8GhT
+4jG0hF+T/gRJ1RX7RfZ9rhtsgQF+Xh9yPc3ebtx7x4mybJtm2YGbpumdmVmZnsi5JR4iji1Fhm6K
+rmKZOZqmmZCO6mideOxw0OL0zb6GkVvHfhsTWDzGzoHaswK5sD4LYPSB7j+tKeheBwHwRwmPUtli
+G94vcaRIEJbWkxhy/l8zAwyEr86/d6+mlVxzAx7mybZtm+b5smRmzieSZOLVmao9cyrhbJiY15pz
+Nc1TVHqdeOxOs0OGpFqGoob4bfRNCVP/ACj+1jDxWLBtt+v3MX6h+8HERM6xKRhazVnwS8g/BqpZ
+rrlj5E2J2OTjpO82joZum6ZGb5tmZmRjyzSb8FFHVTVMRxOExTbNs2TNmqZyaotRaj1NE2nWPU3O
+BqaQ3DcNzaPPIzWSdA/yugMsYMO50V7Fmh1cXi6+mq3LIHuKYOxZakoPiB+YSIaFiFifaaTSKljw
+x7m6K74iyx2seUtmaTedJqTVFqLUeoouNzFMDK7m+HeaZqmYi1Fgi1NE6zrNibnHSDjgahuG5uRZ
+hIgBlXqJVc1QYTyGQ/Pf0XiuQvgfMs1y69Rcjz52RfkK9PqasVDFdztFhj3HuK7j3FVzJYcsG5Y3
+Dc0ijjwTRBjhMiUzbmb4V5q4GqaI7CdYptFdRXXB54rkdQY5tEZX14H4XIPl8RNlVXa9zaVfCifd
+BLdFtGiNUOavAutXKyBUR23Ox0NFfELSssmn4h735CejMWskEG7pIATsswOhQNI5Gd49xYY9x4Yt
+x3c7wWTIzdguJUI0nWKqlgRahDhMUolFzGzNmcmQmU4DwRai1FqbTQnSbkdMNweobhqGo4qzMrow
+Pgh82fjgLPLLTLoND58QjpZUKpeJWqS0F1kTqYsWaseBBEAVZe1uICtRb8vMJcUlDBEnjYwZjip6
+6nhIulsutGm0Kq4hoDdDW9zEOmr9wM3Vdpf2Kd5sx7iwxbiu49zK52mzBlhm0I0iqo9R2chg3w4V
+m+Y2Z8WolqPVTRNUeo4tR6iwRaj1Dc2huG4oOONFfLEo/YRlCptXuegwQWoA0L8OYw9AIM0P+IbQ
+dDGiIFFSVV0qTuLe5RVhO5qVl3FGl+4Bi+FjlHyTMtK/ZNfk10G/1EdRk11HaWnl6SH9osM0Y8JF
+hmybItxbj3NmDLO3M4qqPUXMY5SMwsxsxuYtqY41QMTRNUWo8kWoqiiisIdTSG+RuKmJ3+eLYduL
+bxbOmtWW5g6C0BQRNBgJiyaaPtK2oj/2WraShhVyovTFQBB7qKrX3lY1liqh+BoPpuJUy6qBuI4h
+9GWIUW5umyLcW49xYh1c2m7O3FeaipjjqaOAnHM6bJtmJg2xOk0TXMBNE1R6i1LK5lZFZFBuDfAe
+EL0371+hhiuojwGYD3pGJqPDrxLDZDGxmFYDcBy7+YVMMKFNQUuIgbznqbQt8yprIlq7RrA2otWj
+Bgy75f6lpKDlnMRVcdDN02TZNk3TAZozWK7iu46WDUOOZCYyWkJxzFMDNsxJMvPHUkzE0TTNU1TR
+Hqap0i49IbimoooCZFusqfsIdViLVq3Ne4jUrRHNMT116mYDB4jgUzL6fMxauFggDq7jWYS3+4HN
+xdVFsoWQfWn3MhVsq1hgVEcNaAUSzkBV6Xp0/aLc3TZNk2TdMDFFdxZjjhZmp4NPBrnzmKYmbpum
++ZseSaplOppmiYiYiao44ouKrjSGoYqGISGRX7lR1IrWaD9ifHCgl7p6iFKv1KayqJhBs8w1CvxE
+U4h3agBXO2o+zEBQwQZbAAPeW4sXLeF/4jYVwBdopVtY/wAxKTDD7MVYYtbKT04xK+8CZ9r9ReRw
+Tymf3Nk2TfNkzM2TdNk3RZitjSLZo4MRKITdx7pVctuZsdMsqZSZSaZhJgI8EeuLijqG4amk0gwb
+g1cQQMQrcZ5RIxhS99wRYB/ceso2gVDzW8GssSYscN6zCI6Qp6lmj+Z3wTBf5iurS51/1uExAl6D
+Dmvb5lJHN5FXebzFSAyVmveZScT/AKG48RFwijLHFYr8woQOXkB/kYFIpnzhiFASBPX/ADc2TEzd
+M7MrMzLbi4sTMvuNWZeLXKaeKvmWEovi3TFyJ6jyShJomAmqaItR4I9TpFBuKzgNQYb4dgJQ8pT8
+o9QM1At3jUaitCToXUtxPbl+rb81BpwBVA8isXHNSBjfcqdrtg4FtVOzKMytYMW1USFN8Ai8m2jL
+8bWIVPRRqpjEXsuQbBsstM9SxCGjS+0TEygkz+wJGWdzUYlLxtqb/slrFJaPNQWTYuspsmJm6bpm
+S7hbpumKZI5epnmiaoNblfDFMbMTLVm7jbR0EeSO6miaJqmImqKKKa8q4Nwa4JZsVpRbr+3qFbDR
+bHuCBUFmj8QGk1V0fPj7xSXlMheQY/M0x/Wgi6q4KFMMXMZu55YINkKsk1bGhjIQtFIlukmbGiBh
+oVpyTT2VztbbmNeumBmgAPvGZZVmFPDcqBWFuKncC/Uvf/Ae4WAAQrIVDbpkPF5f7i3Hhm7gyM2T
+ZM3Fa8CPMDzKuT9nD3TBMeJtmVg3NpoRwVJFgmiPUUWuCi1HOkUG4N8DcHErQdfMq3X2jqz0WUTt
+QKX2eIqRiG7F5yvuMqbZCAS1Gi0oo3L99hAoAEWdu6zE9l2YXYLWWP0whTCBUvTDNtXNkftBaBwm
+n2yf1GRb+Fp+IvfacQ/cQ1hS6I/CoBYFGXobL+pX2S2xqgPEA0r0O1BY9x4Y9xZYssyM3TJNzM3A
+kYPDhlPDXgslk3y+kW2bTQm0dItRw9RZI9RVUWo44rIM1wGuBuWVaz4dwjNQsbRTAjof29RRL/lU
+394lAHsJbVPQyx2kN5Pc0LXtZaiKGaNyzZfsjNR5BGgas3DBkMpBTRi6jAaDuWzVyzbJZmoQrwsx
+nT4gf6ClVZX+Itx4Y9xZeB7myUXwUnBkg5Xw1Qj75il8xMti2nxIM3NSbR0mhNUWoskWpoixHFiO
+DUGuBqEDLcLu2YTb2vsyg16jVsbEt1Ku4TECu5ojLfaVdk5fUJW1kWhYsfeKRzlYajH6sujK4Dem
+ZgV9pdhkZcUARF4PcJIpsR9IuJcnCeg9E7zvNmOLDFlmJZulix9TfLGY7nllUt5cHBhlzMz6m0NQ
+a4nSdZ1i1FqauQfBRC0GoQN8EAZaSmLZarbKGmZpMIrXmAUVFuvEEmmmE8ymNV7g9ADETINMxoKp
+uUdxCdXWyo7y951FoavzG2LvzKB2rWYIvAlfeYHql+iPcWGPDO8d3Fhi3HVzMzMzOy6O1MdQr3Mn
+GX7Z8mfYmPHA7Z/km0zZqgzwNI9R6j1HgmiL6AKIM3LYQNxoL4jDqOdgP/MYXEW9aKuG9NMDO1IT
+t8wAOewxSEPcJMtDddk3oIHT+YQJuux8rF5QJkYjSVqm92lkAea7gqRgnh1AEXSAml6QPm4ahoVN
+ke48MV3O0dXFVx7ij3HhmbjaTWYfJMviUeoWJl8y08EulT7jtTabTrDr45L1NUxE1TVMBxWTBwEE
+EDcIG4OvCd/lf536hYFdBZySwJ8YhEKoWA8fLAq6UU6IRVwsUzD+jlMQWrIwtkG8SsCjVdkqOtkq
+6jXFo5Xw/wAw8E8iwLhBg+IXt1Vr5jMlGVkoi3I/Bl/qboruPce53naaMW46ubJgeJ5mNzJ4VEHs
+lmGCmuN80IDDQJtw6Tp8TrFqaJomqa/pUbZ5YQcwWih3CSOx3D4iy3q8P3xEBudO6md5ACL5Ny0E
+N2/740r/APoSFlbzaV8xMPosJ8hKM42ix7RrZf1F6yA6FZywG7ONtmAF2IslhU1R7RqVk6bojqqB
+qu4pRnruA1lIelg/VzZNke4ruKxjpYquPLFYxbeGkeTFuWTwgoxUzfnfDZHfDtLqi1FkmqaJmJqm
+uVpztnBbPJwklISRZBlClAJYEH7C/sy8WjhPUugPBel/iFCP0Hyh/cAER8ubocEeJQXEMWotw7g/
+AkL/AE14qWGDTRo+8SNI74TPN5lI4YBAEAB2eI1pVI7WLbGUmavE1ZoVewUm6bpuj3FQx2otxxsi
+4FiLMd3HfBqGyb8pZURJsm8bRUzVHVTMZlNZmma5qmqauYs+qFC3BUzJNbNVNrpPY5mfD01g6h6Y
+ON8nUv8AZevEqlr2dwyLdpYCWHIpFKGIBgzAXBeqDWzKLYG6RxgoNS8Xtr4IhxaupmYuKMBpw752
+f1+5sl1zZHuLcVrFuKo2RTdFFbHl5NQ2TfgfKNTzOkufc3sc8R5j1NUzkpqaZiJommV9zTyvn5n2
+cNv0FOEGCb2h8+j+n7xZ/aWkf+99wTaxTmB6CdkDkltQtTGklB9dqZTONPcGNrk8Q8fjzL4umYO4
+YCWYvpBoauSstgaieTUeoHF2j3/0m+bJgZuiyxbi3FvgqviWY9zbPBqGybzXh1BDSm/Bx6j1HSTR
+NM1zVMB9A9/P28d3Ffx5pRHqAArVFleHv+mzw2Bdjuxs7IdCljMtJ+09yuAK+otCCHpmK4W1U2GK
+1DNdko9bi7S962YJRuWIuYAoPDxGKXaGfMsWrGmNhX31vt2faB8piz8Oo7fuOh80EnvqXRpyNawr
+puy9ZNQmghhGxiyx3c3Y8x3DizEZOLCpomiHMOIEGIbgzczPvjROkdiaopqmc46amj6afwM8vH7+
+KyWyyWVFHLN+SgR5XX9Pcx8CcEBBpQTT/wAwJ9cWZU4a7e4rkwXtx5RjBILOhiLlMk5p217Y0qLB
+azRn+4oBaOKK+IyQyEcaWzMULZeWYwGHcRthEouCHtyBA8Hz5iDvLuW5U25X5Vn6jeu35RWn4xDK
+sej+3+0NaWGR+5xHl4nmbs0mjNc2gzMXCWVKptDCXjjFVNibcD1HqYT697/f/CyqADrwUfOWD2gm
+fOVzP4vbnLxUzXqq6HN5cvzHoILHnxBBBg2R49kZNBDaPpiEreKROhw3+kzk3wpX3TfwYRo8QEVF
+XXUI5EcQKFbmTDa9S8Ao1biUFu15mfF1HC6dd+CP4aobVdsMZi23BZLxAZD2v9IsB7tPwJ/kZUAf
+/wBCf6mZx0tk/qm7FuaM1zeZJpDHO4wbODM+Y5TaDUGYdcVqPUwEwTXwWcVP8H6njscexVhXt00P
+cJkrKL72v4+WVltKR3+VcszHWoAbTNuopGAMD1SlI5uHHnhCvt4lKAWWiPWPDKPRey0VEWG7IBRv
+pKlJQ+RBkFfDGG7VnMsEU9RhLDcZwi4PbTVOvLfteArMPni3hzwNcWvcBvbyDv58wkp6gZfPiIyG
+xycaM1IYMyyHpcfWevPF+6Zc8GiDU2mEeouCn6W728Hv47OMyIa5QOv8jR7geHVdF7w/AfLEqATI
+dquWBUWRP2icVQHq9w0TXY3BYAfctKPTEdW4TaFx2CgwEYo8PcDEX4lQXD1Mt0l6uVwB7gscKCtD
+rYvREWa0uDyVj7bfcey6kqvav8VxQjKh5Ozr48S8Ev16ZozVNXJlDEVU/PN8v+I5ZJumpDqbE0iq
+pnJp4fZ9Mx7eXAzeCP5TtS+zoX4PeonVbbT7v9SuBny8jUS5qLTsFuR3XhigEU1o+tH9QkTBAIvp
+IJAJUFuhPEbx24E1AdG0TMtd0AA+VgglS7LeLg/JcRqNV1erP0KeY7SrYb7sD63f0O+ClwJSPw+m
+JTUZvv2QalkumKYY27n/ALz88wvGGYdQYmNR64sZMRPNPZxe3hHzPbPbMG4DAJnaNCn7f0TF7hjf
+cW36UuGMdy/LmH6PpB+GoRXQP3GUwbntquV4Hlr+jBUMJ5reqOxa1rPeXMLHcrPr+F3w6lkd8+Ax
+jkSyBpSH3mqauLy7lJQYmCYJ5nA6qKqiqpqlMqlMslXfAPmeyHvPZCVhg/sB3GSLp+PnyYJpcdn8
+LFJKYWfyu+HUNx3w6mDMxBRbSz4/9/uDUOJimKOE/NP2QYhyjzFhFqYiVTDx18fs4PZD3lHcJco7
+oIxpbax/s8sFW+BsqYtH8i+P53UdzaOuH1ACGldL4SqCZJ0+YbIKIKJoQZnaDKbTRFdTV9B1fCSV
+4PZwI2iqn/p5/EsU0i3BQwtuAuaf4aP5HX0O5e4tzSeJ2Smi4vn334Z0+ZrDUVk0IsztFlNp1+Iq
+jxHg4qOEXqEF+4SQkNNfv1EPtF69fb6FVOCUEt/ndTR/EWpoqBkm028Ncs0TGHV9TRHiDFjn6IsR
+5cHX4mkWIosRag1PlPlL+YM9wHmL6AfgcH5z9pdwtEy3qLcaRb5rF/y0rn63fJhjsl2MNTUHuKKo
+vtEPszMKIcAVmLUeIpg4m0eD44KbzWakC+CVwNQQrgMrGtbVLwcH+/vNkcE2QK+UDPKVxWLipur9
+f/Ev0pki44W+TfCd7lfhs/zKJh8z4S0myWXFmbTR8cWsEGIcECuHfK7qL3nf6uNLLr4ihv4juCJU
+G4uOKo/+JxN8Ixs4dfQW+BqVWuIm1ZDymv1cv+YnUt5lfzMST8ES5tNHxO81msOIMEC4lcJcCojL
+JA+x+j9wyjhFuLfGEXccYg3Co7/kWpZLuXUsi1Fvla4WvoLf0nqwG3rT+pXApEVKZ+PgWU2jwfE7
+zSaTpwDgXzUjaj4MH6JealKxHUwZ3cvECpSyqzBmz3Kf4Q5SU+YHnhaYtH0upeKi1Fvhamkd8Mo+
+GZHtC33WYCIJfM0yPmOU2n+PFVUU3PtOs25J3BvKbD2lH7Zdm77i54e54g1BqBAuKB/AFxa+sqmy
+BnUolEWuS19Jywa4TrqIRkTKfZv/ADCHHhr+ZlYvqOmPBHqLJFHgisIptw6lEtCH4yf8RcPFvC3L
+xDcGpeONQgalnKXwG/oFZdPAYtcDXCpFufaOpWo+HEW+FqGZdTeonqgh+b/uDZLeYpmojq5iO2Og
+5JUx4nRCkr5iYxeb9u/4BEU8LXI1DcIvP8A8uoMW5o4z4gVEuJUNRai3G+XcWuG3LuG5pMKAOJUD
+9/4g44WoCsoV7jlKpeE1ShOaqYfQFOt2/Fg/qOYNRYIPG2dYxea/itl2RaiXKfMHH0nGn6VqLFuL
+vlb+h2uL04h+cc7EqfcWPhxk47KiquHDxniy/mX8y8VH3UMRUVor9I4mGeB88DUG/wCLbUcdynzA
+uGDktxahF4i3LfqWuVzwO0W/Sj7MMxxFc2TXhRXqUTVNH0PFOA4iyvsC7f6izLzFxxZwOINTZM++
+T6A39O0S5RNEsiy8XFAvla4WrFi3wtcryGoSFpv8wFbgVHU3itYi5/yTTKZTUtqVzHDwYe8PaUu+
+ZeWj+mOfpDfA1FyWfQXPBqLXINS0t5G5eYOXX0NuFqbeFr6U00r8I+sjN2nfCoitm8bT8vBRV8Nc
+xT2cghS6N37H/P3lsW+Bvkam+Lo4blkW/ryln0mFi3xdSyLyt8LXK19NLzKfKIu8wPuqf8RiyVR4
+jaKklNHcwkqCe+VwhCFp5KD8nB+2Xc7WOeuFvgb5GoN8DUXEPoDXAbg3HXA1LYt/SXHNnJai3wtc
+uoOIVUGbQx0AfUW4oxZYPgi3LgiVfcrqUfHiU1nHPnyJ9yErYIZTFsP/AEn2m1NDg+zxZyNQzXuO
+SOgKeDJCn6Bg3/Er9Qt8rU2w3Fo+gSozfREegyU/cIedzzv3tZ+IqfKA/Yf3DPTTc0HD58w8b+ER
+biqWfEAHyx3wd7Uso/DLPmf+cr+OULxdlWfuLKgA8QxWWAa/mZ47/hwCXr6VYPyQlpZn/R1M6Dqi
+PzaV4fVg/B/lKiM3v5la+0spq+bYN/TbwsiH0i30WS7+hb5XEbmjvBHQpa1/qACOF/wyRIwLh/uF
+ivshI+UgWyhhGyOuxwLMygHrEIBLyT7HCbwXPjSiPcG46bJUioI8I6Z39SpqO2asteVX4RU6HuUs
+PxKgMoXctwjarfctCl/MBsmxKY/VXBqDfNv8xfct9DFvLwGwkIQ0GR1L7Xiq3LC7hKbyT0tRBAMH
+Pj3FRaAAr1LC2Z/pLarhamSZEm3AIFw0TeWrMOIbZZ8RfEtlzQP7mNApm5QB31M6lxr8SgGGDbtC
+2FydM3Vbi2r5jvi2DfAqw08hfOfUWuRb+pfEW+bqLfN6uqgLsNamEWl/McgaKlQF42wWNfvFULcQ
+72ekYfXJX2Sk64dVNo8r7ipcryy6Wb1M9xfvOuW1xVQqjbDzLyi1Lgiu6gI7/qIK9RERvG4C1Veb
+iL33mNU+b0KFY7YHkv8ANP6lGx0gswsdXdfTbKcDUv1LJZHf02cFv6FqL9AkrXuYRfEDrfiZ7KJq
+VlZZQus3Lmi4fiUWMNkZ3Lvv2ROngugp5jUlx6nYmOifkn/vL+prnriF7VQAQsURszqEAsuLANsZ
+e3hBI2JcL89yyCgBtXRKHGKuzK/LXwEupSBpEAnw2iUq2+f4Vst4z74Wy36lqP0FqLc0ynji2C7i
+5s/hlqw1qXGnJqU0XvMr0H58xBIAxRKyg+v4mHySqG2b0mWaysT/AMJ2z1cz65dB03Wz5ggCnuOh
+SvcMUBmhcn7g3p0yxkcGKVS7IKqabo3twba1b7wGvyPx9I/WG/4C39bRzcIb3t6J0HWmM0CsrtFs
+6lC6QmOll2VuKF5X2ZgVDSfIxWCka49+JvihHLxNeJ6ZpxPTLupp4QC3RAKVZMw9oq3uORXrdypo
+KqwR6XB2dxiVFfzCRVdVBS6fETE2ZPnr5XhMS3hPCf8AA/ht+gW8i39dnBai39F2iUZoILuw1iGs
+qrFymtzXcZBePcGqizIQ7hW43KmLkddSsCvsJzyW/EwvfOMU9PH6p6uPAt1H+YqQU95lfSzl9RUo
+ozCxNEqmXIhXZMQuDfuOeReoIaiAZVaCFRA1fPP7Lwu22EHjF/zyvHuF/wDxbfwK14Y1Bq/MIpGr
+8StRnG4iFlYwlMfOYCFFrzEXXAaZQVmN3KYyP+CVzHwZHEcv+Jf1NZXN+uengAXQgV5dwhOB39or
+CKml6lTehtj03h1UUL2fqGSxW9EqUy3iGE2H/peXJVY+D+jthFn02SyX64v1wG+LItS361qLfBX2
+Yl4tACZywrbAMglWwilVf1GsUqsgwBG8Uwg1XphL7GvUpnolU2YjlzJYmXUtnrgXTAWHJ+hFxIvi
+YVih3WCEawDuGJYHdSg41rMZK0vRWIq7bMRsB+Nj/I/hyfy9/wCSC/Uv1wt/HeeNOadd3MZoDSIl
+J6Icb4rmmq8QhKDW4mqjCrGIkKdZjgHIalS63MevpqOrh1z0cVeRgKy6j9W/aV1h5D/cTD3sf9MT
+kLb+Un+qAUveqQGfGTf2I5Hywr8WQysJ3OQu27w/An7hPrKSrNb/AK/HPoV7wBoGB/wmDYJke/pv
+1L9f/EbeHcNy7ZnHmEI6HfmKFNse5VbAj+aj0uKrdagMJe7u9zODHllwqgTxNE0CUD4lhqYHgzsQ
+sQMQqhQIUHABvh3yRVxWnL/nec/FJHkMP7ePklLBbRfqDuW+f9kAK/ZAWm+B/sn/AHf6YNW47/2S
+kdQqg/zEXd8j/uGj7f8Awact4OJnV5hWIS5RVx0oMA1nQxxJDbZaGo6lQ1CzCpgUwoA6n//Z
+
+------MultipartBoundary--xOLYxS5LA0BXbcgYgtbG5QDoQVBKAOa5MhtnnOTi1k------
