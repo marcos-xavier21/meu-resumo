@@ -1,0 +1,1129 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html -->
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--========== BOX ICONS ==========-->
+    <link rel="stylesheet" href="./index_files/boxicons.min.css">
+
+    <!--========== CSS ==========-->
+   <!-- <link rel="stylesheet" href="./index_files/styles.css">-->
+    <style>/*===== GOOGLE FONTS =====*/
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+        
+        /*===== VARIABLES CSS =====*/
+        :root {
+          --header-height: 3rem;
+          
+          /*========== Colors ==========*/
+          --title-color: #0B0A0A;
+          --text-color: #403A3A;
+          --text-color-light: #707070;
+          --container-color: #FAFAFA;
+          --container-color-alt: #F0EFEF;
+          --body-color: #FCFCFC;
+        
+          /*========== Font and typography ==========*/
+          --body-font: 'Poppins', sans-serif;
+          --h1-font-size: 1.5rem;
+          --h2-font-size: 1.25rem;
+          --h3-font-size: 1rem;
+          --normal-font-size: .938rem;
+          --small-font-size: .875rem;
+          --smaller-font-size: .813rem;
+        
+          /*========== Font weight ==========*/
+          --font-medium: 500;
+          --font-semi-bold: 600;
+        
+          /*========== Margenes ==========*/
+          --mb-1: .5rem;
+          --mb-2: 1rem;
+          --mb-3: 1.5rem;
+        
+          /*========== z index ==========*/
+          --z-tooltip: 10;
+          --z-fixed: 100;
+        }
+        
+        /*========== BASE ==========*/
+        *,::before,::after{
+          box-sizing: border-box;
+        }
+        
+        html{
+          scroll-behavior: smooth;
+        }
+        
+        /*========== Variables Dark theme ==========*/
+        body.dark-theme{
+          --title-color: #f2f2f2;
+          --text-color: #bfbfbf;
+          --container-color: #212121;
+          --container-color-alt: #181616;
+          --body-color: #2b2b2b;
+        }
+        
+        /*========== Button Dark/Light ==========*/
+          .change-theme{
+            position: absolute;
+            right: 0;
+            top: 2.2rem;
+            display: flex;
+            color: var(--text-color);
+            font-size: 1.2rem;
+            cursor: pointer;
+          }
+        
+          .change-theme:hover{
+            color: var(--title-color);
+          }
+        
+        
+        
+        /*========== Font size variables to scale cv ==========*/
+        body.scale-cv{
+          --h1-font-size: .938rem;
+          --h2-font-size: .938rem;
+          --h3-font-size: .875rem;
+          --normal-font-size: .813rem;
+          --small-font-size: .75rem;
+          --smaller-font-size: .688rem;
+        }
+        
+        /*========== Generate PDF button ==========*/
+        .generate-pdf{
+          display: none;
+          position: absolute;
+          top: 2.2rem;
+          left: 0;
+          font-size: 1.2rem;
+          color: var(--text-color);
+          cursor: pointer;
+        }
+        
+        .generate-pdf:hover{
+          color: var(--title-color);
+        }
+        
+        /*========== Classes modified to reduce size and print on A4 sheet ==========*/
+        .scale-cv .change-theme,
+        .scale-cv .generate-pdf{
+          display: none;
+        }
+        
+        .scale-cv .bd-container{
+          max-width: 595px;
+        }
+        
+        .scale-cv .section{
+          padding: 1.5rem 0 .80rem;
+        }
+        
+        .scale-cv .section-title{
+          margin-bottom: .75rem;
+        }
+        
+        .scale-cv .resume__left,
+        .scale-cv .resume__right{
+          padding:  0 1rem;
+        }
+        
+        .scale-cv .home__img{
+          width: 90px;
+          height: 90px;
+        }
+        
+        .scale-cv .home__container{
+          gap: 1.5rem;
+        }
+        
+        .scale-cv .home__data{
+          gap: .25rem;
+        }
+        
+        .scale-cv .home__adress,
+        .scale-cv .social__container{
+          gap: .75rem;
+        }
+        
+        .scale-cv .home__icon,
+        .scale-cv .social_icon,
+        .scale-cv .interests__icon{
+          font-size: 1rem;
+        }
+        
+        .scale-cv .education__container,
+        .scale-cv .experience__container,
+        .scale-cv .certificate__container{
+          gap: 1rem;
+        }
+        
+        .scale-cv .education__time,
+        .scale-cv .experience__time{
+          padding-right: .5rem;
+        }
+        
+        .scale-cv .education__rounder,
+        .scale-cv .experience__rounder{
+          width: 11px;
+          height: 11px;
+          margin-top: .22rem;
+        }
+        
+        .scale-cv .education__line,
+        .scale-cv .experience__line{
+          width: 1px;
+          height: 110%;
+          transform: translate(5px, 0);
+        }
+        
+        .scale-cv .education__data,
+        .scale-cv .experience__data{
+          gap: .25rem;
+        }
+        
+        .scale-cv .skills__name{
+          margin-bottom: var(--mb-1);
+        }
+        
+        .scale-cv .interests__container{
+          column-gap: 2.5rem;
+        }
+        
+        body{
+          margin: 0 0 var(--header-height) 0;
+          padding: 0;
+          font-family: var(--body-color);
+          font-size: var(--normal-font-size);
+          background-color: var(--body-color);
+          color: var(--text-color);
+        }
+        
+        h1,h2,h3,ul,p{
+          margin: 0;
+        }
+        
+        h1,h2,h3{
+          color: var(--title-color);
+          font-weight: var(--font-medium);
+        }
+        
+        ul{
+          padding: 0;
+          list-style: none;
+        }
+        
+        a{
+          text-decoration: none;
+          color: #ffffff;
+        }
+        
+        img{
+          max-width: 100%;
+          height: auto;
+        }
+        
+        /*========== CLASS CSS ==========*/
+        .section{
+          padding: 1.5rem 0;
+        }
+        
+        .section-title{
+          font-size: var(--h2-font-size);
+          color: var(--title-color);
+          font-weight: var(--font-semi-bold);
+          text-transform: uppercase;
+          letter-spacing: .35rem;
+          text-align: center;
+          margin-bottom: var(--mb-3);
+        }
+        
+        /*========== LAYOUT ==========*/
+        .bd-container{
+          max-width: 968px;
+          width: calc(100% - 3rem);
+          margin-left: var(--mb-3);
+          margin-right: var(--mb-3);
+        }
+        
+        .bd-grid{
+          display: grid;
+          gap: 1.5rem;
+        }
+        
+        .l-header{
+          width: 100%;
+          position: fixed;
+          bottom: 0;
+          left: 0;
+          z-index: var(--z-fixed);
+          background-color: var(--body-color);
+          box-shadow: 0 -1px 4px rgba(0, 0, 0, .1);
+          transition: .3s;
+        }
+        
+        /*========== NAV ==========*/
+        .nav{
+          height: var(--header-height);
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+        }
+        
+        @media screen and (max-width: 968px){
+          .nav__menu{
+            position: fixed; 
+            bottom: -100%;
+            left: 0;
+            width: 100%;
+            padding: 2rem 1.5rem;
+            background-color: var(--body-color);
+            box-shadow: 0 1px 4px rgba(0, 0, 0, .1);
+            border-radius: 1rem 1rem 0 0;
+            z-index: var(--z-fixed);
+            transition: .3s;     
+          }
+        }
+        
+        .nav__logo,
+        .nav__toggle{
+          color: var(--title-color);
+          font-weight: var(--font-medium);  
+        }
+        
+        .nav__toggle{
+          color: var(--title-color);
+          font-weight: var(--font-medium);
+        }
+        
+        .nav__toggle{
+          font-size: 1.2rem;
+          cursor: pointer;
+        }
+        
+        .nav__item{
+          text-align: center;
+        }
+        
+        .nav__list{
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+          gap: 2rem;
+        }
+        
+        .nav__link{
+          display: flex;
+          flex-direction: column; 
+          font-size: var(--smaller-font-size); 
+          color: var(--text-color-light);
+          font-weight: var(--font-medium);
+        }
+        
+        .nav__link:hover{
+          color: var(--title-color);  
+        }
+        
+        .nav__icon{
+          font-size: 1.2rem;
+          margin-bottom: var(--mb-1);
+        }
+        /* Show menu */
+        .show-menu{
+          bottom: var(--header-height);
+        }
+        
+        /* Active menu link */
+        .active-link{
+          color: var(--title-color);
+        }
+        
+        /*========== HOME ==========*/
+        .home{
+          position: relative;
+        }
+        
+        .home__container{
+          gap: 3rem;
+        }
+        .home__data{
+          gap: .5rem;
+          text-align: center;
+        }
+        
+        .home__img{
+          width: 120px;
+          height: 120px;
+          border-radius: 50%;
+          justify-self: center;
+          margin-bottom: var(--mb-1);
+        }
+        
+        .home__title{
+          font-size: var(--h1-font-size);
+        }
+        
+        .home__profession{
+          font-size: var(--normal-font-size);
+          margin-bottom: var(--mb-1);
+        }
+        
+        .home__adress{
+          gap: 1rem;
+        }
+        
+        .home__information{
+          display: flex;
+          align-items: center;
+          font-size: var(--small-font-size);
+        }
+        
+        .home__icon{
+          font-size: 1.2rem;
+          margin-right: .25rem;
+        }
+        
+        .home__button-movil{
+          display: inline-block;
+          border: 2px solid var(--text-color);
+          color: var(--text-color);
+          padding: 1rem 2rem;
+          border-radius: .25rem;
+          transition: .3s;
+          font-weight: var(--font-medium);
+          margin-top: var(--mb-3);
+        }
+        
+        .home__button-movil:hover{
+          background-color: var(--text-color);
+          color: var(--container-color);
+        }
+        /*========== SOCIAL ==========*/
+        .social__container{
+          grid-template-columns: max-content;
+          gap: 1rem;
+        }
+        
+        .social__link{
+          display: inline-flex;
+          align-items: center;
+          font-size: var(--small-font-size);
+          color: var(--text-color);
+        }
+        
+        .social__link:hover{
+          color: var(--title-color);
+        }
+        
+        .social_icon{
+          font-size: 1.2rem;
+          margin-right: .25rem;
+        }
+        
+        /*========== PROFILE ==========*/
+        .profile__description{
+          text-align: center;
+        }
+        
+        /*========== EDUCATION AND EXPERIENCE ==========*/
+        .education__content,
+        .experience__content{
+          display: flex;
+        }
+        
+        .education__time,
+        .experience__time{
+          padding-right: 1rem;
+        }
+        
+        
+        .education__rounder,
+        .experience__rounder{
+          position: relative;
+          display: block;
+          width: 16px;
+          height: 16px;
+          background-color: var(--text-color-light);
+          border-radius: 50%;
+          margin-top: .25rem;
+        }
+        
+        .education__line,
+        .experience__line{
+          display: block;
+          width: 2px;
+          height: 110%;
+          background-color: var(--text-color-light);
+          transform: translate(7px, 0);
+        
+        }
+        
+        .education__data,
+        .experience__data{
+          gap: .5rem;
+        }
+        
+        .education__title,
+        .experience__title{
+          font-size: var(--h3-font-size);
+        }
+        
+        .education__studies,
+        .experience__company{
+          font-size: var(--small-font-size);
+          color: var(--title-color);
+        }
+        
+        .education__year{
+          font-size: var(--smaller-font-size);
+        }
+        
+        /*========== SKILLS AND LANGUAGES ==========*/
+        .skills__content,
+        .languages__content{
+          grid-template-columns: repeat(2, 1fr);
+        }
+        
+        .languages__content{
+          gap: 0;
+        }
+        
+        .skills__content{
+          gap: 0;
+        }
+        
+        .skills__name,
+        .languages__name{
+          display: flex;
+          align-items: center;
+          margin-bottom: var(--mb-3);
+        }
+        
+        .skills__circle,
+        .languages__circle{
+          display: inline-block;
+          width: 5px;
+          height: 5px;
+          background-color: var(--text-color);
+          border-radius: 50%;
+          margin-right: .75rem;
+        }
+        
+        /*========== CERTIFICATES ==========*/
+        .certificate__title{
+          font-size: var(--h3-font-size);
+          margin-bottom: var(--mb-1);
+          font-weight: var(--font-semi-bold);
+        }
+        
+        /*========== REFERENCES ==========*/
+        .references__content{
+          gap: .25rem;
+        }
+        
+        .reference__subtitle{
+          color: var(--text-color-light);
+        }
+        
+        .reference__subtitle,
+        .references__content{
+          font-size: var(--smaller-font-size);
+        }
+        
+        .reference__title{
+          font-size: var(--h3-font-size);
+        }
+        
+        /*========== INTERESTS ==========*/
+          .interests__container{
+            grid-template-columns: repeat(3, 1fr);
+            margin-top: var(--mb-2);
+          }
+        
+          .interests__content{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+          }
+        
+          .interests__icon{
+            font-size: 1.5rem;
+            color: var(--text-color-light);
+            margin-bottom: .25rem;
+          }
+        /* Scroll top */
+          .scrolltop{
+            position: fixed;
+            right: 1rem;
+            bottom: -20%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: .3rem;
+            background-color: var(--container-color-alt);
+            border-radius: .4rem;
+            z-index: var(--z-tooltip);
+            transition: .4s;
+            /*visibility: hidden;*/
+          }
+        
+          .scrolltop__icon{
+            font-size: 1.2rem;
+            color: var(--text-color);
+          }
+        
+          .show-scroll{
+            visibility: visible;
+            bottom: 5rem;
+          } 
+        
+        /*========== MEDIA QUERIES ==========*/
+        /* For small devices, menu two columns */
+        @media screen and (max-width: 320px){
+          .nav__list{
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem .5rem;
+          }
+        }
+        
+        /* Classes modified for large screen size */
+        @media screen and (min-width: 968px){
+          body{
+            margin: 3rem 0;
+          }
+        
+          .bd-container{
+            margin-left: auto;
+            margin-right: auto;
+          }
+        
+          .l-header,
+          .scrolltop{
+            display: none;
+          }
+        
+          .resume{
+            display: grid;
+            grid-template-columns: .5fr 1fr;
+            background-color: var(--container-color);
+            box-shadow: 0 0 8px rgba(13, 12, 12, .15);
+          }
+        
+          .resume__left{
+            background-color: var(--container-color-alt);
+          }
+        
+          .resume__left,
+          .resume__right{
+            padding: 0 1.5rem;
+          }
+        
+          .generate-pdf{
+            display: inline-block;
+          }
+        
+          .section-title,
+          .profile__description{
+            text-align: initial;
+          }
+        
+          .home__container{
+            gap: 1.5rem;
+          }
+        
+          .home__button-movil{
+            display: none;
+          }
+        
+          .references__container{
+            grid-template-columns: repeat(2, 1fr);
+          }
+        
+          .languages__content{
+            grid-template-columns: repeat(3, max-content);
+          } 
+          
+          .interests__container{
+            grid-template-columns: repeat(4, max-content);
+            column-gap: 3.5rem;
+          }
+        }
+        </style>
+    <title>Responsive resume cv</title>
+</head>
+
+<body class="scale-">
+    <!--========== HEADER ==========-->
+    <header class="l-header" id="header">
+        <nav class="nav bd-container">
+            <a href="" class="nav__logo">Marcos</a>
+
+            <div class="nav__menu" id="nav-menu">
+                <ul class="nav__list">
+                    <li class="nav__list">
+                        <a href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html#home"
+                            class="nav__link active-link">
+                            <i class="bx bx-home-smile nav__icon"></i>Home
+                        </a>
+                    </li>
+                    <li class="nav__list">
+                        <a href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html#profile" class="nav__link">
+                            <i class="bx bx-user-circle nav__icon"></i>Perfil
+                        </a>
+                    </li>
+                    <li class="nav__list">
+                        <a href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html#education"
+                            class="nav__link">
+                            <i class="bx bx-book-content nav__icon"></i>Educação
+                        </a>
+                    </li>
+                    <li class="nav__list">
+                        <a href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html#skills" class="nav__link">
+                            <i class="bx bx-extension nav__icon"></i>Habilidades
+                        </a>
+                    </li>
+                    <li class="nav__list">
+                        <a href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html#experience"
+                            class="nav__link active-link">
+                            <i class="bx bx-briefcase-alt-2 nav__icon"></i>Experiência
+                        </a>
+                    </li>
+                    <li class="nav__list">
+                        <a href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html#certificates"
+                            class="nav__link">
+                            <i class="bx bx-bookmarks nav__icon"></i>Certificados
+                        </a>
+                    </li>
+                    <li class="nav__list">
+                        <a href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html#references"
+                            class="nav__link">
+                            <i class="bx bx-paper-plane nav__icon"></i>Referências
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="nav__toggle" id="nav-toggle">
+                <i class="bx bx-grid-alt"></i>
+            </div>
+        </nav>
+    </header>
+
+    <main class="l-main bd-container">
+        <!-- All elements within this div, is generated in PDF -->
+        <div class="resume" id="area-cv">
+            <div class="resume__left">
+                <!--========== HOME ==========-->
+                <section class="home" id="home">
+                    <div class="home__container section bd-grid">
+                        <div class="home__data bd-grid">
+                            <img src="https://media.licdn.com/dms/image/C4D03AQEH3ZhpxhdHBQ/profile-displayphoto-shrink_800_800/0/1635186999747?e=1685577600&v=beta&t=iW-5Gvy9cOTXdSYC8o_M-MLyIjI-RGJJC5qnCX1Atx0" alt="" class="home__img">
+
+                            <h1 class="home__title">Marcos<b>Xavier</b></h1>
+                            <h3 class="home__profession">Analista de ETL</h3>
+                            <div>
+                                <a download=""
+                                    href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/assets/pdf/ResumeCv.pdf"
+                                    class="home__button-movil">Download</a>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="home__adress bd-grid">
+                        <span class="home__information">
+                            <b> </b>Rua Atalaia, 77, São Roque, Queimados-RJ
+                        </span>
+                        <span class="home__information"  >
+                            <b></b><a href=mailto:marcosxavier.web@gmail.com >marcosxavier.web@gmail.com</a>
+                        </span>
+                        <span class="home__information">
+                            <b></b><a href=callto:+55(24)976740951>+55 (24)976740951</a>
+                        </span>
+                    </div>
+                    <!-- Theme change button -->
+                    <i class="bx bx-moon change-theme" title="Theme" id="theme-button"></i>
+
+                    <!-- Button to generate and download the pdf. Available for desktop. -->
+                    <i class="bx bx-download generate-pdf" title="Generate PDF" id="resume-button"></i>
+                </section>
+
+                <!--========== SOCIAL ==========-->
+                <section class="social section">
+                    <h2 class="section-title">SOCIAL</h2>
+
+                    <div class="social__container bd-grid">
+                        <a href="https://www.linkedin.com/in/marcos-s-xavier/" target="_blank"
+                            class="social__link">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+                                <path d="M20.5 2h-17A1.5 1.5 0 002 3.5v17A1.5 1.5 0 003.5 22h17a1.5 1.5 0 001.5-1.5v-17A1.5 1.5 0 0020.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 118.3 6.5a1.78 1.78 0 01-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0013 14.19a.66.66 0 000 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 012.7-1.4c1.55 0 3.36.86 3.36 3.66z"></path>
+                              </svg>
+                            <b>Marcos Xavier</b>
+                        </a>
+
+                    </div>
+                </section>
+
+                <!--========== PROFILE ==========-->
+                <section class="profile section" id="profile">
+                    <h2 class="section-title">Perfil</h2>
+
+                    <p class="profile__description">Profissional autoditata, obeservador, dedicado, comunicativo,
+                        automotivado e em constante aprimoramento.</p>
+                </section>
+
+                <!--========== EDUCATION ==========-->
+                <section class="education section" id="education">
+                    <h2 class="section-title">Educação</h2>
+
+                    <div class="education__container bd-grid">
+
+                        <div class="education__content">
+                            <div class="education__time">
+                                <span class="education__rounder"></span>
+                                <span class="education__line"></span>
+                            </div>
+                            <div class="education__data bd-grid">
+                                <h3 class="education__title">Tecnologia em Sistemas de Computação</h3>
+                                <span class="education__studies">Universidade Federal Fluminense</span>
+                                <span class="education__year">2021-2024</span>
+                            </div>
+                        </div>
+                        <div class="education__content">
+                            <div class="education__time">
+                                <span class="education__rounder"></span>
+                                <!--<span class="education__line"></span>-->
+                            </div>
+                            <div class="education__data bd-grid">
+                                <h3 class="education__title">Bacharelado em Sistemas de Informação</h3>
+                                <span class="education__studies">Ampli</span>
+                                <span class="education__year">2022-2026</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+                <!--========== SKILLS  ==========-->
+                <section class="skills section" id="skills">
+                    <h2 class="section-title">Habilidades</h2>
+
+                    <div class="skills__content bd-grid">
+                        <ul class="skills__data">
+                            <li class="skills__name">
+                                <span class="skills__circle"></span> Python
+                            </li>
+                            <li class="skills__name">
+                                <span class="skills__circle"></span> Spark
+                            </li>
+                            <li class="skills__name">
+                                <span class="skills__circle"></span> Hadoop
+                            </li>
+                            <li class="skills__name">
+                                <span class="skills__circle"></span> Airflow
+                            </li>
+                        </ul>
+                        <ul class="skills__data">
+                            <li class="skills__name">
+                                <span class="skills__circle"></span> Linux
+                            </li>
+                            <li class="skills__name">
+                                <span class="skills__circle"></span> AWS
+                            </li>
+                            <li class="skills__name">
+                                <span class="skills__circle"></span> PowerBI
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+
+            </div>
+
+            <div class="resume__right">
+                <!--========== EXPERIENCE ==========-->
+                <section class="experience section" id="experience">
+                    <h2 class="experience section-title" id="experience">Experiência</h2>
+
+                    <div class="experience__container bd-grid">
+                        <div class="experience__content">
+                            <div class="experience__time">
+                                <span class="experience__rounder"></span>
+                                <span class="experience__line"></span>
+                            </div>
+
+                            <div class="experience__data bd-grid">
+                                <h3 class="experience__title">
+                                    Auxiliar de logística - ACSC - Associação Congregação de Santa Catarina</h3>
+                                <span class="experience__company">jul de 2017 - jun de 2018</span>
+                                <p class="experience__description"> Conferencia de lotes de medicamentos e materiais
+                                    hospitalares diversos; Encaminhar medicamentos e outros materiais para armazenagem;
+                                    Conferir lastro de embalagem; Conferir materiais por subgrupo; Arquivar documentos;
+                                    Enviar documentos fiscais para o setor contábil; Lançar baixa de
+                                    medicamentos/materiais; Atender solicitações reposição de estoque; Etiquetar,
+                                    fracionar, separar medicamentos/materiais por destinatário</p>
+                            </div>
+                        </div>
+
+                        <div class="experience__content">
+                            <div class="experience__time">
+                                <span class="experience__rounder"></span>
+                                <span class="experience__line"></span>
+                            </div>
+
+                            <div class="experience__data bd-grid">
+                                <h3 class="experience__title">Assistente de Operações Acadêmicas - UNIGRANRIO</h3>
+                                <span class="experience__company">mar de 2021 - jun de 2021</span>
+                                <p class="experience__description">Operação e suporte a sistemas de agendamento e provas
+                                    - SGP,
+                                    operação e suporte ao ambiente de Acesso Vitual do Aluno - AVA, implementação de
+                                    novas ferramentas Blackboard, elaboração e gerenciamento de planilhas, cruzamento de
+                                    dados
+                                    através da ferramenta DataStudio dentre outros.</p>
+                            </div>
+                        </div>
+
+
+                        <div class="experience__content">
+                            <div class="experience__time">
+                                <span class="experience__rounder"></span>
+                                <span class="experience__line"></span>
+                            </div>
+
+                            <div class="experience__data bd-grid">
+                                <h3 class="experience__title">
+                                    Front-End Web Developer - Freelancer</h3>
+                                <span class="experience__company">jun de 2021 - set de 2021</span>
+                                <p class="experience__description">Criação websites, landing pages, hotsites, blogs e
+                                    aplicações web otimizadas e responsivas; Manutenção e melhoria constante dessas
+                                    plataformas; Otimizações para garantir usabilidade;
+                                    Desenvolvimento plataformas funcionais em diferentes navegadores e dispositivos;
+                                    Atuação conjunta a desenvolvedores Back-end e Web Designers para garantir os
+                                    melhores visuais e funcionabilidade; Criação mockups e protótipos; </p>
+                            </div>
+                        </div>
+                        <div class="experience__content">
+                            <div class="experience__time">
+                                <span class="experience__rounder"></span>
+                                <span class="experience__line"></span>
+                                <!--<span class="experience__line"></span>-->
+                            </div>
+                            <div class="experience__data bd-grid">
+                                <h3 class="experience__title"> Auxiliar de Projetos em Tecnologia da Informação - EY
+                                </h3>
+                                <span class="experience__company">out de 2021 - jun de 2022</span>
+                                <p class="experience__description">Coleta, transformação, armazenamento e entrega de
+                                    dados, trabalhando na análise e viabilidade para Auditoria Digital;
+                                    Construção e otimização de fluxos ETL;
+                                    Integração, revisão e validação de dados disponibilizados para o time de Auditoria,
+                                    interagindo com equipes multidisciplinares;
+                                    Alteryx como ferramenta de tratamento de dados;
+                                    Uso de metodologias ágeis como Kanban e Scrum.;
+                                    Uso da plataforma Jira; </p>
+                            </div>
+                        </div>
+                        <div class="experience__content">
+                            <div class="experience__time">
+                                <span class="experience__rounder"></span>
+                                <!--<span class="experience__line"></span>-->
+                            </div>
+
+                            <div class="experience__data bd-grid">
+                                <h3 class="experience__title"> Analista de sistemas de dados - UBC </h3>
+                                <span class="experience__company">jun de 2022 - o momento </span>
+                                <p class="experience__description">Criação e manutenção de aplicações em Python para
+                                    extração, transformação e carga de dados (ETL)
+                                    ;Construção, gerenciamento, configuração e coordenação automatizada de pipelines
+                                    (DAG's) integradas ao Apache Airflow
+                                    ;Computação distribuída com Spark e Hadoop
+                                    ;Criação e manutenção de aplicações PySpark/Pandas para processamento de dados.
+                                    ;Automação robótica de processos (RPA) com Python
+                                    ;Troubleshooting no ecossistema de Big Data
+                                    ;Tunning de Queries PL/SQL
+                                    ;Oracle Linux (RHEL)
+                                    ;Debian GNU/Linux
+                                    ;SUSE Linux Enterprise Server (SLES)
+                                    ;Versionamento com GIT
+                                    ;Azure DevOps
+                                    ;Operações de containers - Docker</p>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+                </section>
+
+                <!--========== CERTIFICATES ==========-->
+                <section class="certificate section" id="certificates">
+                    <h2 class="section-title">Certificados </h2>
+                    <a href="https://www.linkedin.com/in/marcos-s-xavier/details/certifications/"> Ver Mais</a>
+                    <p> </p>
+
+                    <div class="certificate__container bd-grid">
+                        <div class="certificate__content">
+                            <h3 class="certificate__title">Cloud Data Engineer #2</h3>
+                            <p class="certificate__description">Conteúdo abordado: Linux, Haddop, MySQL, MongoDB,
+                                Cassanda, Hbase, Yarn, Zookeeper, Sqoop, Hive, Impala, Spark, Azure</p>
+                            <p class="certificate__description">Duração: 91hs</p>
+                        </div>
+                        <div class="certificate__content">
+                            <h3 class="certificate__title">Bootcamp Cloud AWS</h3>
+                            <p class="certificate__description">Conteúdo abordado: </p>
+                            <p class="certificate__description">Duração: 73hs</p>
+                        </div>
+
+                        <div class="certificate__content">
+                            <h3 class="certificate__title">EY Analytics - Data Science</h3>
+                            <p class="certificate__description">Conteúdo abordado: Big data · SQL · Capacidade analítica
+                                · Analítica de dados · Análise de dados · ETL (Extração, transformação e carregamento) ·
+                                Arquitetura e Modelagem de Dados</p>
+                            <p class="certificate__description">Duração: 15hs</p>
+                        </div>
+                        <div class="certificate__content">
+                            <h3 class="certificate__title">Y Analytics - Data Integration</h3>
+                            <p class="certificate__description">Conteúdo abordado: Big data · SQL/NoSQL · Capacidade
+                                analítica ·Linux · Análise de dados · ETL com Spark · Arquitetura e Modelagem de Dados
+                            </p>
+                            <p class="certificate__description">Duração:20hs</p>
+                        </div>
+                    </div>
+                </section>
+
+                <!--========== REFERENCES ==========-->
+                <!--<section class="references section" id="references">
+                        <h2 class="section-title">Referencias</h2>
+
+                        <div class="references__container bd-grid">
+                            <div class="references__content bd-grid">
+                                <span class="references__subtitle">Referência 1</span>
+                                <h3 class="references__title">Nome da Referêcia</h3>
+                                <ul class="references__contact">
+                                    <li>Telefone: </li>
+                                    <li>Email: </li>
+                                </ul>
+                            </div>
+
+                            <div class="references__content bd-grid">
+                                <span class="references__subtitle">Referência 2</span>
+                                <h3 class="references__title">Nome da Referêcia</h3>
+                                <ul class="references__contact">
+                                    <li>Telefone: </li>
+                                    <li>Email: </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>-->
+
+                <!--========== LANGUAGES ==========-->
+                <section class="languages section">
+                    <h2 class="section-title">Línguas</h2>
+
+                    <div class="languages__container">
+                        <ul class="languages__content bd-grid">
+                            <li class="languages__name">
+                                <span class="languages__circle">
+                                    <p></p>
+                                </span> Spanhol
+                            <li class="languages__name">
+                            <li class="languages__name">
+                            <li class="languages__name">
+                                <span class="languages__circle">
+                                    <p></p>
+                                </span>Inglês
+                            <li class="languages__name">
+                            <li class="languages__name">
+                            <li class="languages__name">
+                                <span class="languages__circle">
+                                    <p></p>
+                                </span>Francês
+                            </li>
+                            <!--<li class="languages__name">
+                                    <span class="languages__circle"></span> Portuguese
+                                </li> -->
+                        </ul>
+                    </div>
+                </section>
+
+                <!--========== INTERESTS ==========
+                <section class="interests section">
+                    <h2 class="section-title">Interesses</h2>
+                    <div class="interests__container bd-grid">
+                        <div class="interests__content">
+                            <i class="bx bx-book-content interests__icon"></i>
+                            <span class="interests__name">Música</span>
+                        </div>
+                        <div class="interests__content">
+                            <i class="bx bx-book interests__icon"></i>
+                            <span class="interests__name">Leitura</span>
+                        </div>
+                        <div class="interests__content">
+                            <i class="bx bxl-steam interests__icon"></i>
+                            <span class="interests__name">Games</span>
+                        </div>
+                        <div class="interests__content">
+                            <i class="bx bx-dumbbell interests__icon"></i>
+                            <span class="interests__name">Exercícios</span>
+                        </div>
+                    </div>
+                </section>-->
+            </div>
+        </div>
+    </main>
+
+    <!--========== SCROLL TOP ==========-->
+    <a href="http://127.0.0.1:5500/cv-white-dark-downloadPDF/index.html" class="scrolltop" id="scroll-top">
+        <i class="bx bx-up-arrow-alt scrolltop__icon"></i>
+    </a>
+
+    <!--========== HTML2PDF ==========-->
+    <script src="./index_files/html2pdf.bundle.min.js.baixados"></script>
+
+    <!--========== MAIN JS ==========-->
+    <script src="./index_files/main.js.baixados"></script>
+    <!-- Code injected by live-server -->
+    <script>
+        // <![CDATA[  <-- For SVG support
+        if ('WebSocket' in window) {
+            (function () {
+                function refreshCSS() {
+                    var sheets = [].slice.call(document.getElementsByTagName("link"));
+                    var head = document.getElementsByTagName("head")[0];
+                    for (var i = 0; i < sheets.length; ++i) {
+                        var elem = sheets[i];
+                        var parent = elem.parentElement || head;
+                        parent.removeChild(elem);
+                        var rel = elem.rel;
+                        if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+                            var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+                            elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+                        }
+                        parent.appendChild(elem);
+                    }
+                }
+                var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+                var address = protocol + window.location.host + window.location.pathname + '/ws';
+                var socket = new WebSocket(address);
+                socket.onmessage = function (msg) {
+                    if (msg.data == 'reload') window.location.reload();
+                    else if (msg.data == 'refreshcss') refreshCSS();
+                };
+                if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+                    console.log('Live reload enabled.');
+                    sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+                }
+            })();
+        }
+        else {
+            console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+        }
+	// ]]>
+    </script>
+
+</body>
+
+</html>
